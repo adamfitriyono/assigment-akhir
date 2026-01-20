@@ -1,0 +1,4 @@
+Hipotesis,Chi-square / LR,P-value,Keputusan,Signifikansi
+H1: Sex vs Survival,260.7170,0.000000,Tolak H₀,Ya
+H2: Pclass vs Survival,102.8890,0.000000,Tolak H₀,Ya
+H3: Sex x Pclass Interaction,15.5018,0.000082,Tolak H₀,Ya
