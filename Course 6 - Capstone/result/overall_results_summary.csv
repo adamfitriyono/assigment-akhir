@@ -1,0 +1,7 @@
+System Type,Approach,Primary Metric,Score,Ranking
+Content-Based,User Profile,Coverage (%),17.5,2nd
+Content-Based,Course Similarity,Coverage (%),99.7,1st
+Content-Based,Clustering,Coverage (%),5.4,3rd
+Collaborative Filtering,KNN,MAE,0.3404,2nd
+Collaborative Filtering,NMF,MAE,0.3404,2nd
+Collaborative Filtering,Neural Network,MAE,0.0682,1st

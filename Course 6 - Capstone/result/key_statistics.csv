@@ -1,0 +1,11 @@
+Metric,Value
+Total Courses Analyzed,891
+Total Synthetic Users,200
+User-Course Interactions,"1,995"
+Rating Matrix Sparsity,98.7%
+Average User Rating,4.21/5.0
+Best CF Model MAE,0.0682
+Best Content-Based Coverage,99.7%
+Training Samples (NN),"1,592"
+Test Samples (NN),399
+NN Test MAE,0.0682

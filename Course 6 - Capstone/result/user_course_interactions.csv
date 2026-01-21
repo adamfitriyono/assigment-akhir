@@ -1,0 +1,1996 @@
+user_id,course_id,rating,course_title,organization,difficulty
+0,481,3.966161017778979,Introduction to Corporate Finance,University of Pennsylvania,Mixed
+0,372,4.556702994535432,Gestión de organizaciones efectivas,Pontificia Universidad Católica de Chile,Mixed
+0,863,4.35436000986464,What is Compliance?,University of Pennsylvania,Mixed
+0,555,4.60504364129965,Learn to Program: The Fundamentals,University of Toronto,Beginner
+0,205,3.9906140620295005,Data Warehousing for Business Intelligence,University of Colorado System,Advanced
+1,767,4.625183468019356,Supply Chain Analytics,Rutgers the State University of New Jersey,Beginner
+1,253,4.136469272728415,Electric Industry Operations and Markets,Duke University,Beginner
+1,367,4.218888960885477,Gender and Sexuality: Diversity and Inclusion in the Workplace,University of Pittsburgh,Beginner
+1,255,4.011209332644822,Emerging Technologies: From Smartphones to IoT to Big Data,Yonsei University,Beginner
+1,690,4.202273706037843,Queering Identities: LGBTQ+ Sexuality and Gender Identity,University of Colorado System,Beginner
+1,736,3.89810476089845,Social and Economic Networks:  Models and Analysis,Stanford University,Advanced
+1,295,4.295068328211392,Excel Skills for Business: Intermediate II,Macquarie University,Intermediate
+2,324,4.2562734656860775,Forensic Accounting and Fraud Examination,West Virginia University,Mixed
+2,108,4.168780702688032,Building Your Leadership Skills,HEC Paris,Mixed
+2,517,4.294984717417712,Introduction to Sustainability,University of Illinois at Urbana-Champaign,Mixed
+2,803,4.465707776922318,The Horse Course: Introduction to Basic Care and Management,University of Florida,Mixed
+2,743,4.469198178778563,Soporte de Tecnologías de la Información de Google,Crece con Google,Beginner
+2,651,4.16618161292447,Periodismo digital y combate a las fake news,Universidad Nacional Autónoma de México,Beginner
+2,877,4.58957477160356,Искусство ведения бизнеса,Saint Petersburg State University,Beginner
+3,442,4.424327050222865,Inspirational Leadership: Leading with Sense,HEC Paris,Beginner
+3,643,4.034305085778361,Palliative Care: It's Not Just Hospice Anymore,University of Colorado System,Beginner
+3,741,4.116901458462441,Solar Energy Basics,The State University of New York,Beginner
+3,33,3.9982021664187535,Agile Development,University of Virginia,Beginner
+3,79,4.389057543558783,Basic Statistics,University of Amsterdam,Beginner
+3,206,4.50011957651852,Data and Health Indicators in Public Health Practice,Johns Hopkins University,Beginner
+3,599,4.455367595795552,Medical Cannabis: The Health Effects of THC and CBD,University of Colorado Boulder,Beginner
+3,335,4.675048100066979,From the Big Bang to Dark Energy,The University of Tokyo,Beginner
+3,847,3.966587739787086,User Experience Research and Design,University of Michigan,Beginner
+4,656,4.870956223587031,Positive Psychology,The University of North Carolina at Chapel Hill,Mixed
+4,699,3.760887511806299,Research Data Management and Sharing,The University of Edinburgh,Mixed
+4,278,4.039755686067647,Epigenetic Control of Gene Expression,The University of Melbourne,Mixed
+4,239,4.324187522481243,Dog Emotion and Cognition,Duke University,Mixed
+4,757,4.606294059881592,Strategic Leadership and Management,University of Illinois at Urbana-Champaign,Beginner
+5,721,4.169761500939413,Security in Google Cloud Platform,Google Cloud,Intermediate
+5,295,4.448739858456689,Excel Skills for Business: Intermediate II,Macquarie University,Intermediate
+5,162,4.194987351324894,Convolutional Neural Networks,deeplearning.ai,Intermediate
+5,376,4.47007848096929,Getting Started with Go,"University of California, Irvine",Intermediate
+5,635,4.224619355827459,Object-Oriented Design,University of Alberta,Intermediate
+5,432,4.5022781806134375,Infectious Disease Modelling,Imperial College London,Intermediate
+5,522,4.118663966219006,"Introduction to Trading, Machine Learning & GCP",New York Institute of Finance,Intermediate
+5,749,3.9071871661654067,Stanford Introduction to Food and Health,Stanford University,Beginner
+5,612,4.2947458419655815,Modernizing Data Lakes and Data Warehouses with GCP,Google Cloud,Intermediate
+5,72,4.265962160670654,Atención Primaria en Salud: El desafío de las Enfermedades no Transmisibles,Pontificia Universidad Católica de Chile,Intermediate
+6,354,4.209723394812909,Fundamentals of Visualization with Tableau,"University of California, Davis",Beginner
+6,253,4.51373372787109,Electric Industry Operations and Markets,Duke University,Beginner
+6,379,4.4861187061525545,Getting Started with SAS Programming,SAS,Beginner
+6,740,4.141575933992852,Software Product Management,University of Alberta,Beginner
+6,357,4.553601227258404,Fundamentos de Excel para Negocios,Universidad Austral,Beginner
+7,157,4.417441747563037,Construction Scheduling,Columbia University,Beginner
+7,213,4.2634890063729545,Dentistry 101,University of Michigan,Beginner
+7,12,3.852710445756074,AWS Fundamentals,Amazon Web Services,Beginner
+7,701,4.334029970371974,Responsive Website Development and Design,"Goldsmiths, University of London",Beginner
+7,716,4.247536200207185,School Health for Children and Adolescents,University of Colorado System,Beginner
+7,13,4.215819717375701,AWS Fundamentals: Addressing Security Risk,Amazon Web Services,Beginner
+7,197,3.827142364479757,Data Science Math Skills,Duke University,Beginner
+7,883,3.701824358760181,Основы программирования на Python,National Research University Higher School of Economics,Beginner
+7,139,4.247230145390657,Clinical Terminology for International and U.S. Students,University of Pittsburgh,Beginner
+7,464,4.209573954768734,Interviewing and Resume Writing in English,"University of Maryland, College Park",Intermediate
+8,627,4.379905750841448,Neurolinguistics,Saint Petersburg State University,Mixed
+8,803,4.787956857270937,The Horse Course: Introduction to Basic Care and Management,University of Florida,Mixed
+8,502,4.266012989459016,Introduction to International Criminal Law,Case Western Reserve University,Mixed
+8,628,4.42569796074847,New Approaches to Countering Terror: Countering Violent Extremism,"University of Maryland, College Park",Beginner
+8,42,4.0707702335539935,An Introduction to Consumer Neuroscience & Neuromarketing,Copenhagen Business School,Beginner
+9,815,4.094008102246361,The Science of Well-Being,Yale University,Mixed
+9,114,3.6195954981915985,Business Model Innovation,HEC Paris,Mixed
+9,380,4.031219149896091,Global Diplomacy – Diplomacy in the Modern World,SOAS University of London,Mixed
+9,699,3.906740062813543,Research Data Management and Sharing,The University of Edinburgh,Mixed
+9,808,4.488482644097141,The Power of Macroeconomics: Economic Principles in the Real World,"University of California, Irvine",Mixed
+9,455,4.23373256695466,International Law in Action: the Arbitration of International Disputes,Universiteit Leiden,Mixed
+9,887,4.010878278831733,Психолингвистика (Psycholinguistics),Saint Petersburg State University,Mixed
+9,739,3.8734393638116704,Software Processes and Agile Practices,University of Alberta,Mixed
+9,656,4.826646016135139,Positive Psychology,The University of North Carolina at Chapel Hill,Mixed
+9,74,4.313374105502527,Autodesk CAD/CAM for Manufacturing,Autodesk,Intermediate
+9,839,4.0855486610178176,Understanding Plants - Part I: What a Plant Knows,Tel Aviv University,Beginner
+9,71,4.267212542331607,Astrobiology and the Search for Extraterrestrial Life,The University of Edinburgh,Mixed
+9,138,4.709066746849521,Climate Change and Health: From Science to Action,Yale University,Beginner
+10,794,4.133546157475053,The Bits and Bytes of Computer Networking,Google,Beginner
+10,225,4.882282827181796,Developing Your Musicianship,Berklee College of Music,Beginner
+10,40,4.0710756545986175,American Contract Law I,Yale University,Beginner
+10,785,4.331231120638112,Teamwork Skills: Communicating Effectively in Groups,University of Colorado Boulder,Beginner
+10,500,3.7311980925214465,Introduction to Imagemaking,California Institute of the Arts,Beginner
+10,629,4.157692568581192,Newborn Baby Care,University of Colorado System,Beginner
+10,653,4.75083478496851,Plant Bioinformatic Methods,University of Toronto,Beginner
+10,874,4.314433516716568,¿Qué hacen los buenos directivos? Prioridades de la Alta Dirección,IESE Business School,Beginner
+10,158,4.3108111785565155,Contabilidad para no contadores,Universidad Nacional Autónoma de México,Beginner
+10,263,3.8581556315616434,English for Research Publication Purposes,Moscow Institute of Physics and Technology,Intermediate
+10,168,4.012613532384965,"Corrección, estilo y  variaciones de la lengua española",Universitat Autònoma de Barcelona,Beginner
+10,137,4.866936456467551,Claves de la Dirección de Empresas,IESE Business School,Beginner
+10,206,4.379808673931073,Data and Health Indicators in Public Health Practice,Johns Hopkins University,Beginner
+11,218,4.128085544507129,Design and Make Infographics (Project-Centered Course),Michigan State University,Mixed
+11,217,4.134987766717719,Design and Interpretation of Clinical Trials,Johns Hopkins University,Mixed
+11,869,3.9668340042339323,Write Professional Emails in English,Georgia Institute of Technology,Mixed
+11,21,4.06387254750546,Accounting Analytics,University of Pennsylvania,Mixed
+11,853,3.81294113471016,Version Control with Git,Atlassian,Mixed
+11,675,4.162688033517121,Programming with Google Go,"University of California, Irvine",Intermediate
+11,643,4.461179674051008,Palliative Care: It's Not Just Hospice Anymore,University of Colorado System,Beginner
+11,754,4.501574597885272,Stories of Infection,Stanford University,Intermediate
+12,683,4.466665262264593,Python Classes and Inheritance,University of Michigan,Intermediate
+12,787,3.7172320802392216,TensorFlow in Practice,deeplearning.ai,Intermediate
+12,368,4.077509404803142,Genomic Data Science,Johns Hopkins University,Intermediate
+12,848,4.113239010692499,User Interface Design,University of Minnesota,Intermediate
+12,402,4.263087894144862,Hardware Description Languages for FPGA Design,University of Colorado Boulder,Intermediate
+12,47,4.038130449823813,Anatomy: Musculoskeletal and Integumentary Systems,University of Michigan,Beginner
+12,353,3.777511401450146,Fundamentals of Reinforcement Learning,University of Alberta,Intermediate
+12,828,4.415420548179013,Tricky American English Pronunciation,"University of California, Irvine",Beginner
+13,760,4.1539581054939,Strategic Sales Management,Fundação Instituto de Administração,Intermediate
+13,170,4.141371427876504,Costos para los Negocios,Universidad de Chile,Intermediate
+13,235,4.524351531765973,Discrete Optimization,The University of Melbourne,Intermediate
+13,834,4.710390955799814,Understanding Cancer Metastasis,Johns Hopkins University,Beginner
+13,874,3.6904084140116176,¿Qué hacen los buenos directivos? Prioridades de la Alta Dirección,IESE Business School,Beginner
+14,433,3.771500749623135,Influencer Marketing Strategy,Rutgers the State University of New Jersey,Intermediate
+14,475,4.259929999382992,Introduction to Calculus,The University of Sydney,Intermediate
+14,546,4.829066945874192,Leading: Human Resource Management and Leadership,Macquarie University,Intermediate
+14,110,4.8270088540557525,Business English,Arizona State University,Intermediate
+14,16,3.4015916722123922,AWS Fundamentals: Migrating to the Cloud,Amazon Web Services,Intermediate
+14,491,4.084169271599544,Introduction to Embedded Systems Software and Development Environments,University of Colorado Boulder,Intermediate
+14,94,5.0,Blockchain,University at Buffalo,Intermediate
+14,838,4.103654060349773,Understanding Modern Finance,American Institute of Business and Economics,Intermediate
+14,502,4.325547017684147,Introduction to International Criminal Law,Case Western Reserve University,Mixed
+14,331,4.173806453534895,Foundations of Marketing Analytics,Emory University,Intermediate
+14,57,4.2054278419385,Applied Machine Learning in Python,University of Michigan,Intermediate
+14,225,4.532741143653401,Developing Your Musicianship,Berklee College of Music,Beginner
+15,278,4.357312836690279,Epigenetic Control of Gene Expression,The University of Melbourne,Mixed
+15,384,4.619433268725527,Global Financial Markets and Instruments,Rice University,Mixed
+15,664,4.385015892636865,Preparing to Manage Human Resources,University of Minnesota,Mixed
+15,249,3.9849529416152434,Effective Compliance Programs,University of Pennsylvania,Mixed
+15,590,3.8895507003144965,Mastering Data Analysis in Excel,Duke University,Mixed
+15,815,4.483469190513819,The Science of Well-Being,Yale University,Mixed
+15,371,4.139010945366554,Geopolítica y gobernanza global: riesgos y oportunidades,ESADE Business and Law School,Mixed
+15,587,4.492067651063228,Marketing Verde,Universidad de los Andes,Mixed
+15,493,3.8197004201427416,Introduction to Environmental Law and Policy,The University of North Carolina at Chapel Hill,Mixed
+15,862,4.527170048232837,What future for education?,UCL Institute of Education,Mixed
+15,200,3.6965634889183647,Data Science: Statistics and Machine Learning,Johns Hopkins University,Intermediate
+15,255,3.84451616246489,Emerging Technologies: From Smartphones to IoT to Big Data,Yonsei University,Beginner
+15,408,4.105852568307757,Healthcare Organization Operations,Rutgers the State University of New Jersey,Beginner
+15,837,4.449891878413091,Understanding Medical Research: Your Facebook Friend is Wrong,Yale University,Beginner
+15,577,4.279177219078029,Managing Innovation and Design Thinking,HEC Paris,Beginner
+16,829,4.187202250268287,Troubles du spectre de l'autisme : diagnostic,University of Geneva,Intermediate
+16,107,3.611157220917568,Building Scalable Java Microservices with Spring Boot and Spring Cloud,Google Cloud,Intermediate
+16,723,4.34392490024655,Sequence Models,deeplearning.ai,Intermediate
+16,761,4.295551840212153,Strategising: Management for Global Competitive Advantage,Macquarie University,Intermediate
+16,208,4.464628383305869,Databases and SQL for Data Science,IBM,Beginner
+16,35,4.637915536843442,Agile with Atlassian Jira,Atlassian,Beginner
+16,41,3.8897353207929095,An Introduction to American Law,University of Pennsylvania,Beginner
+17,338,3.6236993037371272,Full Stack Web and Multiplatform Mobile App Development,The Hong Kong University of Science and Technology,Intermediate
+17,616,4.370983413315445,Municipal Solid Waste Management in Developing Countries,École Polytechnique Fédérale de Lausanne,Intermediate
+17,569,3.4617285185170203,Machine Learning for Trading,Google Cloud,Intermediate
+17,884,4.053484598777979,Основы разработки на C++: белый пояс,E-Learning Development Fund,Intermediate
+17,675,4.1981396141301275,Programming with Google Go,"University of California, Irvine",Intermediate
+17,93,4.628121090193242,Blended Language Learning: Design and Practice for Teachers,University of Colorado Boulder,Intermediate
+17,190,4.165329616974315,Data Collection and Processing with Python,University of Michigan,Intermediate
+17,628,4.310450084946592,New Approaches to Countering Terror: Countering Violent Extremism,"University of Maryland, College Park",Beginner
+17,348,4.3119933748755495,Fundamentals of Immunology,Rice University,Intermediate
+17,585,3.7787010518463116,Marketing Mix Implementation,IE Business School,Beginner
+17,841,4.846975746212279,Understanding and Visualizing Data with Python,University of Michigan,Beginner
+18,104,3.9087450509633146,Building Batch Data Pipelines on GCP,Google Cloud,Intermediate
+18,693,4.258989951952241,Recommender Systems,University of Minnesota,Intermediate
+18,163,4.009949487539761,Convolutional Neural Networks in TensorFlow,deeplearning.ai,Intermediate
+18,341,4.1859565895024735,Functional Programming in Scala,École Polytechnique Fédérale de Lausanne,Intermediate
+18,703,4.570909337061567,Revisão Sistemática e Meta-análise,Universidade Estadual de Campinas,Intermediate
+18,611,4.1465590619026855,"Modern Robotics:  Mechanics, Planning, and Control",Northwestern University,Intermediate
+18,84,4.522102051990199,Become a Sustainable Business Change Agent,University of Colorado System,Intermediate
+18,19,3.9037296985571253,Accelerated Computer Science Fundamentals,University of Illinois at Urbana-Champaign,Intermediate
+18,252,3.7740698465766815,Elastic Google Cloud Infrastructure: Scaling and Automation,Google Cloud,Intermediate
+18,830,4.234073821505233,U.S. Federal Taxation,University of Illinois at Urbana-Champaign,Intermediate
+18,376,4.118688947636165,Getting Started with Go,"University of California, Irvine",Intermediate
+18,487,4.11543026413381,Introduction to Data Science in Python,University of Michigan,Intermediate
+18,75,4.3615364048927985,Autodesk CAD/CAM/CAE for Mechanical Engineering,Autodesk,Intermediate
+18,765,4.197481101139186,Successful Negotiation: Essential Strategies and Skills,University of Michigan,Mixed
+18,762,3.6876096661887727,Strategy and Sustainability,IESE Business School,Beginner
+19,570,3.6997216474551267,Machine Learning with Python,IBM,Intermediate
+19,747,4.424975662222813,Sports Marketing,Northwestern University,Intermediate
+19,336,4.669075472714084,Front-End Web Development with React,The Hong Kong University of Science and Technology,Intermediate
+19,164,4.072046851209706,Corporate & Commercial Law I: Contracts & Employment Law,University of Illinois at Urbana-Champaign,Intermediate
+19,545,3.8489839046284686,"Leading for Equity, Diversity and Inclusion in Higher Education",University of Michigan,Intermediate
+19,140,3.7731825991561423,Cloud Computing,University of Illinois at Urbana-Champaign,Intermediate
+19,818,4.137160234005025,The Strategy of Content Marketing,"University of California, Davis",Intermediate
+19,568,3.9884100208275464,Machine Learning for Business Professionals,Google Cloud,Intermediate
+19,520,4.073192492297403,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",deeplearning.ai,Intermediate
+19,807,4.38512300398013,The Oral Cavity: Portal to Health and Disease,University of Pennsylvania,Intermediate
+19,66,4.350242649239781,Art & Activity: Interactive Strategies for Engaging with Art,The Museum of Modern Art,Mixed
+19,854,4.3404756487617835,Viral Marketing and How to Craft Contagious Content,University of Pennsylvania,Mixed
+19,703,4.321454144690915,Revisão Sistemática e Meta-análise,Universidade Estadual de Campinas,Intermediate
+19,32,4.136113138041811,Age of Cathedrals,Yale University,Beginner
+20,409,4.452371946651081,"High Performance Collaboration: Leadership, Teamwork, and Negotiation",Northwestern University,Mixed
+20,622,4.266604137614597,Negociación exitosa: Estrategias y habilidades esenciales (en español),University of Michigan,Mixed
+20,664,3.733474165824555,Preparing to Manage Human Resources,University of Minnesota,Mixed
+20,490,3.9547152032681008,Introduction to Electronics,Georgia Institute of Technology,Mixed
+20,352,4.566081325580238,Fundamentals of Quantitative Modeling,University of Pennsylvania,Mixed
+20,398,4.286120681392981,Gut Check: Exploring Your Microbiome,University of California San Diego,Mixed
+20,474,4.2232433642678835,Introduction to CSS3,University of Michigan,Mixed
+20,183,4.475450564512192,Cybersecurity for Business,University of Colorado System,Beginner
+20,684,4.070965010289315,Python Data Structures,University of Michigan,Mixed
+20,624,4.252395559886098,Networking and Security Architecture with VMware NSX,VMware,Intermediate
+21,652,4.586056137151463,Photography Basics and Beyond: From Smartphone to DSLR,Michigan State University,Beginner
+21,33,4.257527498026656,Agile Development,University of Virginia,Beginner
+21,100,3.9369089126816106,Branding: The Creative Journey,IE Business School,Beginner
+21,125,3.8887192391665337,COVID-19: What You Need to Know (CME Eligible),Osmosis,Beginner
+21,479,3.7310861219924845,Introduction to Computer Programming,"Goldsmiths, University of London",Beginner
+21,743,4.780870537177962,Soporte de Tecnologías de la Información de Google,Crece con Google,Beginner
+21,833,4.353429699817294,UX Design Fundamentals,California Institute of the Arts,Beginner
+21,144,4.17594264310083,Code Yourself! An Introduction to Programming,The University of Edinburgh,Beginner
+21,583,4.7396064461350775,Marketing Digital,Universidad Austral,Beginner
+21,753,4.105636165713665,Statistics with R,Duke University,Beginner
+21,788,3.8075041384207426,TensorFlow: Data and Deployment,deeplearning.ai,Intermediate
+21,541,4.351226884265075,Leadership Development for Engineers,Rice University,Beginner
+21,492,4.355869594796491,Introduction to Engineering Mechanics,Georgia Institute of Technology,Mixed
+21,252,4.053963357758677,Elastic Google Cloud Infrastructure: Scaling and Automation,Google Cloud,Intermediate
+21,182,3.5407003892857674,Cybersecurity and Its Ten Domains,University System of Georgia,Beginner
+22,348,4.664121090520415,Fundamentals of Immunology,Rice University,Intermediate
+22,164,3.9667564251976577,Corporate & Commercial Law I: Contracts & Employment Law,University of Illinois at Urbana-Champaign,Intermediate
+22,878,4.548877277834631,Искусство разработки на современном C++,E-Learning Development Fund,Intermediate
+22,683,4.244255389528254,Python Classes and Inheritance,University of Michigan,Intermediate
+22,464,4.64351844423268,Interviewing and Resume Writing in English,"University of Maryland, College Park",Intermediate
+22,443,4.329570150018522,Inspired Leadership,Case Western Reserve University,Intermediate
+22,353,3.856451941364507,Fundamentals of Reinforcement Learning,University of Alberta,Intermediate
+22,103,4.715780243436758,Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),Hebrew University of Jerusalem,Mixed
+22,150,4.007825748339306,Computational Social Science,"University of California, Davis",Beginner
+22,210,3.993680027605077,Decision-Making and Scenarios,University of Pennsylvania,Mixed
+22,590,3.7887594450599793,Mastering Data Analysis in Excel,Duke University,Mixed
+23,709,4.785966918862827,SAS Programmer,SAS,Beginner
+23,78,4.149407252538254,BIM Fundamentals for Engineers,National Taiwan University,Beginner
+23,845,4.095825692397554,University Teaching,The University of Hong Kong,Beginner
+23,831,3.9797397548692945,UCI Project Management,"University of California, Irvine",Beginner
+23,774,3.5065957274657418,Survey Data Collection and Analytics,"University of Maryland, College Park",Beginner
+23,834,4.4198127599769865,Understanding Cancer Metastasis,Johns Hopkins University,Beginner
+23,859,4.196644479434669,Web Design for Everybody: Basics of Web Development & Coding,University of Michigan,Beginner
+23,47,4.9255857158456555,Anatomy: Musculoskeletal and Integumentary Systems,University of Michigan,Beginner
+23,118,4.205981386550866,Business Technology Management,Indian School of Business,Beginner
+23,826,4.457411223838251,Trading Strategies in Emerging Markets,Indian School of Business,Beginner
+23,778,3.6716224372711364,Systems Biology and Biotechnology,Icahn School of Medicine at Mount Sinai,Intermediate
+24,343,4.040757688506831,Fundamentals of Accounting,University of Illinois at Urbana-Champaign,Beginner
+24,523,4.307280777510092,Introduction to Typography,California Institute of the Arts,Beginner
+24,427,4.372216450235021,"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",deeplearning.ai,Beginner
+24,516,4.4569254152011215,Introduction to Statistics & Data Analysis in Public Health,Imperial College London,Beginner
+24,711,4.322376345328993,SQL for Data Science,"University of California, Davis",Beginner
+24,582,4.398634886630952,Marketing Digital,Universidade de São Paulo,Beginner
+25,330,3.8269926537505845,Foundations of Management,IESE Business School,Beginner
+25,535,4.1396551305586,Java Programming and Software Engineering Fundamentals,Duke University,Beginner
+25,147,4.688858671904841,Compassionate Leadership Through Service Learning with Jane Goodall and Roots & Shoots,University of Colorado Boulder,Beginner
+25,305,4.6966014718425235,"FinTech: Foundations, Payments, and Regulations",University of Pennsylvania,Beginner
+25,168,4.045146224227315,"Corrección, estilo y  variaciones de la lengua española",Universitat Autònoma de Barcelona,Beginner
+25,18,3.9299757772239006,Academic English: Writing,"University of California, Irvine",Beginner
+25,879,4.41390244288265,Корпоративные финансы и стоимость компании,National Research University Higher School of Economics,Beginner
+25,354,3.9638742401033644,Fundamentals of Visualization with Tableau,"University of California, Davis",Beginner
+25,240,4.174428262488558,Driving business towards the Sustainable Development Goals,Erasmus University Rotterdam,Beginner
+25,848,4.020061993653728,User Interface Design,University of Minnesota,Intermediate
+25,422,4.104409820984157,IT Security: Defense against the digital dark arts,Google,Beginner
+25,492,4.462123625144617,Introduction to Engineering Mechanics,Georgia Institute of Technology,Mixed
+26,773,3.918531188856669,Supporting children with difficulties in reading and writing,UCL Institute of Education,Mixed
+26,802,5.0,The Global Financial Crisis,Yale University,Mixed
+26,718,4.717352678742683,Search Engine Optimization Fundamentals,"University of California, Davis",Mixed
+26,172,3.6953427443707376,Creative Problem Solving,University of Minnesota,Mixed
+26,498,4.308702940100523,Introduction to Genomic Technologies,Johns Hopkins University,Mixed
+26,684,4.397045737398523,Python Data Structures,University of Michigan,Mixed
+26,674,4.419852186466359,Programming for Everybody (Getting Started with Python),University of Michigan,Mixed
+26,866,4.18921991230454,Wine Tasting: Sensory Techniques for Wine Analysis,"University of California, Davis",Beginner
+26,31,4.476947285523511,Advertising and Society,Duke University,Mixed
+26,576,3.9092657324713387,Managerial Economics and Business Analysis,University of Illinois at Urbana-Champaign,Beginner
+27,413,3.6270223258293566,How To Create a Website in a Weekend! (Project-Centered Course),The State University of New York,Mixed
+27,452,4.452179668891996,International Cyber Conflicts,The State University of New York,Mixed
+27,472,4.475255515503391,Introduction to Breast Cancer,Yale University,Mixed
+27,854,4.809712731545199,Viral Marketing and How to Craft Contagious Content,University of Pennsylvania,Mixed
+27,704,4.388273881696393,Robotics,University of Pennsylvania,Beginner
+27,366,4.555032426188579,Gamification,University of Pennsylvania,Mixed
+28,848,3.6326308267544705,User Interface Design,University of Minnesota,Intermediate
+28,238,3.609909312748092,"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",Stanford University,Intermediate
+28,451,4.072857726434616,International Business Essentials,University of London,Intermediate
+28,74,4.588041868327798,Autodesk CAD/CAM for Manufacturing,Autodesk,Intermediate
+28,39,4.164017448773338,Algorithms for Battery Management Systems,University of Colorado System,Intermediate
+28,337,4.626497618459382,Front-End Web UI Frameworks and Tools: Bootstrap 4,The Hong Kong University of Science and Technology,Intermediate
+28,45,4.3378963695021255,Anatomy,University of Michigan,Beginner
+28,304,4.091081616081907,FinTech: Finance Industry Transformation and Regulation,The Hong Kong University of Science and Technology,Beginner
+29,373,4.456834552852555,Get Interactive: Practical Teaching with Technology,Bloomsbury Learning Exchange,Beginner
+29,813,4.253661531625764,The Science of Success: What Researchers Know that You Should Know,University of Michigan,Beginner
+29,535,4.19416828145924,Java Programming and Software Engineering Fundamentals,Duke University,Beginner
+29,740,4.440240913014765,Software Product Management,University of Alberta,Beginner
+29,762,3.927192327107274,Strategy and Sustainability,IESE Business School,Beginner
+29,65,4.589008614273145,Arizona State University TESOL,Arizona State University,Beginner
+30,159,4.059963053965611,Content Strategy for Professionals,Northwestern University,Beginner
+30,184,4.206607050023657,Cómo hablar bien en público,Universitat Autònoma de Barcelona,Beginner
+30,257,4.264548936665411,Engineering Health: Introduction to Yoga and Physiology,New York University,Beginner
+30,833,3.4552556294215004,UX Design Fundamentals,California Institute of the Arts,Beginner
+30,868,4.477272593048743,Write A Feature Length Screenplay For Film Or Television,Michigan State University,Beginner
+30,582,4.311100027909115,Marketing Digital,Universidade de São Paulo,Beginner
+30,261,3.9790934853328044,English for Career Development,University of Pennsylvania,Mixed
+30,205,4.311387872277395,Data Warehousing for Business Intelligence,University of Colorado System,Advanced
+30,432,4.742431108872205,Infectious Disease Modelling,Imperial College London,Intermediate
+31,74,4.667138937017965,Autodesk CAD/CAM for Manufacturing,Autodesk,Intermediate
+31,588,4.153255506903777,Marketing con Redes Sociales,Tecnológico de Monterrey,Intermediate
+31,7,4.115401806690834,AI For Medical Treatment,deeplearning.ai,Intermediate
+31,625,4.2805021243400985,Networking in Google Cloud,Google Cloud,Intermediate
+31,487,3.568466531665753,Introduction to Data Science in Python,University of Michigan,Intermediate
+31,686,3.8175096311346373,Python and Statistics for Financial Analysis,The Hong Kong University of Science and Technology,Intermediate
+31,163,3.4679726052254125,Convolutional Neural Networks in TensorFlow,deeplearning.ai,Intermediate
+31,33,4.124204220220458,Agile Development,University of Virginia,Beginner
+31,95,4.0693961790125535,Blockchain Revolution,INSEAD,Beginner
+31,35,4.437321442331434,Agile with Atlassian Jira,Atlassian,Beginner
+32,807,3.8352577510255026,The Oral Cavity: Portal to Health and Disease,University of Pennsylvania,Intermediate
+32,829,4.907690560335982,Troubles du spectre de l'autisme : diagnostic,University of Geneva,Intermediate
+32,848,4.8048631891563955,User Interface Design,University of Minnesota,Intermediate
+32,112,3.6471570774339157,Business English: Networking,University of Washington,Intermediate
+32,760,3.619747059338631,Strategic Sales Management,Fundação Instituto de Administração,Intermediate
+32,433,4.368714498659592,Influencer Marketing Strategy,Rutgers the State University of New Jersey,Intermediate
+32,727,3.994582622703576,Six Sigma Green Belt,University System of Georgia,Intermediate
+32,177,4.735533600474985,Cuidados y procedimientos generales en la atención del recién nacido,Universidad de Chile,Intermediate
+32,831,4.3661704759755455,UCI Project Management,"University of California, Irvine",Beginner
+32,181,3.9537340687156632,Cybersecurity,"University of Maryland, College Park",Intermediate
+32,17,4.513410415566252,Aboriginal Worldviews and Education,University of Toronto,Mixed
+33,442,4.039012527882612,Inspirational Leadership: Leading with Sense,HEC Paris,Beginner
+33,89,4.4386522746352375,Big Data – Introducción al uso práctico de datos masivos,Universitat Autònoma de Barcelona,Beginner
+33,757,4.451336026886976,Strategic Leadership and Management,University of Illinois at Urbana-Champaign,Beginner
+33,233,4.700093654210998,Digital Product Management: Modern Fundamentals,University of Virginia,Beginner
+33,687,5.0,Python for Data Science and AI,IBM,Beginner
+33,717,4.749435906236357,Science of Exercise,University of Colorado Boulder,Beginner
+33,120,4.5977000843723586,Business Writing,University of Colorado Boulder,Beginner
+33,519,3.836251094512495,Introduction to Systems Engineering,UNSW Sydney (The University of New South Wales),Mixed
+33,631,3.9641333215466874,Nutrition and Lifestyle in Pregnancy,Ludwig-Maximilians-Universität München (LMU),Intermediate
+33,208,4.338057055309567,Databases and SQL for Data Science,IBM,Beginner
+34,57,3.63057715562413,Applied Machine Learning in Python,University of Michigan,Intermediate
+34,110,3.8859850219548173,Business English,Arizona State University,Intermediate
+34,111,4.09819341067934,Business English Communication Skills,University of Washington,Intermediate
+34,10,3.6371486231421177,AI for Medical Prognosis,deeplearning.ai,Intermediate
+34,292,4.220572075182443,Excel Skills for Business: Advanced,Macquarie University,Intermediate
+34,308,3.956381920609966,Finance for Non-Financial Managers,Emory University,Intermediate
+34,62,4.232783282365747,Architecting with Google Cloud Platform 日本語版,Google Cloud,Intermediate
+34,631,4.169564735950324,Nutrition and Lifestyle in Pregnancy,Ludwig-Maximilians-Universität München (LMU),Intermediate
+34,703,4.33044569412537,Revisão Sistemática e Meta-análise,Universidade Estadual de Campinas,Intermediate
+34,674,4.508461124401823,Programming for Everybody (Getting Started with Python),University of Michigan,Mixed
+34,588,4.024733481890037,Marketing con Redes Sociales,Tecnológico de Monterrey,Intermediate
+34,258,4.351485854430927,Engineering Project Management: Initiating and Planning,Rice University,Beginner
+35,12,4.395754249804656,AWS Fundamentals,Amazon Web Services,Beginner
+35,86,4.033793016347765,Becoming a changemaker: Introduction to Social Innovation,University of Cape Town,Beginner
+35,65,4.287175304770169,Arizona State University TESOL,Arizona State University,Beginner
+35,271,4.7674470798495285,Entrepreneurship Strategy: From Ideation to Exit,HEC Paris,Beginner
+35,178,3.7369016493764593,Culture-Driven Team Building,University of Pennsylvania,Beginner
+35,471,4.620083883403949,Introduction to Blockchain Technologies,INSEAD,Beginner
+35,41,4.327238917502267,An Introduction to American Law,University of Pennsylvania,Beginner
+35,289,3.92232222469411,"Everyday Excel, Part 1",University of Colorado Boulder,Beginner
+35,757,4.467643808178006,Strategic Leadership and Management,University of Illinois at Urbana-Champaign,Beginner
+35,6,4.1065190616069716,AI For Everyone,deeplearning.ai,Beginner
+35,117,4.2581360147014005,Business Strategy,University of Virginia,Beginner
+35,683,3.678798613997336,Python Classes and Inheritance,University of Michigan,Intermediate
+35,429,4.813601727999184,In the Studio: Postwar Abstract Painting,The Museum of Modern Art,Beginner
+35,166,4.23176980993029,Corporate Strategy,UCL School of Management,Beginner
+35,202,4.135964969009153,Data Visualization with Advanced Excel,PwC,Beginner
+36,148,3.9782912892281628,"Competencias digitales. Herramientas de ofimática (Microsoft Word, Excel, Power Point)",Universitat Autònoma de Barcelona,Beginner
+36,844,3.766658676062867,Unity XR: How to Build AR and VR Apps,Unity,Beginner
+36,769,4.356936710205547,Supply Chain Logistics,Rutgers the State University of New Jersey,Beginner
+36,860,4.044721505714051,Weight Management: Beyond Balancing Calories,Emory University,Beginner
+36,99,4.437659074976319,"Brand Management: Aligning Business, Brand and Behaviour",London Business School,Beginner
+36,113,3.610135610697035,Business Foundations,University of Pennsylvania,Beginner
+36,130,4.5494977036810225,Challenging Forensic Science: How Science Should Speak to Court,University of Lausanne,Beginner
+36,845,4.563610520068413,University Teaching,The University of Hong Kong,Beginner
+36,696,4.686299894741813,Renewable Energy and Green Building Entrepreneurship,Duke University,Beginner
+36,241,4.402132131728406,Drug Commercialization,University of California San Diego,Beginner
+36,386,4.208979404328067,Global Trends for Business and Society,University of Pennsylvania,Mixed
+36,107,3.5657016334073344,Building Scalable Java Microservices with Spring Boot and Spring Cloud,Google Cloud,Intermediate
+36,655,4.076058305476936,Positive Psychiatry and Mental Health,The University of Sydney,Mixed
+37,842,4.38335380517224,Understanding the Brain: The Neurobiology of Everyday Life,The University of Chicago,Beginner
+37,841,4.283254986073119,Understanding and Visualizing Data with Python,University of Michigan,Beginner
+37,95,3.9753027456245364,Blockchain Revolution,INSEAD,Beginner
+37,771,4.325336622106774,Supply Chain Operations,Rutgers the State University of New Jersey,Beginner
+37,731,4.18421231078396,Social Entrepreneurship,Copenhagen Business School,Beginner
+37,212,4.151914990148346,Democracia y decisiones públicas. Introducción al análisis de políticas públicas,Universitat Autònoma de Barcelona,Beginner
+37,878,4.42654935553967,Искусство разработки на современном C++,E-Learning Development Fund,Intermediate
+37,393,4.2425374105878015,Grammar and Punctuation,"University of California, Irvine",Mixed
+38,829,4.067824820116329,Troubles du spectre de l'autisme : diagnostic,University of Geneva,Intermediate
+38,192,3.831527182755368,Data Engineering with Google Cloud,Google Cloud,Intermediate
+38,283,4.519823135827958,Essential Google Cloud Infrastructure: Foundation,Google Cloud,Intermediate
+38,632,3.8020764127517475,Object Oriented Java Programming: Data Structures and Beyond,University of California San Diego,Intermediate
+38,406,4.216892201348731,Healthcare Law,University of Pennsylvania,Intermediate
+38,884,4.432453947147418,Основы разработки на C++: белый пояс,E-Learning Development Fund,Intermediate
+38,234,4.415821105400274,Dino 101: Dinosaur Paleobiology,University of Alberta,Beginner
+38,564,4.486675820209495,Machine Learning,Stanford University,Mixed
+38,469,3.9859505462904083,Introduction to Artificial Intelligence (AI),IBM,Beginner
+39,498,3.9740046291433697,Introduction to Genomic Technologies,Johns Hopkins University,Mixed
+39,114,4.024624154863994,Business Model Innovation,HEC Paris,Mixed
+39,268,4.311769037087257,Entrepreneurship 1: Developing the Opportunity,University of Pennsylvania,Mixed
+39,542,4.387306729520571,Leadership in 21st Century Organizations,Copenhagen Business School,Mixed
+39,403,4.702367964691019,Healing with the Arts,University of Florida,Mixed
+39,31,4.347953007436876,Advertising and Society,Duke University,Mixed
+39,136,4.3290340556306495,Classical Sociological Theory,University of Amsterdam,Mixed
+39,35,4.829364598474223,Agile with Atlassian Jira,Atlassian,Beginner
+39,128,3.7592899906745014,"Capstone: Retrieving, Processing, and Visualizing Data with Python",University of Michigan,Mixed
+39,666,3.959090040389603,Pricing Strategy Optimization,BCG,Beginner
+40,218,4.676045238891063,Design and Make Infographics (Project-Centered Course),Michigan State University,Mixed
+40,517,4.660447171798125,Introduction to Sustainability,University of Illinois at Urbana-Champaign,Mixed
+40,273,4.09591624772217,Epidemics - the Dynamics of Infectious Diseases,The Pennsylvania State University,Mixed
+40,319,3.884792834069445,Finanzas personales,Universidad Nacional Autónoma de México,Mixed
+40,499,4.041413155031114,Introduction to HTML5,University of Michigan,Mixed
+40,413,3.020545371499577,How To Create a Website in a Weekend! (Project-Centered Course),The State University of New York,Mixed
+40,382,3.8270908121964715,Global Energy and Climate Policy,SOAS University of London,Beginner
+40,866,3.742466921192611,Wine Tasting: Sensory Techniques for Wine Analysis,"University of California, Davis",Beginner
+40,722,3.865390566590544,Self-Driving Cars,University of Toronto,Advanced
+41,285,5.0,Essentials of Corporate Finance,The University of Melbourne,Intermediate
+41,797,4.534118369784138,The Changing Global Order,Universiteit Leiden,Intermediate
+41,719,4.221187218255805,Secure Coding Practices,"University of California, Davis",Intermediate
+41,62,3.618648576552283,Architecting with Google Cloud Platform 日本語版,Google Cloud,Intermediate
+41,848,4.229042534290661,User Interface Design,University of Minnesota,Intermediate
+41,738,4.205903139172926,Software Development Lifecycle,University of Minnesota,Intermediate
+41,573,5.0,Making Architecture,IE School of Architecture & Design,Beginner
+41,175,3.4422016477933894,"Creatividad, diseño e innovación: Técnicas y herramientas",Arizona State University,Beginner
+41,149,3.743833715835001,Competitive Strategy and Organization Design,Ludwig-Maximilians-Universität München (LMU),Intermediate
+42,388,4.143236643818677,Good with Words: Writing and Editing,University of Michigan,Beginner
+42,461,3.8760417289747995,International migrations: a global issue,Sciences Po,Beginner
+42,394,3.7489406882652183,Graphic Design Elements for Non-Designers,University of Colorado Boulder,Beginner
+42,597,4.884323573647237,Mathematics for Machine Learning: Multivariate Calculus,Imperial College London,Beginner
+42,582,5.0,Marketing Digital,Universidade de São Paulo,Beginner
+42,330,3.9962805434894633,Foundations of Management,IESE Business School,Beginner
+42,296,3.8092157472636328,Excel to MySQL: Analytic Techniques for Business,Duke University,Beginner
+42,776,4.073724974898067,Swift 5 iOS Application Developer,LearnQuest,Beginner
+42,453,4.204317768183771,International Humanitarian Law in Theory and Practice,Kalshoven-Gieskes Forum,Beginner
+42,314,3.9521749522860103,Financial Markets and Investment Strategy,Indian School of Business,Beginner
+42,729,4.405120010943091,"Sleep: Neurobiology, Medicine, and Society",University of Michigan,Beginner
+42,684,4.98532292274608,Python Data Structures,University of Michigan,Mixed
+42,589,4.638631916298418,Marketing in a Digital World,University of Illinois at Urbana-Champaign,Beginner
+42,828,4.133923269353851,Tricky American English Pronunciation,"University of California, Irvine",Beginner
+42,253,4.536634161840689,Electric Industry Operations and Markets,Duke University,Beginner
+43,761,3.7658864058500825,Strategising: Management for Global Competitive Advantage,Macquarie University,Intermediate
+43,873,3.832653012688836,iOS App Development with Swift,University of Toronto,Intermediate
+43,7,4.4163453425964345,AI For Medical Treatment,deeplearning.ai,Intermediate
+43,192,4.21681620996129,Data Engineering with Google Cloud,Google Cloud,Intermediate
+43,179,4.546187040163621,Curanderismo: Traditional Healing Using Plants,University of New Mexico,Beginner
+43,345,4.184994626035626,Fundamentals of Engineering Exam Review,Georgia Institute of Technology,Mixed
+44,802,3.453384493917244,The Global Financial Crisis,Yale University,Mixed
+44,218,4.401223861051678,Design and Make Infographics (Project-Centered Course),Michigan State University,Mixed
+44,481,4.5759544817280595,Introduction to Corporate Finance,University of Pennsylvania,Mixed
+44,301,4.523404146497912,Fashion as Design,The Museum of Modern Art,Beginner
+44,507,4.181457037615455,Introduction to Philosophy,The University of Edinburgh,Mixed
+45,295,3.9098869585777876,Excel Skills for Business: Intermediate II,Macquarie University,Intermediate
+45,546,4.200743672463732,Leading: Human Resource Management and Leadership,Macquarie University,Intermediate
+45,338,4.097243431568579,Full Stack Web and Multiplatform Mobile App Development,The Hong Kong University of Science and Technology,Intermediate
+45,768,4.84321104924617,Supply Chain Finance and Blockchain Technology,New York Institute of Finance,Intermediate
+45,330,4.184115474235425,Foundations of Management,IESE Business School,Beginner
+45,583,3.543181484332493,Marketing Digital,Universidad Austral,Beginner
+45,715,4.380335993639315,Scaling Operations: Linking Strategy and Execution,Northwestern University,Mixed
+46,143,4.156746513255658,Coaching Skills for Managers,"University of California, Davis",Intermediate
+46,693,3.538330500828546,Recommender Systems,University of Minnesota,Intermediate
+46,843,3.942973567528672,Unity Certified Programmer Exam Preparation,Unity,Intermediate
+46,761,4.873012910680074,Strategising: Management for Global Competitive Advantage,Macquarie University,Intermediate
+46,575,4.763945940109532,Managerial Accounting Fundamentals,University of Virginia,Beginner
+46,816,4.212993931553244,The Singer Songwriter,Berklee College of Music,Beginner
+46,11,4.434092868620159,AI for Medicine,deeplearning.ai,Intermediate
+47,232,4.85247675044708,Digital Product Management,University of Virginia,Beginner
+47,307,4.7070577649811955,Finance for Non-Finance Professionals,Rice University,Beginner
+47,692,4.3724574888776715,"Ready, Set, Future! Introduction to Futures Thinking",Institute for the Future,Beginner
+47,59,3.8710133426100333,Aprende a programar con Python,Universidad Austral,Beginner
+47,555,4.113445091564383,Learn to Program: The Fundamentals,University of Toronto,Beginner
+47,361,4.212859311367043,Futures Thinking,Institute for the Future,Beginner
+47,229,4.184279752675304,Digital Manufacturing & Design Technology,University at Buffalo,Beginner
+47,198,4.185190302095532,Data Science Methodology,IBM,Beginner
+47,144,4.533224979870918,Code Yourself! An Introduction to Programming,The University of Edinburgh,Beginner
+47,696,4.518624879822389,Renewable Energy and Green Building Entrepreneurship,Duke University,Beginner
+47,453,4.476170034063325,International Humanitarian Law in Theory and Practice,Kalshoven-Gieskes Forum,Beginner
+47,520,3.9302561465402137,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",deeplearning.ai,Intermediate
+47,582,4.031575403645459,Marketing Digital,Universidade de São Paulo,Beginner
+47,777,3.963632558914625,System Administration and IT Infrastructure Services,Google,Beginner
+48,88,4.8269654890251,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,University of Michigan,Mixed
+48,604,4.60390539051961,Microeconomics: The Power of Markets,University of Pennsylvania,Mixed
+48,4,4.33214717787162,A Life of Happiness and Fulfillment,Indian School of Business,Mixed
+48,395,4.723632845982647,Greek and Roman Mythology,University of Pennsylvania,Mixed
+48,702,4.133609800835625,Rethinking International Tax Law,Universiteit Leiden,Mixed
+48,319,4.5733808265772335,Finanzas personales,Universidad Nacional Autónoma de México,Mixed
+48,333,3.739622900518817,Foundations of Public Health Practice,Imperial College London,Beginner
+48,849,4.227833865750823,Using Databases with Python,University of Michigan,Mixed
+48,458,4.729264111248817,International Organizations Management,University of Geneva,Beginner
+49,527,4.182539592758977,Introduction to the Biology of Cancer,Johns Hopkins University,Beginner
+49,583,4.07295409737602,Marketing Digital,Universidad Austral,Beginner
+49,420,4.226137318646574,IBM Data Science,IBM,Beginner
+49,86,4.439795943060251,Becoming a changemaker: Introduction to Social Innovation,University of Cape Town,Beginner
+49,705,4.264471315818062,Roman Architecture,Yale University,Beginner
+49,471,4.6145837900803475,Introduction to Blockchain Technologies,INSEAD,Beginner
+49,457,4.210536040721979,International Marketing & Cross Industry Growth,Yonsei University,Beginner
+49,40,4.358499865504627,American Contract Law I,Yale University,Beginner
+49,392,3.9529314416260433,Google IT Support,Google,Beginner
+49,424,4.575398597704845,Implementación del Marketing Mix,IE Business School,Beginner
+49,298,4.342491640725569,"Excel/VBA for Creative Problem Solving, Part 1",University of Colorado Boulder,Beginner
+49,851,4.253486746345906,Using Python to Interact with the Operating System,Google,Beginner
+49,99,4.156161451071198,"Brand Management: Aligning Business, Brand and Behaviour",London Business School,Beginner
+49,673,4.49813872416847,Programming Fundamentals,Duke University,Beginner
+50,101,3.8895727572811554,Budgeting and Scheduling Projects,"University of California, Irvine",Mixed
+50,323,4.095410182801793,Food & Beverage Management,Università Bocconi,Mixed
+50,372,5.0,Gestión de organizaciones efectivas,Pontificia Universidad Católica de Chile,Mixed
+50,231,4.166039886140674,Digital Media and Marketing Strategies,University of Illinois at Urbana-Champaign,Mixed
+50,246,3.992696035922492,Econometrics: Methods and Applications,Erasmus University Rotterdam,Mixed
+50,174,4.810290649901313,Creative Writing: The Craft of Plot,Wesleyan University,Mixed
+50,507,3.8790024565803476,Introduction to Philosophy,The University of Edinburgh,Mixed
+50,382,3.863673444401417,Global Energy and Climate Policy,SOAS University of London,Beginner
+50,522,3.8179862467023375,"Introduction to Trading, Machine Learning & GCP",New York Institute of Finance,Intermediate
+50,392,4.312528404633224,Google IT Support,Google,Beginner
+51,362,4.241102139601431,G Suite Administration,Google Cloud,Beginner
+51,572,4.127406766154956,Magic in the Middle Ages,Universitat de Barcelona,Beginner
+51,243,4.119462845618488,Dynamic Public Speaking,University of Washington,Beginner
+51,70,4.4280842238216716,Aspectos básicos de la planificación y la gestión de proyectos,University of Virginia,Beginner
+51,767,4.242666603609557,Supply Chain Analytics,Rutgers the State University of New Jersey,Beginner
+51,59,3.9389139793923302,Aprende a programar con Python,Universidad Austral,Beginner
+51,759,4.326388419561681,Strategic Management and Innovation,Copenhagen Business School,Beginner
+51,281,4.494012151154536,Essential Epidemiologic Tools for Public Health Practice,Johns Hopkins University,Beginner
+51,410,4.477752491740484,Homeland Security and Cybersecurity,University of Colorado System,Beginner
+51,579,4.500125537544259,Managing Social and Human Capital,University of Pennsylvania,Beginner
+51,52,4.525775947706694,Anticorrupción: Introducción a conceptos y perspectiva práctica,Universidad Nacional Autónoma de México,Beginner
+51,611,4.27316481986378,"Modern Robotics:  Mechanics, Planning, and Control",Northwestern University,Intermediate
+52,761,4.659807508285307,Strategising: Management for Global Competitive Advantage,Macquarie University,Intermediate
+52,402,3.5386101012786293,Hardware Description Languages for FPGA Design,University of Colorado Boulder,Intermediate
+52,695,4.604631485567995,Reinforcement Learning,University of Alberta,Intermediate
+52,671,4.322458329782351,Process Mining: Data science in Action,Eindhoven University of Technology,Intermediate
+52,535,3.9977193539214793,Java Programming and Software Engineering Fundamentals,Duke University,Beginner
+52,283,3.504979904956322,Essential Google Cloud Infrastructure: Foundation,Google Cloud,Intermediate
+52,29,4.416695354888379,Advanced Machine Learning with TensorFlow on Google Cloud Platform,Google Cloud,Advanced
+53,872,4.2971774186149645,e-Learning Ecologies: Innovative Approaches to Teaching and Learning for the Digital Age,University of Illinois at Urbana-Champaign,Mixed
+53,345,4.388174393403381,Fundamentals of Engineering Exam Review,Georgia Institute of Technology,Mixed
+53,395,4.662898921445784,Greek and Roman Mythology,University of Pennsylvania,Mixed
+53,607,4.561162635752134,Model Thinking,University of Michigan,Mixed
+53,590,4.172553936684998,Mastering Data Analysis in Excel,Duke University,Mixed
+53,542,3.7034787741963786,Leadership in 21st Century Organizations,Copenhagen Business School,Mixed
+53,311,3.9946159039177354,Financial Engineering and Risk Management Part I,Columbia University,Mixed
+53,286,4.4554119063313005,Essentials of Global Health,Yale University,Mixed
+53,680,4.792118245945051,Psychological First Aid,Johns Hopkins University,Mixed
+53,664,4.1684896526272714,Preparing to Manage Human Resources,University of Minnesota,Mixed
+53,497,4.909540620619052,Introduction to Genetics and Evolution,Duke University,Mixed
+53,309,4.42591684768995,Financial Accounting Fundamentals,University of Virginia,Beginner
+53,878,4.1965111568694065,Искусство разработки на современном C++,E-Learning Development Fund,Intermediate
+53,714,3.9736422457012015,Sample-based Learning Methods,University of Alberta,Intermediate
+53,868,4.630707197149171,Write A Feature Length Screenplay For Film Or Television,Michigan State University,Beginner
+54,242,3.9479601252014263,Drug Discovery,University of California San Diego,Beginner
+54,527,4.248804249805877,Introduction to the Biology of Cancer,Johns Hopkins University,Beginner
+54,692,3.915615891398176,"Ready, Set, Future! Introduction to Futures Thinking",Institute for the Future,Beginner
+54,471,4.4452765149904145,Introduction to Blockchain Technologies,INSEAD,Beginner
+54,344,4.311027895959948,Fundamentals of Computing,Rice University,Beginner
+54,609,4.548547714495528,Modern Art & Ideas,The Museum of Modern Art,Beginner
+54,752,4.381261511655867,Statistics with Python,University of Michigan,Beginner
+54,44,4.455770995756044,Analysing: Numeric and digital literacies,Macquarie University,Beginner
+54,319,4.6393786280669325,Finanzas personales,Universidad Nacional Autónoma de México,Mixed
+54,117,4.113990726007264,Business Strategy,University of Virginia,Beginner
+54,780,4.4059575795498,"TESOL Certificate, Part 1: Teach English Now!",Arizona State University,Beginner
+55,372,4.3914581007573625,Gestión de organizaciones efectivas,Pontificia Universidad Católica de Chile,Mixed
+55,132,4.517735710986828,Chicken Behaviour and Welfare,The University of Edinburgh,Mixed
+55,680,4.4465416841565535,Psychological First Aid,Johns Hopkins University,Mixed
+55,517,4.580226138102803,Introduction to Sustainability,University of Illinois at Urbana-Champaign,Mixed
+55,261,4.272071064492927,English for Career Development,University of Pennsylvania,Mixed
+55,31,4.176962999945703,Advertising and Society,Duke University,Mixed
+55,615,4.836844266046586,Mountains 101,University of Alberta,Mixed
+55,217,3.559254678248771,Design and Interpretation of Clinical Trials,Johns Hopkins University,Mixed
+55,455,4.4472396902307345,International Law in Action: the Arbitration of International Disputes,Universiteit Leiden,Mixed
+55,692,4.229750902731409,"Ready, Set, Future! Introduction to Futures Thinking",Institute for the Future,Beginner
+55,225,4.525733254096427,Developing Your Musicianship,Berklee College of Music,Beginner
+55,584,3.875827795713337,Marketing Gerencial,Universidad de Chile,Intermediate
+55,617,4.430009268126916,Music Business,Berklee College of Music,Beginner
+56,571,4.2279552596612575,Machine Learning with TensorFlow on Google Cloud Platform,Google Cloud,Intermediate
+56,691,3.434212328983709,R Programming,Johns Hopkins University,Intermediate
+56,284,4.272002903887685,Essentials in Clinical Simulations Across the Health Professions,The George Washington University,Intermediate
+56,568,4.180130204121298,Machine Learning for Business Professionals,Google Cloud,Intermediate
+56,222,4.576867933379176,Developing Applications with Google Cloud Platform 日本語版,Google Cloud,Intermediate
+56,346,4.471313901798057,Fundamentals of GIS,"University of California, Davis",Beginner
+56,746,4.4105655204623435,"Speak English Professionally: In Person, Online & On the Phone",Georgia Institute of Technology,Mixed
+57,157,4.485685983872153,Construction Scheduling,Columbia University,Beginner
+57,233,3.770890031203261,Digital Product Management: Modern Fundamentals,University of Virginia,Beginner
+57,720,3.9394251429032723,Security & Safety Challenges in a Globalized World,Universiteit Leiden,Beginner
+57,851,3.8194624031977016,Using Python to Interact with the Operating System,Google,Beginner
+57,733,4.194812678616655,"Social Norms, Social Change I",University of Pennsylvania,Beginner
+57,766,4.295902264224709,Summary Statistics in Public Health,Johns Hopkins University,Beginner
+57,109,3.7985913372538445,Business Analytics,University of Pennsylvania,Beginner
+57,559,3.991898294495654,Les Fondamentaux de la Négociation,ESSEC Business School,Beginner
+57,346,4.214383564887208,Fundamentals of GIS,"University of California, Davis",Beginner
+57,469,4.4201197529923615,Introduction to Artificial Intelligence (AI),IBM,Beginner
+58,570,4.311678566849896,Machine Learning with Python,IBM,Intermediate
+58,75,3.889312293486826,Autodesk CAD/CAM/CAE for Mechanical Engineering,Autodesk,Intermediate
+58,475,4.812482409024175,Introduction to Calculus,The University of Sydney,Intermediate
+58,714,4.150912952028478,Sample-based Learning Methods,University of Alberta,Intermediate
+58,405,3.7459529262276243,Health Information Literacy for Data Analytics,"University of California, Davis",Intermediate
+58,416,4.019397415868992,IBM AI Engineering,IBM,Intermediate
+58,11,4.310989437207213,AI for Medicine,deeplearning.ai,Intermediate
+58,390,3.7630339829700183,Google Cloud Platform Fundamentals for AWS Professionals,Google Cloud,Intermediate
+58,473,4.058073154828169,Introduction to Business Analytics: Communicating with Data,University of Illinois at Urbana-Champaign,Intermediate
+58,566,3.3111511539128298,Machine Learning and Reinforcement Learning in Finance,New York University,Intermediate
+58,844,3.577812517439998,Unity XR: How to Build AR and VR Apps,Unity,Beginner
+58,874,3.9414809831385824,¿Qué hacen los buenos directivos? Prioridades de la Alta Dirección,IESE Business School,Beginner
+58,490,4.514243586435485,Introduction to Electronics,Georgia Institute of Technology,Mixed
+58,240,4.597992674705072,Driving business towards the Sustainable Development Goals,Erasmus University Rotterdam,Beginner
+58,562,4.503317815551824,Love as a Force for Social Justice,Stanford University,Beginner
+59,719,4.129921789224827,Secure Coding Practices,"University of California, Davis",Intermediate
+59,703,4.254744755552239,Revisão Sistemática e Meta-análise,Universidade Estadual de Campinas,Intermediate
+59,738,4.1919254668793196,Software Development Lifecycle,University of Minnesota,Intermediate
+59,449,3.777510937026733,Interaction Design,University of California San Diego,Intermediate
+59,432,3.7286084565480704,Infectious Disease Modelling,Imperial College London,Intermediate
+59,195,4.467815710771855,Data Mining,University of Illinois at Urbana-Champaign,Intermediate
+59,569,3.145953142894316,Machine Learning for Trading,Google Cloud,Intermediate
+59,538,3.7489071205467503,Kotlin for Java Developers,JetBrains,Intermediate
+59,55,4.594146809822011,Applied Data Science Capstone,IBM,Intermediate
+59,614,4.269096987343556,More Introduction to Financial Accounting,University of Pennsylvania,Mixed
+59,406,4.3328865941840915,Healthcare Law,University of Pennsylvania,Intermediate
+60,565,3.9016614004358487,Machine Learning Foundations: A Case Study Approach,University of Washington,Mixed
+60,887,4.371666136140219,Психолингвистика (Psycholinguistics),Saint Petersburg State University,Mixed
+60,319,4.386685567800419,Finanzas personales,Universidad Nacional Autónoma de México,Mixed
+60,694,3.800435560494435,"Recruiting, Hiring, and Onboarding Employees",University of Minnesota,Mixed
+60,92,4.204119421525968,Biostatistics in Public Health,Johns Hopkins University,Beginner
+60,109,3.9710813337437636,Business Analytics,University of Pennsylvania,Beginner
+60,843,4.1330898248532835,Unity Certified Programmer Exam Preparation,Unity,Intermediate
+61,321,4.311472307560534,Fintech: Foundations & Applications of Financial Technology,University of Pennsylvania,Beginner
+61,422,4.484366658353463,IT Security: Defense against the digital dark arts,Google,Beginner
+61,64,4.239677758019038,Architecting with Google Kubernetes Engine 日本語版,Google Cloud,Beginner
+61,241,3.790902061232792,Drug Commercialization,University of California San Diego,Beginner
+61,98,4.672286612120326,Boosting Creativity for Innovation,HEC Paris,Beginner
+61,645,4.045808581900335,"Parallel, Concurrent, and Distributed Programming in Java",Rice University,Intermediate
+61,524,4.274121570984469,Introduction to User Experience Design,Georgia Institute of Technology,Beginner
+61,251,4.2444788682672545,El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho,Universidad Austral,Beginner
+62,389,3.7229928835280903,Google Cloud Platform Big Data and Machine Learning Fundamentals,Google Cloud,Intermediate
+62,163,3.989387461760476,Convolutional Neural Networks in TensorFlow,deeplearning.ai,Intermediate
+62,624,4.709659978113796,Networking and Security Architecture with VMware NSX,VMware,Intermediate
+62,200,3.926509793371622,Data Science: Statistics and Machine Learning,Johns Hopkins University,Intermediate
+62,189,4.494603648254501,Data Analytics for Lean Six Sigma,University of Amsterdam,Beginner
+62,499,3.85151567986101,Introduction to HTML5,University of Michigan,Mixed
+62,50,4.497998923536788,Animal Behaviour and Welfare,The University of Edinburgh,Mixed
+63,644,4.020677252992302,Palo Alto Networks Cybersecurity,Palo Alto Networks,Beginner
+63,685,3.891826814422722,"Python Functions, Files, and Dictionaries",University of Michigan,Beginner
+63,250,4.568347965824272,Egiptología (Egyptology),Universitat Autònoma de Barcelona,Beginner
+63,530,4.518414818340446,Introdução à Ciência da Computação com Python Parte 1,Universidade de São Paulo,Beginner
+63,136,4.038741132600556,Classical Sociological Theory,University of Amsterdam,Mixed
+63,239,3.872009217105872,Dog Emotion and Cognition,Duke University,Mixed
+63,528,4.511870029167693,Introductory Human Physiology,Duke University,Mixed
+64,834,3.8149409991080176,Understanding Cancer Metastasis,Johns Hopkins University,Beginner
+64,638,3.988465149047794,Operating Systems and You: Becoming a Power User,Google,Beginner
+64,709,3.8505204067475827,SAS Programmer,SAS,Beginner
+64,512,4.2465422114149955,Introduction to Psychology,Yale University,Beginner
+64,354,4.058985957826401,Fundamentals of Visualization with Tableau,"University of California, Davis",Beginner
+64,707,4.549010421898553,Russian for beginners А1. Русский язык: A1,Saint Petersburg State University,Beginner
+64,315,4.090326968507443,Financial Reporting,University of Illinois at Urbana-Champaign,Intermediate
+65,101,4.331374630224014,Budgeting and Scheduling Projects,"University of California, Irvine",Mixed
+65,268,5.0,Entrepreneurship 1: Developing the Opportunity,University of Pennsylvania,Mixed
+65,371,4.217555070878245,Geopolítica y gobernanza global: riesgos y oportunidades,ESADE Business and Law School,Mixed
+65,518,4.3072585905311715,Introduction to Systematic Review and Meta-Analysis,Johns Hopkins University,Mixed
+65,869,4.4110127005613355,Write Professional Emails in English,Georgia Institute of Technology,Mixed
+65,840,4.3661626052169105,Understanding Research Methods,SOAS University of London,Mixed
+65,454,4.65140111193458,International Law in Action: A Guide to the International Courts and Tribunals in The Hague,Universiteit Leiden,Mixed
+65,248,4.39008581760986,Ecosystem Services: a Method for Sustainable Development,University of Geneva,Intermediate
+65,272,4.087391237420826,Entrepreneurship: Launching an Innovative Business,"University of Maryland, College Park",Beginner
+65,34,4.433850870971569,Agile Meets Design Thinking,University of Virginia,Beginner
+66,2,4.110908109740159,A Crash Course in Data Science,Johns Hopkins University,Mixed
+66,699,4.347284197154211,Research Data Management and Sharing,The University of Edinburgh,Mixed
+66,409,4.194173379007613,"High Performance Collaboration: Leadership, Teamwork, and Negotiation",Northwestern University,Mixed
+66,517,3.979058308269885,Introduction to Sustainability,University of Illinois at Urbana-Champaign,Mixed
+66,387,3.8638160396705254,"Globalization, Economic Growth and Stability",IE Business School,Intermediate
+66,33,4.5547400568299565,Agile Development,University of Virginia,Beginner
+66,592,3.625508024327705,Mastering Software Development in R,Johns Hopkins University,Beginner
+67,649,4.204691157008496,People Analytics,University of Pennsylvania,Mixed
+67,456,4.153769136232501,International Leadership and Organizational Behavior,Università Bocconi,Mixed
+67,108,4.49693443104647,Building Your Leadership Skills,HEC Paris,Mixed
+67,474,4.084534440042786,Introduction to CSS3,University of Michigan,Mixed
+67,490,4.225886595225259,Introduction to Electronics,Georgia Institute of Technology,Mixed
+67,386,4.091332920507657,Global Trends for Business and Society,University of Pennsylvania,Mixed
+67,766,4.754540332514082,Summary Statistics in Public Health,Johns Hopkins University,Beginner
+67,351,3.9762126498426227,Fundamentals of Project Planning and Management,University of Virginia,Beginner
+67,16,4.556505953132787,AWS Fundamentals: Migrating to the Cloud,Amazon Web Services,Intermediate
+68,50,4.168148362860229,Animal Behaviour and Welfare,The University of Edinburgh,Mixed
+68,587,4.1960122554757024,Marketing Verde,Universidad de los Andes,Mixed
+68,668,4.091766085947399,Private Equity and Venture Capital,Università Bocconi,Mixed
+68,210,4.242479005276769,Decision-Making and Scenarios,University of Pennsylvania,Mixed
+68,341,4.420561289369505,Functional Programming in Scala,École Polytechnique Fédérale de Lausanne,Intermediate
+68,48,4.711180766935174,Ancient Philosophy: Aristotle and His Successors,University of Pennsylvania,Mixed
+68,874,4.2323434771257284,¿Qué hacen los buenos directivos? Prioridades de la Alta Dirección,IESE Business School,Beginner
+69,507,4.239801424737072,Introduction to Philosophy,The University of Edinburgh,Mixed
+69,132,3.779778635484367,Chicken Behaviour and Welfare,The University of Edinburgh,Mixed
+69,802,4.388108915935048,The Global Financial Crisis,Yale University,Mixed
+69,262,4.49345196879397,English for Journalism,University of Pennsylvania,Mixed
+69,143,4.070353133190617,Coaching Skills for Managers,"University of California, Davis",Intermediate
+69,451,4.433706217821467,International Business Essentials,University of London,Intermediate
+69,879,3.9634437791930255,Корпоративные финансы и стоимость компании,National Research University Higher School of Economics,Beginner
+70,754,4.022476892469216,Stories of Infection,Stanford University,Intermediate
+70,349,4.1990990251712725,Fundamentals of Immunology: Innate Immunity and B-Cell Function,Rice University,Intermediate
+70,37,4.305105489890141,Algorithmic Toolbox,University of California San Diego,Intermediate
+70,650,4.478392022894122,Perfect Tenses and Modals,"University of California, Irvine",Intermediate
+70,107,3.7584755627108537,Building Scalable Java Microservices with Spring Boot and Spring Cloud,Google Cloud,Intermediate
+70,399,4.150021432729164,"HTML, CSS, and Javascript for Web Developers",Johns Hopkins University,Mixed
+70,320,4.454186648306726,Finding Purpose and Meaning In Life: Living for What Matters Most,University of Michigan,Beginner
+70,233,4.444594887407045,Digital Product Management: Modern Fundamentals,University of Virginia,Beginner
+71,843,3.837069374410437,Unity Certified Programmer Exam Preparation,Unity,Intermediate
+71,402,3.613872402495041,Hardware Description Languages for FPGA Design,University of Colorado Boulder,Intermediate
+71,193,4.0382518112018815,"Data Engineering, Big Data, and Machine Learning on GCP",Google Cloud,Intermediate
+71,714,4.442378179989587,Sample-based Learning Methods,University of Alberta,Intermediate
+71,111,4.633958972415371,Business English Communication Skills,University of Washington,Intermediate
+71,778,3.607074047458252,Systems Biology and Biotechnology,Icahn School of Medicine at Mount Sinai,Intermediate
+71,451,3.7419594416286945,International Business Essentials,University of London,Intermediate
+71,787,4.495872687245745,TensorFlow in Practice,deeplearning.ai,Intermediate
+71,57,4.613649199200563,Applied Machine Learning in Python,University of Michigan,Intermediate
+71,465,3.803155014249773,Introducción a Data Science: Programación Estadística con R,Universidad Nacional Autónoma de México,Beginner
+71,132,4.275088553445688,Chicken Behaviour and Welfare,The University of Edinburgh,Mixed
+71,48,4.475733008255906,Ancient Philosophy: Aristotle and His Successors,University of Pennsylvania,Mixed
+71,65,4.374437373210137,Arizona State University TESOL,Arizona State University,Beginner
+72,118,3.5482326893060243,Business Technology Management,Indian School of Business,Beginner
+72,582,4.259150222203681,Marketing Digital,Universidade de São Paulo,Beginner
+72,431,4.161951399676329,Industrial IoT on Google Cloud Platform,Google Cloud,Beginner
+72,623,4.626023176181392,"Negotiation, Mediation and Conflict Resolution",ESSEC Business School,Beginner
+72,169,4.923281245075018,Cost and Economics in Pricing Strategy,University of Virginia,Beginner
+72,806,4.201371515179105,"The Modern World, Part Two: Global History since 1910",University of Virginia,Beginner
+72,421,4.023734038525479,IT Fundamentals for Cybersecurity,IBM,Beginner
+72,351,4.366270391553771,Fundamentals of Project Planning and Management,University of Virginia,Beginner
+72,15,3.8655067309510187,AWS Fundamentals: Going Cloud-Native,Amazon Web Services,Beginner
+72,206,3.586736530123674,Data and Health Indicators in Public Health Practice,Johns Hopkins University,Beginner
+72,255,3.7396372604103334,Emerging Technologies: From Smartphones to IoT to Big Data,Yonsei University,Beginner
+73,318,4.49858742430227,Finanzas corporativas,Universidad Nacional Autónoma de México,Intermediate
+73,695,3.7369158039416175,Reinforcement Learning,University of Alberta,Intermediate
+73,788,4.355430939977236,TensorFlow: Data and Deployment,deeplearning.ai,Intermediate
+73,412,4.266408481078277,How Things Work: An Introduction to Physics,University of Virginia,Intermediate
+73,858,3.75603233020834,Web Applications for Everybody,University of Michigan,Intermediate
+73,518,4.016117316044799,Introduction to Systematic Review and Meta-Analysis,Johns Hopkins University,Mixed
+73,740,3.9958179202538266,Software Product Management,University of Alberta,Beginner
+73,16,3.7375236300225723,AWS Fundamentals: Migrating to the Cloud,Amazon Web Services,Intermediate
+74,31,4.889097837000783,Advertising and Society,Duke University,Mixed
+74,262,4.320546433703435,English for Journalism,University of Pennsylvania,Mixed
+74,808,3.8778009797152646,The Power of Macroeconomics: Economic Principles in the Real World,"University of California, Irvine",Mixed
+74,386,4.135401813295819,Global Trends for Business and Society,University of Pennsylvania,Mixed
+74,811,4.163813135556966,The Science of Gastronomy,The Hong Kong University of Science and Technology,Mixed
+74,646,3.842064141323921,Particle Physics: an Introduction,University of Geneva,Mixed
+74,739,4.121771481201348,Software Processes and Agile Practices,University of Alberta,Mixed
+74,801,4.139540248593278,The Economics of Health Care Delivery,University of Pennsylvania,Mixed
+74,578,4.4020528604972595,Managing Project Risks and Changes,"University of California, Irvine",Mixed
+74,413,3.5651559413199903,How To Create a Website in a Weekend! (Project-Centered Course),The State University of New York,Mixed
+74,351,4.191702971665215,Fundamentals of Project Planning and Management,University of Virginia,Beginner
+74,871,4.1419906724001265,Writing in the Sciences,Stanford University,Beginner
+74,807,4.388654478471189,The Oral Cavity: Portal to Health and Disease,University of Pennsylvania,Intermediate
+74,105,3.757807989846594,Building Conversational Experiences with Dialogflow,Google Cloud,Beginner
+74,138,5.0,Climate Change and Health: From Science to Action,Yale University,Beginner
+75,636,4.646587297473181,Oil & Gas Industry Operations and Markets,Duke University,Mixed
+75,587,3.9231448379788745,Marketing Verde,Universidad de los Andes,Mixed
+75,413,3.1433841415415458,How To Create a Website in a Weekend! (Project-Centered Course),The State University of New York,Mixed
+75,505,3.451706833456134,Introduction to Operations Management,University of Pennsylvania,Mixed
+75,684,4.35368866394877,Python Data Structures,University of Michigan,Mixed
+75,512,4.787001735800411,Introduction to Psychology,Yale University,Beginner
+75,347,4.308484402891037,Fundamentals of Graphic Design,California Institute of the Arts,Beginner
+75,533,3.9011364456183233,Investment and Portfolio Management,Rice University,Beginner
+76,778,3.550718751842552,Systems Biology and Biotechnology,Icahn School of Medicine at Mount Sinai,Intermediate
+76,693,3.6103997382730544,Recommender Systems,University of Minnesota,Intermediate
+76,882,3.4422089337711337,Основы Digital Маркетинга,National Research University Higher School of Economics,Intermediate
+76,107,4.0488449609758295,Building Scalable Java Microservices with Spring Boot and Spring Cloud,Google Cloud,Intermediate
+76,464,3.5321211460562036,Interviewing and Resume Writing in English,"University of Maryland, College Park",Intermediate
+76,284,3.909479628044964,Essentials in Clinical Simulations Across the Health Professions,The George Washington University,Intermediate
+76,830,4.337276782250248,U.S. Federal Taxation,University of Illinois at Urbana-Champaign,Intermediate
+76,38,4.1220752720787575,Algorithms,Stanford University,Intermediate
+76,626,4.557185806578306,Neural Networks and Deep Learning,deeplearning.ai,Intermediate
+76,9,4.709704105607439,AI for Medical Diagnosis,deeplearning.ai,Intermediate
+76,1,4.153198160887368,A Crash Course in Causality:  Inferring Causal Effects from Observational Data,University of Pennsylvania,Intermediate
+76,374,3.86761807799587,Getting Started With Music Theory,Michigan State University,Beginner
+76,5,4.7605248735453465,ADHD: Everyday Strategies for Elementary Students,University at Buffalo,Beginner
+76,495,4.615054559208922,Introduction to Forensic Science,"Nanyang Technological University, Singapore",Mixed
+77,463,4.597156766345366,Internet Giants: The Law and Economics of Media Platforms,The University of Chicago,Mixed
+77,494,4.772074062349901,Introduction to Financial Accounting,University of Pennsylvania,Mixed
+77,739,4.7186226596880205,Software Processes and Agile Practices,University of Alberta,Mixed
+77,269,4.003566553397231,Entrepreneurship 2: Launching your Start-Up,University of Pennsylvania,Mixed
+77,622,3.841158605014693,Negociación exitosa: Estrategias y habilidades esenciales (en español),University of Michigan,Mixed
+77,67,3.704143238608839,Art & Ideas: Teaching with Themes,The Museum of Modern Art,Mixed
+77,413,2.678113366847464,How To Create a Website in a Weekend! (Project-Centered Course),The State University of New York,Mixed
+77,620,4.1532805017147,Nanotechnology: A Maker’s Course,Duke University,Mixed
+77,156,4.440690865032325,Construction Project Management,Columbia University,Beginner
+77,548,3.745457038131747,Learn English,Tsinghua University,Beginner
+77,813,4.583505292066553,The Science of Success: What Researchers Know that You Should Know,University of Michigan,Beginner
+77,578,4.408017605799157,Managing Project Risks and Changes,"University of California, Irvine",Mixed
+78,449,4.153886111564824,Interaction Design,University of California San Diego,Intermediate
+78,675,4.105885696215511,Programming with Google Go,"University of California, Irvine",Intermediate
+78,433,3.7162327344571,Influencer Marketing Strategy,Rutgers the State University of New Jersey,Intermediate
+78,183,3.817761156157412,Cybersecurity for Business,University of Colorado System,Beginner
+78,814,4.749479210236691,The Science of Training Young Athletes,University of Florida,Beginner
+79,277,3.8891831992937425,Epidemiology: The Basic Science of Public Health,The University of North Carolina at Chapel Hill,Mixed
+79,269,4.204158701242441,Entrepreneurship 2: Launching your Start-Up,University of Pennsylvania,Mixed
+79,782,3.996985260321077,Teach English Now! Foundational Principles,Arizona State University,Mixed
+79,827,4.185691676585321,"Transmedia Storytelling: Narrative worlds, emerging technologies, and global audiences",UNSW Sydney (The University of New South Wales),Mixed
+79,604,4.0987600118509855,Microeconomics: The Power of Markets,University of Pennsylvania,Mixed
+79,165,4.081238512195683,Corporate Finance Essentials,IESE Business School,Mixed
+79,499,4.055361180875726,Introduction to HTML5,University of Michigan,Mixed
+79,230,4.053152974592711,Digital Marketing,University of Illinois at Urbana-Champaign,Beginner
+79,313,3.802287604518132,Financial Markets,Yale University,Beginner
+79,508,4.554566124738937,Introduction to Portfolio Construction and Analysis with Python,EDHEC Business School,Mixed
+79,207,4.266622664781443,Data-driven Decision Making,PwC,Beginner
+80,574,4.100151840036819,Management of Fashion and Luxury Companies,Università Bocconi,Mixed
+80,386,4.028395739157232,Global Trends for Business and Society,University of Pennsylvania,Mixed
+80,646,4.053408034341823,Particle Physics: an Introduction,University of Geneva,Mixed
+80,136,4.246091042650007,Classical Sociological Theory,University of Amsterdam,Mixed
+80,700,3.887126233698172,"Resilience in Children Exposed to Trauma, Disaster and War: Global Perspectives",University of Minnesota,Mixed
+80,273,4.114826449379916,Epidemics - the Dynamics of Infectious Diseases,The Pennsylvania State University,Mixed
+80,345,4.230286980504151,Fundamentals of Engineering Exam Review,Georgia Institute of Technology,Mixed
+80,366,4.46032282418035,Gamification,University of Pennsylvania,Mixed
+80,507,4.043110287596525,Introduction to Philosophy,The University of Edinburgh,Mixed
+80,613,4.529273112047098,Moral Foundations of Politics,Yale University,Mixed
+80,206,4.519015477676168,Data and Health Indicators in Public Health Practice,Johns Hopkins University,Beginner
+80,94,4.134364646235427,Blockchain,University at Buffalo,Intermediate
+80,858,4.964104574724552,Web Applications for Everybody,University of Michigan,Intermediate
+80,432,4.786199278835911,Infectious Disease Modelling,Imperial College London,Intermediate
+80,639,4.2767615637855245,Operations Analytics,University of Pennsylvania,Mixed
+81,867,4.2450658734616455,Wonders of Ancient Egypt,University of Pennsylvania,Intermediate
+81,650,4.194009432757604,Perfect Tenses and Modals,"University of California, Irvine",Intermediate
+81,787,4.617041066198725,TensorFlow in Practice,deeplearning.ai,Intermediate
+81,164,4.448915727365142,Corporate & Commercial Law I: Contracts & Employment Law,University of Illinois at Urbana-Champaign,Intermediate
+81,353,4.618394059470061,Fundamentals of Reinforcement Learning,University of Alberta,Intermediate
+81,683,4.160073638836147,Python Classes and Inheritance,University of Michigan,Intermediate
+81,37,4.5202918635703595,Algorithmic Toolbox,University of California San Diego,Intermediate
+81,615,3.8323453781891796,Mountains 101,University of Alberta,Mixed
+81,400,3.846422280484057,Habilidades Gerenciales,Universidad Nacional Autónoma de México,Beginner
+81,140,4.262989186517298,Cloud Computing,University of Illinois at Urbana-Champaign,Intermediate
+82,849,4.794610221312396,Using Databases with Python,University of Michigan,Mixed
+82,758,4.165052440449092,Strategic Management,Copenhagen Business School,Mixed
+82,217,4.387746522942372,Design and Interpretation of Clinical Trials,Johns Hopkins University,Mixed
+82,31,4.642983103501217,Advertising and Society,Duke University,Mixed
+82,553,4.311491597730543,Learn SQL Basics for Data Science,"University of California, Davis",Beginner
+82,457,4.368505853156635,International Marketing & Cross Industry Growth,Yonsei University,Beginner
+82,647,3.830847876766227,Patient Safety,Johns Hopkins University,Beginner
+83,194,4.300346734145959,Data Management for Clinical Research,Vanderbilt University,Beginner
+83,207,4.0583913915712255,Data-driven Decision Making,PwC,Beginner
+83,421,3.9818676174658876,IT Fundamentals for Cybersecurity,IBM,Beginner
+83,137,4.3166397192603485,Claves de la Dirección de Empresas,IESE Business School,Beginner
+83,733,4.191053224105371,"Social Norms, Social Change I",University of Pennsylvania,Beginner
+83,544,3.937563135651664,Leading People and Teams,University of Michigan,Beginner
+83,1,4.426160288574295,A Crash Course in Causality:  Inferring Causal Effects from Observational Data,University of Pennsylvania,Intermediate
+83,432,4.573670021357482,Infectious Disease Modelling,Imperial College London,Intermediate
+83,427,4.213907661461234,"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",deeplearning.ai,Beginner
+84,371,3.9591804251608287,Geopolítica y gobernanza global: riesgos y oportunidades,ESADE Business and Law School,Mixed
+84,498,3.7446677048103303,Introduction to Genomic Technologies,Johns Hopkins University,Mixed
+84,495,4.458702333441456,Introduction to Forensic Science,"Nanyang Technological University, Singapore",Mixed
+84,269,4.724720287980055,Entrepreneurship 2: Launching your Start-Up,University of Pennsylvania,Mixed
+84,549,3.5290191726819664,Learn English: Advanced Academic Speaking and Listening,"University of California, Irvine",Intermediate
+84,756,4.360295816151056,Strategic Business Management - Microeconomics,"University of California, Irvine",Beginner
+85,3,4.279820600154759,A Law Student's Toolkit,Yale University,Mixed
+85,445,3.5599410290213935,Instructional Design Foundations and Applications,University of Illinois at Urbana-Champaign,Mixed
+85,887,4.475425866898003,Психолингвистика (Psycholinguistics),Saint Petersburg State University,Mixed
+85,136,4.540759460841796,Classical Sociological Theory,University of Amsterdam,Mixed
+85,239,4.357682141022156,Dog Emotion and Cognition,Duke University,Mixed
+85,565,4.42054024919743,Machine Learning Foundations: A Case Study Approach,University of Washington,Mixed
+85,667,4.14949300956305,Primeros Auxilios Psicológicos (PAP),Universitat Autònoma de Barcelona,Mixed
+85,455,4.238790424742378,International Law in Action: the Arbitration of International Disputes,Universiteit Leiden,Mixed
+85,815,4.483979974661424,The Science of Well-Being,Yale University,Mixed
+85,790,4.012515534614221,The Addicted Brain,Emory University,Beginner
+85,828,3.8824515091501657,Tricky American English Pronunciation,"University of California, Irvine",Beginner
+85,51,3.899292057019597,Antibiotic Stewardship,Stanford University,Advanced
+85,371,4.810407274990835,Geopolítica y gobernanza global: riesgos y oportunidades,ESADE Business and Law School,Mixed
+86,315,4.097051345574675,Financial Reporting,University of Illinois at Urbana-Champaign,Intermediate
+86,760,4.462574587630979,Strategic Sales Management,Fundação Instituto de Administração,Intermediate
+86,625,3.5772753344694617,Networking in Google Cloud,Google Cloud,Intermediate
+86,340,4.061406833006667,Functional Programming Principles in Scala,École Polytechnique Fédérale de Lausanne,Intermediate
+86,195,4.064806341409758,Data Mining,University of Illinois at Urbana-Champaign,Intermediate
+86,617,4.322436535244966,Music Business,Berklee College of Music,Beginner
+86,694,4.595353014702095,"Recruiting, Hiring, and Onboarding Employees",University of Minnesota,Mixed
+86,644,3.837274142412938,Palo Alto Networks Cybersecurity,Palo Alto Networks,Beginner
+87,477,4.357773141336441,Introduction to Classical Music,Yale University,Mixed
+87,88,4.138459767379407,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,University of Michigan,Mixed
+87,869,4.185292839676061,Write Professional Emails in English,Georgia Institute of Technology,Mixed
+87,809,4.502228969493576,The Power of Microeconomics: Economic Principles in the Real World,"University of California, Irvine",Mixed
+87,278,4.1644637886667155,Epigenetic Control of Gene Expression,The University of Melbourne,Mixed
+87,174,4.097855500277789,Creative Writing: The Craft of Plot,Wesleyan University,Mixed
+87,590,3.9162217127599948,Mastering Data Analysis in Excel,Duke University,Mixed
+87,82,4.463554984169498,Become a CBRS Certified Professional Installer by Google,Google - Spectrum Sharing,Mixed
+87,604,5.0,Microeconomics: The Power of Markets,University of Pennsylvania,Mixed
+87,260,4.620800850599567,English for Business and Entrepreneurship,University of Pennsylvania,Beginner
+87,207,3.4221778251557393,Data-driven Decision Making,PwC,Beginner
+87,669,4.314209737233407,Probabilistic Graphical Models 1: Representation,Stanford University,Advanced
+87,230,3.586920668852557,Digital Marketing,University of Illinois at Urbana-Champaign,Beginner
+88,10,4.195960218180112,AI for Medical Prognosis,deeplearning.ai,Intermediate
+88,721,4.105250310057932,Security in Google Cloud Platform,Google Cloud,Intermediate
+88,318,4.733420402432916,Finanzas corporativas,Universidad Nacional Autónoma de México,Intermediate
+88,339,4.347141065328091,Full-Stack Web Development with React,The Hong Kong University of Science and Technology,Intermediate
+88,504,4.051650683478768,Introduction to Mathematical Thinking,Stanford University,Intermediate
+88,294,4.548017776753903,Excel Skills for Business: Intermediate I,Macquarie University,Intermediate
+88,376,4.643236156644866,Getting Started with Go,"University of California, Irvine",Intermediate
+88,336,4.230705728179669,Front-End Web Development with React,The Hong Kong University of Science and Technology,Intermediate
+88,660,4.382870883818575,Power Electronics,University of Colorado Boulder,Intermediate
+88,616,4.230080816968444,Municipal Solid Waste Management in Developing Countries,École Polytechnique Fédérale de Lausanne,Intermediate
+88,100,4.245592341237755,Branding: The Creative Journey,IE Business School,Beginner
+88,828,3.936662927769287,Tricky American English Pronunciation,"University of California, Irvine",Beginner
+88,783,3.721343211507861,Teach English Now! Teaching Language Online,Arizona State University,Intermediate
+88,64,3.9472961693152953,Architecting with Google Kubernetes Engine 日本語版,Google Cloud,Beginner
+89,136,4.2632242295832015,Classical Sociological Theory,University of Amsterdam,Mixed
+89,779,5.0,Systems Thinking In Public Health,Johns Hopkins University,Mixed
+89,103,4.467886340708221,Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),Hebrew University of Jerusalem,Mixed
+89,401,5.0,Hacia una práctica constructivista en el aula,Pontificia Universidad Católica de Chile,Mixed
+89,765,4.9388421964169344,Successful Negotiation: Essential Strategies and Skills,University of Michigan,Mixed
+89,223,4.278495162017893,Developing Industrial Internet of Things,University of Colorado Boulder,Intermediate
+89,94,4.0770033374530525,Blockchain,University at Buffalo,Intermediate
+89,736,4.3248034332716,Social and Economic Networks:  Models and Analysis,Stanford University,Advanced
+90,481,4.435415589040155,Introduction to Corporate Finance,University of Pennsylvania,Mixed
+90,564,4.867942638359558,Machine Learning,Stanford University,Mixed
+90,403,4.179392046801107,Healing with the Arts,University of Florida,Mixed
+90,708,4.026777048253825,Réussir le Changement,ESSEC Business School,Mixed
+90,262,4.460888855641122,English for Journalism,University of Pennsylvania,Mixed
+90,656,3.9786747787476524,Positive Psychology,The University of North Carolina at Chapel Hill,Mixed
+90,126,4.39406553466397,"Cameras, Exposure, and Photography",Michigan State University,Mixed
+90,614,4.455328654241282,More Introduction to Financial Accounting,University of Pennsylvania,Mixed
+90,371,3.92799114565375,Geopolítica y gobernanza global: riesgos y oportunidades,ESADE Business and Law School,Mixed
+90,410,3.8415025746648643,Homeland Security and Cybersecurity,University of Colorado System,Beginner
+90,279,4.02440929303248,Equine Welfare and Management,"University of California, Davis",Beginner
+90,885,4.383794036208497,Погружение в Python,Moscow Institute of Physics and Technology,Intermediate
+90,485,4.128796181064804,Introduction to Data Analysis Using Excel,Rice University,Mixed
+90,238,4.312490152907879,"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",Stanford University,Intermediate
+91,284,4.067889425706566,Essentials in Clinical Simulations Across the Health Professions,The George Washington University,Intermediate
+91,875,4.5632533032776275,Étudier en France: French Intermediate course B1-B2,École Polytechnique,Intermediate
+91,683,4.3289212344678365,Python Classes and Inheritance,University of Michigan,Intermediate
+91,140,3.771275039073826,Cloud Computing,University of Illinois at Urbana-Champaign,Intermediate
+91,727,3.9291914087942934,Six Sigma Green Belt,University System of Georgia,Intermediate
+91,723,3.9907292178175946,Sequence Models,deeplearning.ai,Intermediate
+91,611,4.054227572298556,"Modern Robotics:  Mechanics, Planning, and Control",Northwestern University,Intermediate
+91,106,4.549119139173316,Building Resilient Streaming Analytics Systems on GCP,Google Cloud,Intermediate
+91,416,4.096874557312404,IBM AI Engineering,IBM,Intermediate
+91,397,4.604108931811865,Guitar for Beginners,Berklee College of Music,Mixed
+91,623,3.7857373335258524,"Negotiation, Mediation and Conflict Resolution",ESSEC Business School,Beginner
+91,398,3.653706087297994,Gut Check: Exploring Your Microbiome,University of California San Diego,Mixed
+91,845,4.036372525090034,University Teaching,The University of Hong Kong,Beginner
+91,678,4.337125942815365,Project Management & Other Tools for Career Development,"University of California, Irvine",Beginner
+92,455,3.6717927317926913,International Law in Action: the Arbitration of International Disputes,Universiteit Leiden,Mixed
+92,393,4.515797111304594,Grammar and Punctuation,"University of California, Irvine",Mixed
+92,494,4.3117145538151105,Introduction to Financial Accounting,University of Pennsylvania,Mixed
+92,82,4.225657710812447,Become a CBRS Certified Professional Installer by Google,Google - Spectrum Sharing,Mixed
+92,887,4.42440420580848,Психолингвистика (Psycholinguistics),Saint Petersburg State University,Mixed
+92,593,4.1983808377769245,Materials Science: 10 Things Every Engineer Should Know,"University of California, Davis",Mixed
+92,850,3.6494800269683627,Using Python to Access Web Data,University of Michigan,Mixed
+92,452,3.4523750168547878,International Cyber Conflicts,The State University of New York,Mixed
+92,815,4.103030960565583,The Science of Well-Being,Yale University,Mixed
+92,286,4.602259383985171,Essentials of Global Health,Yale University,Mixed
+92,568,4.370490361865828,Machine Learning for Business Professionals,Google Cloud,Intermediate
+92,836,4.438235740860985,Understanding Einstein: The Special Theory of Relativity,Stanford University,Beginner
+92,211,3.961759257340164,Deep Learning,deeplearning.ai,Intermediate
+92,824,3.797503092825888,Think Again I: How to Understand Arguments,Duke University,Beginner
+92,758,4.102256654150713,Strategic Management,Copenhagen Business School,Mixed
+93,734,4.832803951226682,Social Policy for Social Services & Health Practitioners,Columbia University,Beginner
+93,47,4.588271179243142,Anatomy: Musculoskeletal and Integumentary Systems,University of Michigan,Beginner
+93,716,4.315939194014355,School Health for Children and Adolescents,University of Colorado System,Beginner
+93,86,3.9150291926735106,Becoming a changemaker: Introduction to Social Innovation,University of Cape Town,Beginner
+93,243,4.266693294136643,Dynamic Public Speaking,University of Washington,Beginner
+93,868,4.710328952379231,Write A Feature Length Screenplay For Film Or Television,Michigan State University,Beginner
+93,460,4.765359872135766,International Women's Health and Human Rights,Stanford University,Beginner
+93,489,4.218376097602919,Introduction to Discrete Mathematics for Computer Science,National Research University Higher School of Economics,Beginner
+93,342,4.23552625741263,Fundamental Neuroscience for Neuroimaging,Johns Hopkins University,Beginner
+94,804,4.315792299395269,The Manager's Toolkit: A Practical Guide to Managing People at Work,"Birkbeck, University of London",Mixed
+94,311,4.047181962584366,Financial Engineering and Risk Management Part I,Columbia University,Mixed
+94,503,4.237255252154492,Introduction to Marketing,University of Pennsylvania,Mixed
+94,680,4.447797968965241,Psychological First Aid,Johns Hopkins University,Mixed
+94,401,4.43106961154145,Hacia una práctica constructivista en el aula,Pontificia Universidad Católica de Chile,Mixed
+94,218,4.601832941897075,Design and Make Infographics (Project-Centered Course),Michigan State University,Mixed
+94,869,4.470012465378161,Write Professional Emails in English,Georgia Institute of Technology,Mixed
+94,491,4.18402915080304,Introduction to Embedded Systems Software and Development Environments,University of Colorado Boulder,Intermediate
+94,70,3.9284875780259614,Aspectos básicos de la planificación y la gestión de proyectos,University of Virginia,Beginner
+94,881,4.494993203855365,Машинное обучение и анализ данных,E-Learning Development Fund,Intermediate
+95,752,4.096512335728816,Statistics with Python,University of Michigan,Beginner
+95,516,3.8919244907587003,Introduction to Statistics & Data Analysis in Public Health,Imperial College London,Beginner
+95,586,3.887130983380007,Marketing Strategy,IE Business School,Beginner
+95,83,3.8287778638649868,Become a Journalist: Report the News!,Michigan State University,Beginner
+95,657,4.587334348081803,Positive Psychology: Applications and Interventions,University of Pennsylvania,Beginner
+95,482,4.026467206446071,Introduction to Cyber Attacks,New York University,Beginner
+95,717,4.289264782616221,Science of Exercise,University of Colorado Boulder,Beginner
+95,674,4.671949361356883,Programming for Everybody (Getting Started with Python),University of Michigan,Mixed
+95,14,4.472119657189236,AWS Fundamentals: Building Serverless Applications,Amazon Web Services,Beginner
+95,868,4.524958423221457,Write A Feature Length Screenplay For Film Or Television,Michigan State University,Beginner
+96,365,4.340434256558381,Game Theory,Stanford University,Beginner
+96,378,4.066809871855174,Getting Started with Google Sheets,Google Cloud,Beginner
+96,260,4.491274542900062,English for Business and Entrepreneurship,University of Pennsylvania,Beginner
+96,348,4.797720512464576,Fundamentals of Immunology,Rice University,Intermediate
+96,287,4.597007770591712,Estadística y probabilidad,Universidad Nacional Autónoma de México,Beginner
+97,195,3.939709313985621,Data Mining,University of Illinois at Urbana-Champaign,Intermediate
+97,584,4.235735280941125,Marketing Gerencial,Universidad de Chile,Intermediate
+97,882,3.995238991729387,Основы Digital Маркетинга,National Research University Higher School of Economics,Intermediate
+97,222,4.432764170165798,Developing Applications with Google Cloud Platform 日本語版,Google Cloud,Intermediate
+97,448,4.416952439506073,Intellectual Property Law,University of Pennsylvania,Intermediate
+97,695,4.519354557305004,Reinforcement Learning,University of Alberta,Intermediate
+97,140,4.011745338772509,Cloud Computing,University of Illinois at Urbana-Champaign,Intermediate
+97,200,4.086238712713919,Data Science: Statistics and Machine Learning,Johns Hopkins University,Intermediate
+97,364,4.460527811892181,Game Design and Development,Michigan State University,Intermediate
+97,661,4.554339218153806,Practical Data Science with MATLAB,MathWorks,Beginner
+97,227,3.824276983672508,Digital Advertising Strategy,University of Colorado Boulder,Beginner
+97,40,3.965633649546806,American Contract Law I,Yale University,Beginner
+98,802,3.8224030135352756,The Global Financial Crisis,Yale University,Mixed
+98,401,4.741520644546698,Hacia una práctica constructivista en el aula,Pontificia Universidad Católica de Chile,Mixed
+98,499,4.748818693578877,Introduction to HTML5,University of Michigan,Mixed
+98,613,3.7964309654280353,Moral Foundations of Politics,Yale University,Mixed
+98,24,4.395676971392093,Actualización en el manejo del paciente con diabetes mellitus tipo 2,Universidad Nacional Autónoma de México,Mixed
+98,261,4.174588733328358,English for Career Development,University of Pennsylvania,Mixed
+98,748,3.9479381290035023,Sports and Society,Duke University,Mixed
+98,2,4.513839863413019,A Crash Course in Data Science,Johns Hopkins University,Mixed
+98,39,4.02799314202121,Algorithms for Battery Management Systems,University of Colorado System,Intermediate
+98,431,3.7770850673199585,Industrial IoT on Google Cloud Platform,Google Cloud,Beginner
+98,291,4.200306035427894,Excel Skills for Business,Macquarie University,Beginner
+99,646,3.8717553186396034,Particle Physics: an Introduction,University of Geneva,Mixed
+99,854,4.119829381675984,Viral Marketing and How to Craft Contagious Content,University of Pennsylvania,Mixed
+99,865,3.9093023227394936,What is Social?,Northwestern University,Mixed
+99,108,4.156368263794911,Building Your Leadership Skills,HEC Paris,Mixed
+99,401,3.9610224524389666,Hacia una práctica constructivista en el aula,Pontificia Universidad Católica de Chile,Mixed
+99,528,4.261155391474051,Introductory Human Physiology,Duke University,Mixed
+99,853,4.708932515655911,Version Control with Git,Atlassian,Mixed
+99,535,3.9799164093306265,Java Programming and Software Engineering Fundamentals,Duke University,Beginner
+99,623,4.107330985116262,"Negotiation, Mediation and Conflict Resolution",ESSEC Business School,Beginner
+99,236,3.761948583992599,Diseño Instruccional: Aprendizaje activo y Pedagogía digital,Tecnológico de Monterrey,Beginner
+99,884,4.65230457047523,Основы разработки на C++: белый пояс,E-Learning Development Fund,Intermediate
+100,879,3.7683385122748922,Корпоративные финансы и стоимость компании,National Research University Higher School of Economics,Beginner
+100,824,3.9279612778859656,Think Again I: How to Understand Arguments,Duke University,Beginner
+100,243,4.35311054439956,Dynamic Public Speaking,University of Washington,Beginner
+100,512,4.377342916878037,Introduction to Psychology,Yale University,Beginner
+100,617,4.8353349246124875,Music Business,Berklee College of Music,Beginner
+100,186,4.048581870900077,Data Analysis and Interpretation,Wesleyan University,Beginner
+100,793,4.148314562812359,The Arts and Science of Relationships: Understanding Human Needs,University of Toronto,Beginner
+100,742,4.063151860954798,Songwriting: Writing the Lyrics,Berklee College of Music,Beginner
+100,814,4.8492940235498105,The Science of Training Young Athletes,University of Florida,Beginner
+100,478,4.29209168952768,Introduction to Cloud Computing,IBM,Beginner
+100,591,4.549276128534369,Mastering Final Cut Pro,LearnQuest,Beginner
+100,420,4.084796995351213,IBM Data Science,IBM,Beginner
+100,709,4.3195079059389245,SAS Programmer,SAS,Beginner
+101,60,4.398798286144741,Aprender,Universidad Nacional Autónoma de México,Mixed
+101,517,4.367511331278581,Introduction to Sustainability,University of Illinois at Urbana-Champaign,Mixed
+101,495,4.4257373379595135,Introduction to Forensic Science,"Nanyang Technological University, Singapore",Mixed
+101,398,4.513227878512581,Gut Check: Exploring Your Microbiome,University of California San Diego,Mixed
+101,650,4.044607121507423,Perfect Tenses and Modals,"University of California, Irvine",Intermediate
+101,84,4.048288703510137,Become a Sustainable Business Change Agent,University of Colorado System,Intermediate
+101,47,4.856123542800455,Anatomy: Musculoskeletal and Integumentary Systems,University of Michigan,Beginner
+102,856,3.863252098728266,Virtual Teacher,"University of California, Irvine",Beginner
+102,89,4.1588490252435415,Big Data – Introducción al uso práctico de datos masivos,Universitat Autònoma de Barcelona,Beginner
+102,547,4.273279251227864,Learn Chinese: HSK Test Preparation,Peking University,Beginner
+102,609,4.091215571854123,Modern Art & Ideas,The Museum of Modern Art,Beginner
+102,378,4.453319936533369,Getting Started with Google Sheets,Google Cloud,Beginner
+102,689,4.240633864361771,Quantitative Methods,University of Amsterdam,Mixed
+103,691,4.006029282008279,R Programming,Johns Hopkins University,Intermediate
+103,72,4.531762040090093,Atención Primaria en Salud: El desafío de las Enfermedades no Transmisibles,Pontificia Universidad Católica de Chile,Intermediate
+103,788,4.126347065850404,TensorFlow: Data and Deployment,deeplearning.ai,Intermediate
+103,858,3.9847909881212162,Web Applications for Everybody,University of Michigan,Intermediate
+103,223,4.161494964503941,Developing Industrial Internet of Things,University of Colorado Boulder,Intermediate
+103,63,4.043611827698757,Architecting with Google Compute Engine,Google Cloud,Intermediate
+103,462,4.099765746309638,Internet Connection: How to Get Online?,Cisco,Beginner
+103,676,3.5567921172325274,Project Execution,"University of California, Irvine",Beginner
+103,375,3.7926375713552076,Getting Started with AWS Machine Learning,Amazon Web Services,Intermediate
+104,415,4.084609120019694,Human Resource Management: HR for People Managers,University of Minnesota,Beginner
+104,175,4.060360831064864,"Creatividad, diseño e innovación: Técnicas y herramientas",Arizona State University,Beginner
+104,216,3.7830263802549604,Design Thinking for the Greater Good: Innovation in the Social Sector,University of Virginia,Beginner
+104,706,4.475332327572279,Russian Alphabet,Saint Petersburg State University,Beginner
+104,403,4.356129602688663,Healing with the Arts,University of Florida,Mixed
+104,805,4.2854182794779545,"The Modern World, Part One: Global History from 1760 to 1910",University of Virginia,Beginner
+104,705,4.433773790779318,Roman Architecture,Yale University,Beginner
+105,191,3.4383953820003015,Data Engineering on Google Cloud Platform 日本語版,Google Cloud,Intermediate
+105,873,3.4548578862495716,iOS App Development with Swift,University of Toronto,Intermediate
+105,611,3.990622837104275,"Modern Robotics:  Mechanics, Planning, and Control",Northwestern University,Intermediate
+105,884,4.153410927461706,Основы разработки на C++: белый пояс,E-Learning Development Fund,Intermediate
+105,568,4.516105271022985,Machine Learning for Business Professionals,Google Cloud,Intermediate
+105,164,4.183422206649805,Corporate & Commercial Law I: Contracts & Employment Law,University of Illinois at Urbana-Champaign,Intermediate
+105,575,4.318702996930694,Managerial Accounting Fundamentals,University of Virginia,Beginner
+105,584,4.4409352257219705,Marketing Gerencial,Universidad de Chile,Intermediate
+105,108,4.033061537712403,Building Your Leadership Skills,HEC Paris,Mixed
+106,239,4.351485500736466,Dog Emotion and Cognition,Duke University,Mixed
+106,455,4.381164034986986,International Law in Action: the Arbitration of International Disputes,Universiteit Leiden,Mixed
+106,636,4.309777074156365,Oil & Gas Industry Operations and Markets,Duke University,Mixed
+106,128,4.159053185521392,"Capstone: Retrieving, Processing, and Visualizing Data with Python",University of Michigan,Mixed
+106,620,4.8385811357425315,Nanotechnology: A Maker’s Course,Duke University,Mixed
+106,66,3.5894587540458955,Art & Activity: Interactive Strategies for Engaging with Art,The Museum of Modern Art,Mixed
+106,717,4.477204340386165,Science of Exercise,University of Colorado Boulder,Beginner
+106,136,4.302010906085185,Classical Sociological Theory,University of Amsterdam,Mixed
+106,832,4.280999570385027,UI / UX Design,California Institute of the Arts,Beginner
+107,432,3.944341963079213,Infectious Disease Modelling,Imperial College London,Intermediate
+107,176,4.292721149944355,Cuidado de heridas en el ámbito hospitalario,Universidad Nacional Autónoma de México,Intermediate
+107,695,3.758127908764483,Reinforcement Learning,University of Alberta,Intermediate
+107,75,4.1609465678967466,Autodesk CAD/CAM/CAE for Mechanical Engineering,Autodesk,Intermediate
+107,645,3.8797225667632573,"Parallel, Concurrent, and Distributed Programming in Java",Rice University,Intermediate
+107,231,4.018322050825962,Digital Media and Marketing Strategies,University of Illinois at Urbana-Champaign,Mixed
+107,357,4.308153005116738,Fundamentos de Excel para Negocios,Universidad Austral,Beginner
+107,412,4.864425244295166,How Things Work: An Introduction to Physics,University of Virginia,Intermediate
+108,412,3.93702489461666,How Things Work: An Introduction to Physics,University of Virginia,Intermediate
+108,621,4.30365692423936,Natural Language Processing in TensorFlow,deeplearning.ai,Intermediate
+108,443,3.8782327026705214,Inspired Leadership,Case Western Reserve University,Intermediate
+108,211,4.164473476460411,Deep Learning,deeplearning.ai,Intermediate
+108,228,3.6415306536195864,Digital Business Models,Lund University,Beginner
+108,12,4.367986457123205,AWS Fundamentals,Amazon Web Services,Beginner
+109,397,4.316088070668986,Guitar for Beginners,Berklee College of Music,Mixed
+109,454,4.290836812031054,International Law in Action: A Guide to the International Courts and Tribunals in The Hague,Universiteit Leiden,Mixed
+109,311,4.283706189433979,Financial Engineering and Risk Management Part I,Columbia University,Mixed
+109,277,4.433079436514258,Epidemiology: The Basic Science of Public Health,The University of North Carolina at Chapel Hill,Mixed
+109,574,4.456268056465587,Management of Fashion and Luxury Companies,Università Bocconi,Mixed
+109,565,4.045128053407214,Machine Learning Foundations: A Case Study Approach,University of Washington,Mixed
+109,278,4.164465174926333,Epigenetic Control of Gene Expression,The University of Melbourne,Mixed
+109,604,4.749140560219685,Microeconomics: The Power of Markets,University of Pennsylvania,Mixed
+109,3,4.237959708099324,A Law Student's Toolkit,Yale University,Mixed
+109,720,3.889906119136046,Security & Safety Challenges in a Globalized World,Universiteit Leiden,Beginner
+109,78,3.9643759732772255,BIM Fundamentals for Engineers,National Taiwan University,Beginner
+109,58,3.5513813095741833,"Applied Plotting, Charting & Data Representation in Python",University of Michigan,Intermediate
+109,878,3.9213546883476362,Искусство разработки на современном C++,E-Learning Development Fund,Intermediate
+109,453,4.161060994124986,International Humanitarian Law in Theory and Practice,Kalshoven-Gieskes Forum,Beginner
+110,338,3.9912850482954134,Full Stack Web and Multiplatform Mobile App Development,The Hong Kong University of Science and Technology,Intermediate
+110,93,4.609174504422628,Blended Language Learning: Design and Practice for Teachers,University of Colorado Boulder,Intermediate
+110,631,4.179739307554068,Nutrition and Lifestyle in Pregnancy,Ludwig-Maximilians-Universität München (LMU),Intermediate
+110,72,4.373424302508032,Atención Primaria en Salud: El desafío de las Enfermedades no Transmisibles,Pontificia Universidad Católica de Chile,Intermediate
+110,195,3.95081354627345,Data Mining,University of Illinois at Urbana-Champaign,Intermediate
+110,433,4.423036998717428,Influencer Marketing Strategy,Rutgers the State University of New Jersey,Intermediate
+110,778,3.7402006413285327,Systems Biology and Biotechnology,Icahn School of Medicine at Mount Sinai,Intermediate
+110,406,3.803663986615053,Healthcare Law,University of Pennsylvania,Intermediate
+110,341,4.066592584585325,Functional Programming in Scala,École Polytechnique Fédérale de Lausanne,Intermediate
+110,352,4.013865287523931,Fundamentals of Quantitative Modeling,University of Pennsylvania,Mixed
+110,547,4.195598842584276,Learn Chinese: HSK Test Preparation,Peking University,Beginner
+110,53,3.957168073837751,Antimicrobial resistance - theory and methods,Technical University of Denmark (DTU),Intermediate
+110,72,4.382585482151631,Atención Primaria en Salud: El desafío de las Enfermedades no Transmisibles,Pontificia Universidad Católica de Chile,Intermediate
+110,617,3.988106002085532,Music Business,Berklee College of Music,Beginner
+111,163,4.773281918575845,Convolutional Neural Networks in TensorFlow,deeplearning.ai,Intermediate
+111,568,3.759507822701127,Machine Learning for Business Professionals,Google Cloud,Intermediate
+111,551,4.107560994730667,Learn English: Intermediate Grammar,"University of California, Irvine",Intermediate
+111,252,4.713370735461339,Elastic Google Cloud Infrastructure: Scaling and Automation,Google Cloud,Intermediate
+111,53,4.318959942999148,Antimicrobial resistance - theory and methods,Technical University of Denmark (DTU),Intermediate
+111,846,4.70175830599516,Unraveling the Cycling City,University of Amsterdam,Intermediate
+111,100,3.843322187918573,Branding: The Creative Journey,IE Business School,Beginner
+111,416,3.980244894711417,IBM AI Engineering,IBM,Intermediate
+112,218,3.8409111609367295,Design and Make Infographics (Project-Centered Course),Michigan State University,Mixed
+112,136,4.488320443253664,Classical Sociological Theory,University of Amsterdam,Mixed
+112,317,4.332344145655485,Financing and Investing in Infrastructure,Università Bocconi,Mixed
+112,323,4.269839920596133,Food & Beverage Management,Università Bocconi,Mixed
+112,128,3.827606034213301,"Capstone: Retrieving, Processing, and Visualizing Data with Python",University of Michigan,Mixed
+112,21,3.8600781400594237,Accounting Analytics,University of Pennsylvania,Mixed
+112,268,4.464886303535796,Entrepreneurship 1: Developing the Opportunity,University of Pennsylvania,Mixed
+112,319,4.097666520082093,Finanzas personales,Universidad Nacional Autónoma de México,Mixed
+112,680,4.792526234294121,Psychological First Aid,Johns Hopkins University,Mixed
+112,615,4.557163304665524,Mountains 101,University of Alberta,Mixed
+112,632,4.924103782497956,Object Oriented Java Programming: Data Structures and Beyond,University of California San Diego,Intermediate
+112,428,3.6101389963727235,Improving Leadership & Governance in Nonprofit Organizations,Luther College at the University of Regina,Beginner
+113,8,3.404899456167847,AI Foundations for Everyone,IBM,Beginner
+113,115,3.7482947464906373,Business Statistics and Analysis,Rice University,Beginner
+113,41,4.2274542292877415,An Introduction to American Law,University of Pennsylvania,Beginner
+113,676,4.058829924229751,Project Execution,"University of California, Irvine",Beginner
+113,509,4.064491650909556,Introduction to Probability and Data,Duke University,Beginner
+113,79,4.309253444026771,Basic Statistics,University of Amsterdam,Beginner
+113,763,3.884371971430824,Structuring Machine Learning Projects,deeplearning.ai,Beginner
+113,835,4.745368479550523,Understanding Clinical Research: Behind the Statistics,University of Cape Town,Mixed
+113,78,4.635726470833845,BIM Fundamentals for Engineers,National Taiwan University,Beginner
+114,334,4.5364999809345665,From Data to Insights with Google Cloud Platform,Google Cloud,Beginner
+114,41,4.5135736439058265,An Introduction to American Law,University of Pennsylvania,Beginner
+114,654,4.419978397628593,Politics and Economics of International Energy,Sciences Po,Beginner
+114,596,4.468249077922586,Mathematics for Machine Learning: Linear Algebra,Imperial College London,Beginner
+114,282,4.202442750387553,Essential Google Cloud Infrastructure: Core Services,Google Cloud,Intermediate
+114,707,4.223451380334617,Russian for beginners А1. Русский язык: A1,Saint Petersburg State University,Beginner
+115,150,4.198216871919153,Computational Social Science,"University of California, Davis",Beginner
+115,706,4.6650790193072655,Russian Alphabet,Saint Petersburg State University,Beginner
+115,43,4.362331112658176,An Introduction to Programming the Internet of Things (IOT),"University of California, Irvine",Beginner
+115,724,4.570765879049506,Sexualidad...mucho más que sexo,Universidad de los Andes,Beginner
+115,425,4.1963463858098455,Implementing RPA with Cognitive Automation and Analytics,Automation Anywhere,Beginner
+115,471,4.428308298364667,Introduction to Blockchain Technologies,INSEAD,Beginner
+115,603,4.6335618279347095,Microeconomics Principles,University of Illinois at Urbana-Champaign,Beginner
+115,630,4.049421910390947,Nutrición y obesidad: control de sobrepeso,Universidad Nacional Autónoma de México,Beginner
+115,567,4.130185404579664,Machine Learning for All,University of London,Beginner
+115,281,3.7901349275013123,Essential Epidemiologic Tools for Public Health Practice,Johns Hopkins University,Beginner
+115,641,4.581938327880479,Organizational Leadership,Northwestern University,Intermediate
+115,765,3.7068971051574584,Successful Negotiation: Essential Strategies and Skills,University of Michigan,Mixed
+115,492,4.370392906771709,Introduction to Engineering Mechanics,Georgia Institute of Technology,Mixed
+115,566,3.6505721235475534,Machine Learning and Reinforcement Learning in Finance,New York University,Intermediate
+116,498,4.16347626085607,Introduction to Genomic Technologies,Johns Hopkins University,Mixed
+116,71,4.418398845740924,Astrobiology and the Search for Extraterrestrial Life,The University of Edinburgh,Mixed
+116,468,4.523334383505699,Introduction to Ableton Live,Berklee College of Music,Mixed
+116,694,4.551173003859941,"Recruiting, Hiring, and Onboarding Employees",University of Minnesota,Mixed
+116,24,4.499102638575478,Actualización en el manejo del paciente con diabetes mellitus tipo 2,Universidad Nacional Autónoma de México,Mixed
+116,574,4.2028737631188555,Management of Fashion and Luxury Companies,Università Bocconi,Mixed
+116,115,3.965161312435581,Business Statistics and Analysis,Rice University,Beginner
+116,223,4.369691869911819,Developing Industrial Internet of Things,University of Colorado Boulder,Intermediate
+116,780,4.055488775922866,"TESOL Certificate, Part 1: Teach English Now!",Arizona State University,Beginner
+117,242,4.272197390252672,Drug Discovery,University of California San Diego,Beginner
+117,732,4.5100858686163,Social Media Marketing,Northwestern University,Beginner
+117,792,4.602045551470631,The Art of Sales: Mastering the Selling Process,Northwestern University,Beginner
+117,767,4.645658190549053,Supply Chain Analytics,Rutgers the State University of New Jersey,Beginner
+117,355,4.255523928511696,Fundamentos Empresariales,University of Pennsylvania,Beginner
+117,24,4.366075999170007,Actualización en el manejo del paciente con diabetes mellitus tipo 2,Universidad Nacional Autónoma de México,Mixed
+117,568,3.9920236683320205,Machine Learning for Business Professionals,Google Cloud,Intermediate
+117,659,3.712711957592006,Positive Psychology: Resilience Skills,University of Pennsylvania,Beginner
+118,252,4.3474396389458265,Elastic Google Cloud Infrastructure: Scaling and Automation,Google Cloud,Intermediate
+118,377,4.30487510591351,Getting Started with Google Kubernetes Engine,Google Cloud,Intermediate
+118,626,4.288246752060481,Neural Networks and Deep Learning,deeplearning.ai,Intermediate
+118,74,4.076383235112289,Autodesk CAD/CAM for Manufacturing,Autodesk,Intermediate
+118,738,4.499088522345938,Software Development Lifecycle,University of Minnesota,Intermediate
+118,882,4.155404113033746,Основы Digital Маркетинга,National Research University Higher School of Economics,Intermediate
+118,406,4.304196406823599,Healthcare Law,University of Pennsylvania,Intermediate
+118,176,4.455788870999041,Cuidado de heridas en el ámbito hospitalario,Universidad Nacional Autónoma de México,Intermediate
+118,191,3.490952385520888,Data Engineering on Google Cloud Platform 日本語版,Google Cloud,Intermediate
+118,94,4.362929220070166,Blockchain,University at Buffalo,Intermediate
+118,184,4.277929285033279,Cómo hablar bien en público,Universitat Autònoma de Barcelona,Beginner
+118,563,4.6115334063080375,Machine Learning,University of Washington,Intermediate
+118,431,4.79486879837478,Industrial IoT on Google Cloud Platform,Google Cloud,Beginner
+118,314,4.151262899018162,Financial Markets and Investment Strategy,Indian School of Business,Beginner
+118,747,4.363767631433882,Sports Marketing,Northwestern University,Intermediate
+119,384,3.6998745615869346,Global Financial Markets and Instruments,Rice University,Mixed
+119,319,3.713342038470727,Finanzas personales,Universidad Nacional Autónoma de México,Mixed
+119,809,3.4939356754379047,The Power of Microeconomics: Economic Principles in the Real World,"University of California, Irvine",Mixed
+119,262,4.42194281597956,English for Journalism,University of Pennsylvania,Mixed
+119,603,4.094300715012609,Microeconomics Principles,University of Illinois at Urbana-Champaign,Beginner
+119,188,4.3793587528922115,Data Analysis with Python,IBM,Beginner
+120,231,3.951721151358089,Digital Media and Marketing Strategies,University of Illinois at Urbana-Champaign,Mixed
+120,649,4.143648042121753,People Analytics,University of Pennsylvania,Mixed
+120,702,4.536911433412001,Rethinking International Tax Law,Universiteit Leiden,Mixed
+120,126,3.9069840323181246,"Cameras, Exposure, and Photography",Michigan State University,Mixed
+120,24,4.884174399799415,Actualización en el manejo del paciente con diabetes mellitus tipo 2,Universidad Nacional Autónoma de México,Mixed
+120,2,4.708346432026143,A Crash Course in Data Science,Johns Hopkins University,Mixed
+120,103,3.849478563197564,Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),Hebrew University of Jerusalem,Mixed
+120,124,4.275038127991068,COVID-19 Contact Tracing,Johns Hopkins University,Beginner
+120,489,4.163958408335956,Introduction to Discrete Mathematics for Computer Science,National Research University Higher School of Economics,Beginner
+120,13,3.8364556616326513,AWS Fundamentals: Addressing Security Risk,Amazon Web Services,Beginner
+121,134,3.9558156455474025,Chinese for HSK 1,Peking University,Beginner
+121,237,4.370140868997047,Diseño y Creación de un Emprendimiento Social,Pontificia Universidad Católica de Chile,Beginner
+121,769,4.529991053746891,Supply Chain Logistics,Rutgers the State University of New Jersey,Beginner
+121,813,4.4004521421285645,The Science of Success: What Researchers Know that You Should Know,University of Michigan,Beginner
+121,354,3.555301438722164,Fundamentals of Visualization with Tableau,"University of California, Davis",Beginner
+121,49,3.757909486783285,Android App Development,Vanderbilt University,Beginner
+121,34,4.03227218106555,Agile Meets Design Thinking,University of Virginia,Beginner
+121,327,3.881183131287417,Foundations of Business Strategy,University of Virginia,Beginner
+121,351,4.100318156973987,Fundamentals of Project Planning and Management,University of Virginia,Beginner
+121,333,4.588247639896284,Foundations of Public Health Practice,Imperial College London,Beginner
+121,802,4.012993610324777,The Global Financial Crisis,Yale University,Mixed
+121,321,4.385636528730956,Fintech: Foundations & Applications of Financial Technology,University of Pennsylvania,Beginner
+121,887,4.465042074596983,Психолингвистика (Psycholinguistics),Saint Petersburg State University,Mixed
+122,562,4.079295889023371,Love as a Force for Social Justice,Stanford University,Beginner
+122,579,3.9871978759803306,Managing Social and Human Capital,University of Pennsylvania,Beginner
+122,381,3.9469130419711584,Global Diplomacy: the United Nations in the World,SOAS University of London,Beginner
+122,306,4.081391106793885,Finance & Quantitative Modeling for Analysts,University of Pennsylvania,Beginner
+122,795,4.462836875508691,The Business of Health Care,University of Pennsylvania,Beginner
+122,825,3.7909574866777294,Tools for Data Science,IBM,Beginner
+122,666,4.108264239610975,Pricing Strategy Optimization,BCG,Beginner
+122,177,3.7068304501566187,Cuidados y procedimientos generales en la atención del recién nacido,Universidad de Chile,Intermediate
+122,162,4.56354822753626,Convolutional Neural Networks,deeplearning.ai,Intermediate
+123,112,4.531723664268197,Business English: Networking,University of Washington,Intermediate
+123,308,4.09537881180849,Finance for Non-Financial Managers,Emory University,Intermediate
+123,203,3.909896202130878,Data Visualization with Python,IBM,Intermediate
+123,563,4.247253572463212,Machine Learning,University of Washington,Intermediate
+123,797,3.8788124189035234,The Changing Global Order,Universiteit Leiden,Intermediate
+123,879,3.604040963983167,Корпоративные финансы и стоимость компании,National Research University Higher School of Economics,Beginner
+123,693,4.233166846974145,Recommender Systems,University of Minnesota,Intermediate
+123,839,4.6247275344849825,Understanding Plants - Part I: What a Plant Knows,Tel Aviv University,Beginner
+124,106,4.250987621305621,Building Resilient Streaming Analytics Systems on GCP,Google Cloud,Intermediate
+124,867,4.272577456513953,Wonders of Ancient Egypt,University of Pennsylvania,Intermediate
+124,571,4.371279558508583,Machine Learning with TensorFlow on Google Cloud Platform,Google Cloud,Intermediate
+124,11,3.8368988957755894,AI for Medicine,deeplearning.ai,Intermediate
+124,191,4.075762507735589,Data Engineering on Google Cloud Platform 日本語版,Google Cloud,Intermediate
+124,446,4.092501748250309,Instructional Methods in Health Professions Education,University of Michigan,Intermediate
+124,181,4.41558533435847,Cybersecurity,"University of Maryland, College Park",Intermediate
+124,63,4.132173371339982,Architecting with Google Compute Engine,Google Cloud,Intermediate
+124,818,4.326357926887963,The Strategy of Content Marketing,"University of California, Davis",Intermediate
+124,855,4.281112869419966,Virtual Reality,"Goldsmiths, University of London",Beginner
+125,184,4.23941821155254,Cómo hablar bien en público,Universitat Autònoma de Barcelona,Beginner
+125,651,4.870190117503527,Periodismo digital y combate a las fake news,Universidad Nacional Autónoma de México,Beginner
+125,351,4.399592621113309,Fundamentals of Project Planning and Management,University of Virginia,Beginner
+125,352,4.362574258431172,Fundamentals of Quantitative Modeling,University of Pennsylvania,Mixed
+125,163,5.0,Convolutional Neural Networks in TensorFlow,deeplearning.ai,Intermediate
+126,97,3.5875907590584153,Blockchain: Foundations and Use Cases,ConsenSys Academy,Beginner
+126,576,4.129085508521499,Managerial Economics and Business Analysis,University of Illinois at Urbana-Champaign,Beginner
+126,293,4.3529578118418755,Excel Skills for Business: Essentials,Macquarie University,Beginner
+126,139,4.282969503928316,Clinical Terminology for International and U.S. Students,University of Pittsburgh,Beginner
+126,427,4.427430062276851,"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",deeplearning.ai,Beginner
+126,310,3.8376588791818773,Financial Acumen for Non-Financial Managers,University of Pennsylvania,Beginner
+126,96,4.244467016808235,Blockchain Revolution in Financial Services,INSEAD,Beginner
+126,577,4.5254191731154485,Managing Innovation and Design Thinking,HEC Paris,Beginner
+126,109,3.810964642562082,Business Analytics,University of Pennsylvania,Beginner
+126,169,4.9837568373007315,Cost and Economics in Pricing Strategy,University of Virginia,Beginner
+126,36,3.7782901163843423,Agile и Scrum в работе над проектами и продуктами,ScrumTrek,Beginner
+126,773,4.285386496798851,Supporting children with difficulties in reading and writing,UCL Institute of Education,Mixed
+126,257,4.187148174884278,Engineering Health: Introduction to Yoga and Physiology,New York University,Beginner
+126,373,4.373071525508326,Get Interactive: Practical Teaching with Technology,Bloomsbury Learning Exchange,Beginner
+126,390,4.208815379109868,Google Cloud Platform Fundamentals for AWS Professionals,Google Cloud,Intermediate
+127,668,4.290639364726506,Private Equity and Venture Capital,Università Bocconi,Mixed
+127,261,4.329240109598363,English for Career Development,University of Pennsylvania,Mixed
+127,397,4.692759144282874,Guitar for Beginners,Berklee College of Music,Mixed
+127,398,3.543751320648374,Gut Check: Exploring Your Microbiome,University of California San Diego,Mixed
+127,704,3.8167188164948405,Robotics,University of Pennsylvania,Beginner
+127,379,4.58333849918321,Getting Started with SAS Programming,SAS,Beginner
+127,327,4.254502104703695,Foundations of Business Strategy,University of Virginia,Beginner
+128,82,4.5461185862539715,Become a CBRS Certified Professional Installer by Google,Google - Spectrum Sharing,Mixed
+128,386,4.200398959614359,Global Trends for Business and Society,University of Pennsylvania,Mixed
+128,627,4.06180658737895,Neurolinguistics,Saint Petersburg State University,Mixed
+128,689,4.660463796520202,Quantitative Methods,University of Amsterdam,Mixed
+128,817,3.9770120792780075,The Social Context of Mental Health and Illness,University of Toronto,Mixed
+128,862,4.19760621428121,What future for education?,UCL Institute of Education,Mixed
+128,574,4.182104902873054,Management of Fashion and Luxury Companies,Università Bocconi,Mixed
+128,286,4.080022433330959,Essentials of Global Health,Yale University,Mixed
+128,71,4.216866962808914,Astrobiology and the Search for Extraterrestrial Life,The University of Edinburgh,Mixed
+128,271,4.685651828698628,Entrepreneurship Strategy: From Ideation to Exit,HEC Paris,Beginner
+128,349,3.7598437012725525,Fundamentals of Immunology: Innate Immunity and B-Cell Function,Rice University,Intermediate
+128,710,4.14148944563326,SAS Visual Business Analytics,SAS,Beginner
+128,426,4.697303063153637,Improve Your English Communication Skills,Georgia Institute of Technology,Beginner
+128,404,3.4639160899717623,Health Informatics,Johns Hopkins University,Beginner
+129,566,3.1498306906267306,Machine Learning and Reinforcement Learning in Finance,New York University,Intermediate
+129,875,4.392908093394184,Étudier en France: French Intermediate course B1-B2,École Polytechnique,Intermediate
+129,719,5.0,Secure Coding Practices,"University of California, Davis",Intermediate
+129,63,3.8069405600708732,Architecting with Google Compute Engine,Google Cloud,Intermediate
+129,560,4.2348268335308425,Liderazgo efectivo para el siglo XXI,Universidad de los Andes,Intermediate
+129,285,4.142576987373891,Essentials of Corporate Finance,The University of Melbourne,Intermediate
+129,318,4.52181588899658,Finanzas corporativas,Universidad Nacional Autónoma de México,Intermediate
+129,142,4.152760612666672,Cloud Engineering with Google Cloud,Google Cloud,Intermediate
+129,353,4.664967228473616,Fundamentals of Reinforcement Learning,University of Alberta,Intermediate
+129,245,4.151518373671842,Ecology: Ecosystem Dynamics and Conservation,American Museum of Natural History,Intermediate
+129,661,4.372230059001648,Practical Data Science with MATLAB,MathWorks,Beginner
+129,221,4.495629076643145,Developing Applications with Google Cloud Platform,Google Cloud,Intermediate
+129,72,4.141041788500659,Atención Primaria en Salud: El desafío de las Enfermedades no Transmisibles,Pontificia Universidad Católica de Chile,Intermediate
+129,444,4.557811034400385,Inspiring and Motivating Individuals,University of Michigan,Mixed
+130,81,4.757206592298012,Bayesian Statistics: Techniques and Models,"University of California, Santa Cruz",Intermediate
+130,252,4.314782308132375,Elastic Google Cloud Infrastructure: Scaling and Automation,Google Cloud,Intermediate
+130,522,3.928998458522446,"Introduction to Trading, Machine Learning & GCP",New York Institute of Finance,Intermediate
+130,37,4.554307607098458,Algorithmic Toolbox,University of California San Diego,Intermediate
+130,143,3.9561164264892112,Coaching Skills for Managers,"University of California, Davis",Intermediate
+130,221,3.8324582163823497,Developing Applications with Google Cloud Platform,Google Cloud,Intermediate
+130,192,4.023976207640519,Data Engineering with Google Cloud,Google Cloud,Intermediate
+130,39,4.32269110079615,Algorithms for Battery Management Systems,University of Colorado System,Intermediate
+130,308,4.215579462811267,Finance for Non-Financial Managers,Emory University,Intermediate
+130,720,4.163425513375484,Security & Safety Challenges in a Globalized World,Universiteit Leiden,Beginner
+130,599,4.835568150166167,Medical Cannabis: The Health Effects of THC and CBD,University of Colorado Boulder,Beginner
+130,486,4.219945346494173,Introduction to Data Science,IBM,Beginner
+130,890,4.552267924314046,Финансовые инструменты для частного инвестора,National Research University Higher School of Economics,Beginner
+130,296,4.209840964764033,Excel to MySQL: Analytic Techniques for Business,Duke University,Beginner
+131,557,3.980269730912625,Learning to Teach Online,UNSW Sydney (The University of New South Wales),Beginner
+131,617,4.178107832000217,Music Business,Berklee College of Music,Beginner
+131,213,4.351680836897125,Dentistry 101,University of Michigan,Beginner
+131,717,3.8431682408683767,Science of Exercise,University of Colorado Boulder,Beginner
+131,160,3.8484852614004295,Continuous Delivery & DevOps,University of Virginia,Beginner
+131,799,3.897788366424618,The DIY Musician,Berklee College of Music,Beginner
+131,591,4.029652635587129,Mastering Final Cut Pro,LearnQuest,Beginner
+131,257,4.802777291729898,Engineering Health: Introduction to Yoga and Physiology,New York University,Beginner
+131,470,4.31924642617989,Introduction to Big Data,University of California San Diego,Mixed
+131,282,4.3736410662392275,Essential Google Cloud Infrastructure: Core Services,Google Cloud,Intermediate
+131,405,3.8520187478757637,Health Information Literacy for Data Analytics,"University of California, Davis",Intermediate
+131,189,4.553916094442261,Data Analytics for Lean Six Sigma,University of Amsterdam,Beginner
+132,588,3.727158237555593,Marketing con Redes Sociales,Tecnológico de Monterrey,Intermediate
+132,889,4.13875053857184,Русский как иностранный,Saint Petersburg State University,Intermediate
+132,761,4.549108729906805,Strategising: Management for Global Competitive Advantage,Macquarie University,Intermediate
+132,428,4.418991478091094,Improving Leadership & Governance in Nonprofit Organizations,Luther College at the University of Regina,Beginner
+132,243,4.5860624223373785,Dynamic Public Speaking,University of Washington,Beginner
+133,112,4.5456858740449455,Business English: Networking,University of Washington,Intermediate
+133,754,4.374039336263664,Stories of Infection,Stanford University,Intermediate
+133,325,4.455142874528105,Formulación y evaluación de proyectos complejos,Universidad de los Andes,Intermediate
+133,19,4.428173437356386,Accelerated Computer Science Fundamentals,University of Illinois at Urbana-Champaign,Intermediate
+133,545,4.73241154606116,"Leading for Equity, Diversity and Inclusion in Higher Education",University of Michigan,Intermediate
+133,650,4.438510233604234,Perfect Tenses and Modals,"University of California, Irvine",Intermediate
+133,375,4.143090467443336,Getting Started with AWS Machine Learning,Amazon Web Services,Intermediate
+133,185,4.014390333087274,Dairy Production and Management,The Pennsylvania State University,Mixed
+133,878,3.962008731911181,Искусство разработки на современном C++,E-Learning Development Fund,Intermediate
+133,360,4.23627045792912,Fundraising and Development,"University of California, Davis",Beginner
+134,69,4.6190976101872305,Arts and Heritage Management,Università Bocconi,Mixed
+134,174,4.439736165351262,Creative Writing: The Craft of Plot,Wesleyan University,Mixed
+134,854,4.156680562603069,Viral Marketing and How to Craft Contagious Content,University of Pennsylvania,Mixed
+134,108,4.225353743468184,Building Your Leadership Skills,HEC Paris,Mixed
+134,103,3.9428478396957747,Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),Hebrew University of Jerusalem,Mixed
+134,88,4.521189374654523,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,University of Michigan,Mixed
+134,459,4.238401588157298,International Security Management,Erasmus University Rotterdam,Beginner
+134,725,4.412592407135633,Sharpened Visions: A Poetry Workshop,California Institute of the Arts,Beginner
+135,747,3.9338131908188068,Sports Marketing,Northwestern University,Intermediate
+135,778,4.125855488334025,Systems Biology and Biotechnology,Icahn School of Medicine at Mount Sinai,Intermediate
+135,858,4.64024148595903,Web Applications for Everybody,University of Michigan,Intermediate
+135,57,4.581489359338201,Applied Machine Learning in Python,University of Michigan,Intermediate
+135,405,3.6447264600532097,Health Information Literacy for Data Analytics,"University of California, Davis",Intermediate
+135,336,4.572183821617836,Front-End Web Development with React,The Hong Kong University of Science and Technology,Intermediate
+135,446,4.0401636336618925,Instructional Methods in Health Professions Education,University of Michigan,Intermediate
+135,650,3.9096567887771765,Perfect Tenses and Modals,"University of California, Irvine",Intermediate
+135,195,4.19328981661619,Data Mining,University of Illinois at Urbana-Champaign,Intermediate
+135,84,4.259557974563883,Become a Sustainable Business Change Agent,University of Colorado System,Intermediate
+135,505,4.109911271056283,Introduction to Operations Management,University of Pennsylvania,Mixed
+135,663,3.7764946560392834,Preparing for the Google Cloud Associate Cloud Engineer Exam,Google Cloud,Beginner
+135,197,4.089339482174889,Data Science Math Skills,Duke University,Beginner
+135,483,3.8651038609094392,Introduction to Cyber Security,New York University,Beginner
+135,698,4.3558016604415535,Requirements Engineering: Secure Software  Specifications,University of Colorado System,Beginner
+136,260,4.495566276070479,English for Business and Entrepreneurship,University of Pennsylvania,Beginner
+136,527,4.165662977874078,Introduction to the Biology of Cancer,Johns Hopkins University,Beginner
+136,241,4.436121004222322,Drug Commercialization,University of California San Diego,Beginner
+136,358,4.005610827471541,Fundamentos de Finanzas Empresariales,Universidad de los Andes,Beginner
+136,209,4.1291763252830975,De-Mystifying Mindfulness,Universiteit Leiden,Beginner
+136,571,3.946888545259909,Machine Learning with TensorFlow on Google Cloud Platform,Google Cloud,Intermediate
+136,171,4.760437938530515,Crash Course on Python,Google,Beginner
+136,723,4.750015408603718,Sequence Models,deeplearning.ai,Intermediate
+137,380,4.240964492149977,Global Diplomacy – Diplomacy in the Modern World,SOAS University of London,Mixed
+137,515,3.5798474026804725,Introduction to Spreadsheets and Models,University of Pennsylvania,Mixed
+137,718,4.076074225418104,Search Engine Optimization Fundamentals,"University of California, Davis",Mixed
+137,528,5.0,Introductory Human Physiology,Duke University,Mixed
+137,608,4.304745719847553,Modeling Risk and Realities,University of Pennsylvania,Mixed
+137,746,3.9264660314653685,"Speak English Professionally: In Person, Online & On the Phone",Georgia Institute of Technology,Mixed
+137,505,4.355346564060131,Introduction to Operations Management,University of Pennsylvania,Mixed
+137,613,4.884004063693863,Moral Foundations of Politics,Yale University,Mixed
+137,808,3.984671656356241,The Power of Macroeconomics: Economic Principles in the Real World,"University of California, Irvine",Mixed
+137,578,4.092649550394544,Managing Project Risks and Changes,"University of California, Irvine",Mixed
+137,234,3.5106469135382614,Dino 101: Dinosaur Paleobiology,University of Alberta,Beginner
+137,236,4.055858388440983,Diseño Instruccional: Aprendizaje activo y Pedagogía digital,Tecnológico de Monterrey,Beginner
+137,243,4.470630874472386,Dynamic Public Speaking,University of Washington,Beginner
+137,823,4.129120592390382,The hidden value – Lean in manufacturing and services,École des Ponts ParisTech,Beginner
+137,392,4.009160660136831,Google IT Support,Google,Beginner
+138,161,4.276718864505493,Control of Mobile Robots,Georgia Institute of Technology,Mixed
+138,835,4.385123218992586,Understanding Clinical Research: Behind the Statistics,University of Cape Town,Mixed
+138,801,4.284589090561731,The Economics of Health Care Delivery,University of Pennsylvania,Mixed
+138,772,3.9448273945027945,Supply Chain Principles,Georgia Institute of Technology,Mixed
+138,367,4.629951944223373,Gender and Sexuality: Diversity and Inclusion in the Workplace,University of Pittsburgh,Beginner
+139,74,3.813400380863526,Autodesk CAD/CAM for Manufacturing,Autodesk,Intermediate
+139,46,4.166353364602992,"Anatomy of the Chest, Abdomen, and Pelvis",Yale University,Intermediate
+139,318,4.682257045506657,Finanzas corporativas,Universidad Nacional Autónoma de México,Intermediate
+139,254,4.189080598347384,Electronic Music Production,Berklee College of Music,Intermediate
+139,375,4.165223954801811,Getting Started with AWS Machine Learning,Amazon Web Services,Intermediate
+139,537,4.438985742850375,Julia Scientific Programming,University of Cape Town,Beginner
+139,534,4.062612453093305,Japanese for beginners 1,Saint Petersburg State University,Beginner
+139,343,4.079578231227376,Fundamentals of Accounting,University of Illinois at Urbana-Champaign,Beginner
+140,709,3.8139936806647725,SAS Programmer,SAS,Beginner
+140,730,3.72297145587478,Smart Cities – Management of Smart Urban Infrastructures,École Polytechnique Fédérale de Lausanne,Beginner
+140,65,4.771076057389889,Arizona State University TESOL,Arizona State University,Beginner
+140,241,4.015423988632803,Drug Commercialization,University of California San Diego,Beginner
+140,447,3.900764319681097,Integrative Health and Medicine,University of Minnesota,Beginner
+140,419,4.220981785882265,IBM Customer Engagement Specialist Professional Certificate,IBM,Beginner
+140,594,4.176130438974247,Mathematics for Data Science,National Research University Higher School of Economics,Beginner
+140,832,4.067646068495352,UI / UX Design,California Institute of the Arts,Beginner
+140,186,4.309377031769846,Data Analysis and Interpretation,Wesleyan University,Beginner
+140,159,3.7853534309639194,Content Strategy for Professionals,Northwestern University,Beginner
+140,877,4.266095708511664,Искусство ведения бизнеса,Saint Petersburg State University,Beginner
+140,711,4.1017136719661735,SQL for Data Science,"University of California, Davis",Beginner
+140,620,4.285383132122633,Nanotechnology: A Maker’s Course,Duke University,Mixed
+141,137,4.147664105248687,Claves de la Dirección de Empresas,IESE Business School,Beginner
+141,152,4.041496714020765,Computer Security and Systems Management,University of Colorado System,Beginner
+141,737,3.7666329598294257,Software Design and Architecture,University of Alberta,Beginner
+141,415,4.348908659039674,Human Resource Management: HR for People Managers,University of Minnesota,Beginner
+141,204,4.32505644637137,Data Visualization with Tableau,"University of California, Davis",Beginner
+141,676,4.157958376393839,Project Execution,"University of California, Irvine",Beginner
+141,725,3.874376675937265,Sharpened Visions: A Poetry Workshop,California Institute of the Arts,Beginner
+141,507,4.34409572784868,Introduction to Philosophy,The University of Edinburgh,Mixed
+141,679,4.250671972325588,Project Management Principles and Practices,"University of California, Irvine",Beginner
+141,616,4.2466526290450455,Municipal Solid Waste Management in Developing Countries,École Polytechnique Fédérale de Lausanne,Intermediate
+141,373,4.065326889448096,Get Interactive: Practical Teaching with Technology,Bloomsbury Learning Exchange,Beginner
+142,45,4.040770310183715,Anatomy,University of Michigan,Beginner
+142,150,3.9148209792813535,Computational Social Science,"University of California, Davis",Beginner
+142,512,4.478339947746901,Introduction to Psychology,Yale University,Beginner
+142,151,4.2423202060847,Computational Thinking for Problem Solving,University of Pennsylvania,Beginner
+142,14,3.858353549344828,AWS Fundamentals: Building Serverless Applications,Amazon Web Services,Beginner
+143,416,4.0955475141245525,IBM AI Engineering,IBM,Intermediate
+143,546,4.086095665419855,Leading: Human Resource Management and Leadership,Macquarie University,Intermediate
+143,294,4.032727776036115,Excel Skills for Business: Intermediate I,Macquarie University,Intermediate
+143,26,3.970176832836494,Advanced Business Analytics,University of Colorado Boulder,Intermediate
+143,55,4.383271371931107,Applied Data Science Capstone,IBM,Intermediate
+143,616,4.509013773561308,Municipal Solid Waste Management in Developing Countries,École Polytechnique Fédérale de Lausanne,Intermediate
+143,176,4.374098160428237,Cuidado de heridas en el ámbito hospitalario,Universidad Nacional Autónoma de México,Intermediate
+143,288,4.702553962023077,Evaluación educativa,Universidad Nacional Autónoma de México,Beginner
+143,151,4.345729247081442,Computational Thinking for Problem Solving,University of Pennsylvania,Beginner
+143,757,4.47680950718685,Strategic Leadership and Management,University of Illinois at Urbana-Champaign,Beginner
+143,632,4.150791270334125,Object Oriented Java Programming: Data Structures and Beyond,University of California San Diego,Intermediate
+144,94,4.277148737564244,Blockchain,University at Buffalo,Intermediate
+144,433,3.5507714111083466,Influencer Marketing Strategy,Rutgers the State University of New Jersey,Intermediate
+144,569,3.6677659448412236,Machine Learning for Trading,Google Cloud,Intermediate
+144,412,4.198580655745379,How Things Work: An Introduction to Physics,University of Virginia,Intermediate
+144,123,3.802697550342854,C# Programming for Unity Game Development,University of Colorado System,Beginner
+144,627,4.845960845208897,Neurolinguistics,Saint Petersburg State University,Mixed
+145,830,4.123094892580082,U.S. Federal Taxation,University of Illinois at Urbana-Champaign,Intermediate
+145,163,4.48215402431055,Convolutional Neural Networks in TensorFlow,deeplearning.ai,Intermediate
+145,675,4.350552164375466,Programming with Google Go,"University of California, Irvine",Intermediate
+145,487,3.657984547295904,Introduction to Data Science in Python,University of Michigan,Intermediate
+145,626,3.951053337571769,Neural Networks and Deep Learning,deeplearning.ai,Intermediate
+145,714,3.975571154468765,Sample-based Learning Methods,University of Alberta,Intermediate
+145,315,4.122957903245749,Financial Reporting,University of Illinois at Urbana-Champaign,Intermediate
+145,696,4.4041282223594225,Renewable Energy and Green Building Entrepreneurship,Duke University,Beginner
+145,408,4.234918386661004,Healthcare Organization Operations,Rutgers the State University of New Jersey,Beginner
+145,727,4.704155230791653,Six Sigma Green Belt,University System of Georgia,Intermediate
+145,32,4.029108849623494,Age of Cathedrals,Yale University,Beginner
+146,38,3.9940526104137435,Algorithms,Stanford University,Intermediate
+146,584,4.120793359121101,Marketing Gerencial,Universidad de Chile,Intermediate
+146,55,3.741809092545972,Applied Data Science Capstone,IBM,Intermediate
+146,563,4.146520481853432,Machine Learning,University of Washington,Intermediate
+146,632,3.963532325965132,Object Oriented Java Programming: Data Structures and Beyond,University of California San Diego,Intermediate
+146,294,4.407606186683521,Excel Skills for Business: Intermediate I,Macquarie University,Intermediate
+146,10,3.983023292355258,AI for Medical Prognosis,deeplearning.ai,Intermediate
+146,549,4.075614255722345,Learn English: Advanced Academic Speaking and Listening,"University of California, Irvine",Intermediate
+146,612,3.703924734683464,Modernizing Data Lakes and Data Warehouses with GCP,Google Cloud,Intermediate
+146,591,3.556155557217573,Mastering Final Cut Pro,LearnQuest,Beginner
+146,713,4.362479025403836,Sales Training for High Performing Teams,HubSpot Academy,Beginner
+146,770,3.9966086110777153,Supply Chain Management,Rutgers the State University of New Jersey,Beginner
+146,256,4.171398686112143,"Energy Production, Distribution & Safety",University at Buffalo,Beginner
+147,398,4.541558965707125,Gut Check: Exploring Your Microbiome,University of California San Diego,Mixed
+147,217,3.995397037871338,Design and Interpretation of Clinical Trials,Johns Hopkins University,Mixed
+147,800,3.8235105992626948,The Data Scientist’s Toolbox,Johns Hopkins University,Mixed
+147,273,3.986401769828185,Epidemics - the Dynamics of Infectious Diseases,The Pennsylvania State University,Mixed
+147,853,3.6983435650392957,Version Control with Git,Atlassian,Mixed
+147,167,4.188313070724511,Corporate Sustainability. Understanding and Seizing the Strategic Opportunity,Università Bocconi,Mixed
+147,409,4.6940098734417,"High Performance Collaboration: Leadership, Teamwork, and Negotiation",Northwestern University,Mixed
+147,604,4.0988982765176285,Microeconomics: The Power of Markets,University of Pennsylvania,Mixed
+147,623,3.984991258838898,"Negotiation, Mediation and Conflict Resolution",ESSEC Business School,Beginner
+147,446,4.522309096317595,Instructional Methods in Health Professions Education,University of Michigan,Intermediate
+147,101,3.636968224449312,Budgeting and Scheduling Projects,"University of California, Irvine",Mixed
+147,568,4.493967744202059,Machine Learning for Business Professionals,Google Cloud,Intermediate
+148,560,4.792067395261454,Liderazgo efectivo para el siglo XXI,Universidad de los Andes,Intermediate
+148,221,4.198397928362613,Developing Applications with Google Cloud Platform,Google Cloud,Intermediate
+148,760,3.574978328290416,Strategic Sales Management,Fundação Instituto de Administração,Intermediate
+148,170,4.3795812014787225,Costos para los Negocios,Universidad de Chile,Intermediate
+148,308,3.3821809357143775,Finance for Non-Financial Managers,Emory University,Intermediate
+148,692,4.565951891479874,"Ready, Set, Future! Introduction to Futures Thinking",Institute for the Future,Beginner
+148,216,3.7263967862899428,Design Thinking for the Greater Good: Innovation in the Social Sector,University of Virginia,Beginner
+148,338,3.849168110717607,Full Stack Web and Multiplatform Mobile App Development,The Hong Kong University of Science and Technology,Intermediate
+149,707,4.455405938138624,Russian for beginners А1. Русский язык: A1,Saint Petersburg State University,Beginner
+149,326,4.23754410481685,Foundational Finance for Strategic Decision Making,University of Michigan,Beginner
+149,532,4.499719295978908,Investment Management with Python and Machine Learning,EDHEC Business School,Beginner
+149,576,4.021115041483505,Managerial Economics and Business Analysis,University of Illinois at Urbana-Champaign,Beginner
+149,790,4.120640780439658,The Addicted Brain,Emory University,Beginner
+149,844,4.136481468454691,Unity XR: How to Build AR and VR Apps,Unity,Beginner
+149,702,4.656196694094948,Rethinking International Tax Law,Universiteit Leiden,Mixed
+149,361,4.671312920670617,Futures Thinking,Institute for the Future,Beginner
+149,590,3.809510563725117,Mastering Data Analysis in Excel,Duke University,Mixed
+150,732,4.104371829482954,Social Media Marketing,Northwestern University,Beginner
+150,842,4.280709567766042,Understanding the Brain: The Neurobiology of Everyday Life,The University of Chicago,Beginner
+150,419,4.578461216321952,IBM Customer Engagement Specialist Professional Certificate,IBM,Beginner
+150,534,3.8727011406432488,Japanese for beginners 1,Saint Petersburg State University,Beginner
+150,883,4.161282962261136,Основы программирования на Python,National Research University Higher School of Economics,Beginner
+150,687,4.398009139130073,Python for Data Science and AI,IBM,Beginner
+150,29,4.089458284110906,Advanced Machine Learning with TensorFlow on Google Cloud Platform,Google Cloud,Advanced
+150,647,3.9911249642078586,Patient Safety,Johns Hopkins University,Beginner
+151,815,4.615043548829961,The Science of Well-Being,Yale University,Mixed
+151,249,4.019351626806059,Effective Compliance Programs,University of Pennsylvania,Mixed
+151,68,4.08044829075986,Arts and Culture Strategy,National Arts Strategies,Mixed
+151,542,4.203334174475664,Leadership in 21st Century Organizations,Copenhagen Business School,Mixed
+151,887,4.401222762161723,Психолингвистика (Psycholinguistics),Saint Petersburg State University,Mixed
+151,477,4.571769012596341,Introduction to Classical Music,Yale University,Mixed
+151,684,4.255262885430275,Python Data Structures,University of Michigan,Mixed
+151,273,4.548385390833546,Epidemics - the Dynamics of Infectious Diseases,The Pennsylvania State University,Mixed
+151,463,4.055193572741606,Internet Giants: The Law and Economics of Media Platforms,The University of Chicago,Mixed
+151,445,3.581987785306299,Instructional Design Foundations and Applications,University of Illinois at Urbana-Champaign,Mixed
+151,554,3.967119667468082,Learn Spanish: Basic Spanish Vocabulary,"University of California, Davis",Beginner
+151,691,4.045605476786084,R Programming,Johns Hopkins University,Intermediate
+151,718,4.0562740811746165,Search Engine Optimization Fundamentals,"University of California, Davis",Mixed
+152,337,3.96021912446405,Front-End Web UI Frameworks and Tools: Bootstrap 4,The Hong Kong University of Science and Technology,Intermediate
+152,1,3.901883146209316,A Crash Course in Causality:  Inferring Causal Effects from Observational Data,University of Pennsylvania,Intermediate
+152,80,4.366067811335606,Bayesian Statistics: From Concept to Data Analysis,"University of California, Santa Cruz",Intermediate
+152,634,4.243959139124838,Object-Oriented Data Structures in C++,University of Illinois at Urbana-Champaign,Intermediate
+152,714,4.230937408570502,Sample-based Learning Methods,University of Alberta,Intermediate
+152,761,4.01105933560793,Strategising: Management for Global Competitive Advantage,Macquarie University,Intermediate
+153,58,4.367968502312345,"Applied Plotting, Charting & Data Representation in Python",University of Michigan,Intermediate
+153,830,4.211263276552665,U.S. Federal Taxation,University of Illinois at Urbana-Champaign,Intermediate
+153,140,4.243142725314899,Cloud Computing,University of Illinois at Urbana-Champaign,Intermediate
+153,475,4.380080926148,Introduction to Calculus,The University of Sydney,Intermediate
+153,838,3.761985037836809,Understanding Modern Finance,American Institute of Business and Economics,Intermediate
+153,886,3.807642178455222,Программирование на Python,Mail.Ru Group,Intermediate
+153,338,4.108413518283342,Full Stack Web and Multiplatform Mobile App Development,The Hong Kong University of Science and Technology,Intermediate
+153,641,3.9733746514948676,Organizational Leadership,Northwestern University,Intermediate
+153,338,4.286975356540806,Full Stack Web and Multiplatform Mobile App Development,The Hong Kong University of Science and Technology,Intermediate
+153,794,4.386498907230555,The Bits and Bytes of Computer Networking,Google,Beginner
+153,205,4.033043280196076,Data Warehousing for Business Intelligence,University of Colorado System,Advanced
+153,378,3.6141556677418514,Getting Started with Google Sheets,Google Cloud,Beginner
+154,620,5.0,Nanotechnology: A Maker’s Course,Duke University,Mixed
+154,815,4.27021550577951,The Science of Well-Being,Yale University,Mixed
+154,401,4.65557904387306,Hacia una práctica constructivista en el aula,Pontificia Universidad Católica de Chile,Mixed
+154,853,4.774983435352589,Version Control with Git,Atlassian,Mixed
+154,393,3.750611282859988,Grammar and Punctuation,"University of California, Irvine",Mixed
+154,114,3.8491422487660385,Business Model Innovation,HEC Paris,Mixed
+154,89,3.960731337351469,Big Data – Introducción al uso práctico de datos masivos,Universitat Autònoma de Barcelona,Beginner
+154,458,4.389566269922935,International Organizations Management,University of Geneva,Beginner
+154,416,3.871003206008931,IBM AI Engineering,IBM,Intermediate
+155,507,3.782967299044153,Introduction to Philosophy,The University of Edinburgh,Mixed
+155,66,4.143159144973805,Art & Activity: Interactive Strategies for Engaging with Art,The Museum of Modern Art,Mixed
+155,590,3.9433765964688194,Mastering Data Analysis in Excel,Duke University,Mixed
+155,756,3.768065641527704,Strategic Business Management - Microeconomics,"University of California, Irvine",Beginner
+155,126,3.996892239610515,"Cameras, Exposure, and Photography",Michigan State University,Mixed
+156,665,3.9051706132704584,"Presentation Skills: Speechwriting, Slides and Delivery",E-Learning Development Fund,Beginner
+156,304,4.0135799215263015,FinTech: Finance Industry Transformation and Regulation,The Hong Kong University of Science and Technology,Beginner
+156,459,4.255946624233577,International Security Management,Erasmus University Rotterdam,Beginner
+156,821,4.193998436394087,The Technology of Music Production,Berklee College of Music,Beginner
+156,856,3.93998414511682,Virtual Teacher,"University of California, Irvine",Beginner
+156,59,3.558192716707016,Aprende a programar con Python,Universidad Austral,Beginner
+156,152,3.848347247104499,Computer Security and Systems Management,University of Colorado System,Beginner
+156,73,4.04413657330503,Autism Spectrum Disorder,"University of California, Davis",Mixed
+156,870,4.141816203045804,Write Your First Novel,Michigan State University,Beginner
+156,508,3.752905721044097,Introduction to Portfolio Construction and Analysis with Python,EDHEC Business School,Mixed
+157,125,4.365227360690943,COVID-19: What You Need to Know (CME Eligible),Osmosis,Beginner
+157,742,3.89136823792779,Songwriting: Writing the Lyrics,Berklee College of Music,Beginner
+157,536,4.106726676614703,Java Programming: Solving Problems with Software,Duke University,Beginner
+157,302,4.265698754343046,Feminism and Social Justice,"University of California, Santa Cruz",Beginner
+157,96,4.041827101689786,Blockchain Revolution in Financial Services,INSEAD,Beginner
+157,280,4.1833300033890914,Esports,"University of California, Irvine",Beginner
+157,281,3.8595514561449398,Essential Epidemiologic Tools for Public Health Practice,Johns Hopkins University,Beginner
+157,304,3.8984685754284207,FinTech: Finance Industry Transformation and Regulation,The Hong Kong University of Science and Technology,Beginner
+157,250,5.0,Egiptología (Egyptology),Universitat Autònoma de Barcelona,Beginner
+157,461,4.4683954315599195,International migrations: a global issue,Sciences Po,Beginner
+157,271,4.279636269509163,Entrepreneurship Strategy: From Ideation to Exit,HEC Paris,Beginner
+157,128,4.126709140295059,"Capstone: Retrieving, Processing, and Visualizing Data with Python",University of Michigan,Mixed
+157,269,4.084812285621449,Entrepreneurship 2: Launching your Start-Up,University of Pennsylvania,Mixed
+157,607,4.521258384251069,Model Thinking,University of Michigan,Mixed
+157,277,4.473277243101931,Epidemiology: The Basic Science of Public Health,The University of North Carolina at Chapel Hill,Mixed
+158,863,4.4434579939326815,What is Compliance?,University of Pennsylvania,Mixed
+158,380,4.60941132148725,Global Diplomacy – Diplomacy in the Modern World,SOAS University of London,Mixed
+158,758,4.2306296014291975,Strategic Management,Copenhagen Business School,Mixed
+158,477,4.5298403279211925,Introduction to Classical Music,Yale University,Mixed
+158,502,4.28006576871736,Introduction to International Criminal Law,Case Western Reserve University,Mixed
+158,809,4.419440117968594,The Power of Microeconomics: Economic Principles in the Real World,"University of California, Irvine",Mixed
+158,463,4.180852635766673,Internet Giants: The Law and Economics of Media Platforms,The University of Chicago,Mixed
+158,452,3.6068110474939314,International Cyber Conflicts,The State University of New York,Mixed
+158,593,4.8282605263790925,Materials Science: 10 Things Every Engineer Should Know,"University of California, Davis",Mixed
+158,15,4.0280070294624775,AWS Fundamentals: Going Cloud-Native,Amazon Web Services,Beginner
+158,322,4.053842087134966,First Step Korean,Yonsei University,Beginner
+158,154,4.362881925689427,Construction Cost Estimating and Cost Control,Columbia University,Beginner
+158,368,3.9762646142134757,Genomic Data Science,Johns Hopkins University,Intermediate
+158,526,3.9072542114263844,Introduction to Web Development,"University of California, Davis",Beginner
+159,259,4.244224322975118,English Composition I,Duke University,Beginner
+159,833,4.289675551378347,UX Design Fundamentals,California Institute of the Arts,Beginner
+159,814,4.460911622468103,The Science of Training Young Athletes,University of Florida,Beginner
+159,762,4.5916282352925215,Strategy and Sustainability,IESE Business School,Beginner
+159,719,4.313944545466837,Secure Coding Practices,"University of California, Davis",Intermediate
+159,227,3.7749342103268564,Digital Advertising Strategy,University of Colorado Boulder,Beginner
+159,152,4.052154477728963,Computer Security and Systems Management,University of Colorado System,Beginner
+160,226,3.791937496417589,Devenir entrepreneur du changement,Ticket for Change,Mixed
+160,869,4.478401449708526,Write Professional Emails in English,Georgia Institute of Technology,Mixed
+160,247,4.5448192176126145,Economics of Money and Banking,Columbia University,Mixed
+160,835,3.941390596235277,Understanding Clinical Research: Behind the Statistics,University of Cape Town,Mixed
+160,132,4.127198290633395,Chicken Behaviour and Welfare,The University of Edinburgh,Mixed
+160,890,4.476575367310967,Финансовые инструменты для частного инвестора,National Research University Higher School of Economics,Beginner
+160,388,4.242666061054136,Good with Words: Writing and Editing,University of Michigan,Beginner
+160,328,4.498195801260329,Foundations of Everyday Leadership,University of Illinois at Urbana-Champaign,Mixed
+161,499,3.5420809578845827,Introduction to HTML5,University of Michigan,Mixed
+161,68,3.6527047084170006,Arts and Culture Strategy,National Arts Strategies,Mixed
+161,493,4.606057893863537,Introduction to Environmental Law and Policy,The University of North Carolina at Chapel Hill,Mixed
+161,477,4.342731517715891,Introduction to Classical Music,Yale University,Mixed
+161,262,3.9649705972828264,English for Journalism,University of Pennsylvania,Mixed
+161,684,4.2216841279536155,Python Data Structures,University of Michigan,Mixed
+161,492,4.597678429456952,Introduction to Engineering Mechanics,Georgia Institute of Technology,Mixed
+161,403,4.4413064979021035,Healing with the Arts,University of Florida,Mixed
+161,663,3.8851280651705418,Preparing for the Google Cloud Associate Cloud Engineer Exam,Google Cloud,Beginner
+161,492,4.722629799295928,Introduction to Engineering Mechanics,Georgia Institute of Technology,Mixed
+162,0,4.589788848450989,(ISC)² Systems Security Certified Practitioner (SSCP),(ISC)²,Beginner
+162,471,4.1951566789274395,Introduction to Blockchain Technologies,INSEAD,Beginner
+162,228,3.8708283967040265,Digital Business Models,Lund University,Beginner
+162,360,4.062856149890072,Fundraising and Development,"University of California, Davis",Beginner
+162,379,4.538431107815018,Getting Started with SAS Programming,SAS,Beginner
+162,572,4.309579961619544,Magic in the Middle Ages,Universitat de Barcelona,Beginner
+162,208,3.7558205805009575,Databases and SQL for Data Science,IBM,Beginner
+162,534,4.173509164871718,Japanese for beginners 1,Saint Petersburg State University,Beginner
+162,71,4.341549407333582,Astrobiology and the Search for Extraterrestrial Life,The University of Edinburgh,Mixed
+162,442,3.8454005487479113,Inspirational Leadership: Leading with Sense,HEC Paris,Beginner
+162,455,4.484176007542423,International Law in Action: the Arbitration of International Disputes,Universiteit Leiden,Mixed
+162,158,3.897985553918812,Contabilidad para no contadores,Universidad Nacional Autónoma de México,Beginner
+163,278,4.41545775756534,Epigenetic Control of Gene Expression,The University of Melbourne,Mixed
+163,456,3.9764624528503254,International Leadership and Organizational Behavior,Università Bocconi,Mixed
+163,739,3.4375928132863183,Software Processes and Agile Practices,University of Alberta,Mixed
+163,505,3.9644708910138897,Introduction to Operations Management,University of Pennsylvania,Mixed
+163,863,4.534176560368952,What is Compliance?,University of Pennsylvania,Mixed
+163,773,4.341985709623356,Supporting children with difficulties in reading and writing,UCL Institute of Education,Mixed
+163,815,4.417489029674168,The Science of Well-Being,Yale University,Mixed
+163,822,4.59933843176103,The Truth About Cats and Dogs,The University of Edinburgh,Mixed
+163,467,4.0048556782306,Introduction aux Droits de l’Homme,University of Geneva,Mixed
+163,561,4.001338980964047,Linear Circuits 1: DC Analysis,Georgia Institute of Technology,Mixed
+163,502,4.4793719367647835,Introduction to International Criminal Law,Case Western Reserve University,Mixed
+163,297,4.308283447237323,Excel/VBA for Creative Problem Solving,University of Colorado Boulder,Beginner
+163,427,4.69824996404076,"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",deeplearning.ai,Beginner
+163,542,4.2040079188432555,Leadership in 21st Century Organizations,Copenhagen Business School,Mixed
+163,300,4.820250432635854,Explorando la Energía Sustentable,Pontificia Universidad Católica de Chile,Beginner
+164,423,5.0,"Identifying, Monitoring, and Analyzing Risk and Incident Response and Recovery",(ISC)²,Beginner
+164,658,4.548430975206597,Positive Psychology: Martin E. P. Seligman’s Visionary Science,University of Pennsylvania,Beginner
+164,824,4.439745682113303,Think Again I: How to Understand Arguments,Duke University,Beginner
+164,698,3.7882152214312166,Requirements Engineering: Secure Software  Specifications,University of Colorado System,Beginner
+164,344,4.1555802438942075,Fundamentals of Computing,Rice University,Beginner
+164,431,4.300274147874811,Industrial IoT on Google Cloud Platform,Google Cloud,Beginner
+164,448,4.246187801033368,Intellectual Property Law,University of Pennsylvania,Intermediate
+165,560,4.442926226738916,Liderazgo efectivo para el siglo XXI,Universidad de los Andes,Intermediate
+165,294,4.424326811798065,Excel Skills for Business: Intermediate I,Macquarie University,Intermediate
+165,563,3.723425720609123,Machine Learning,University of Washington,Intermediate
+165,601,3.9200999639521634,Memoir and Personal Essay: Write About Yourself,Wesleyan University,Beginner
+165,694,4.0419613163108545,"Recruiting, Hiring, and Onboarding Employees",University of Minnesota,Mixed
+166,533,4.230021949137479,Investment and Portfolio Management,Rice University,Beginner
+166,733,4.2060198550174945,"Social Norms, Social Change I",University of Pennsylvania,Beginner
+166,183,3.9347260745148827,Cybersecurity for Business,University of Colorado System,Beginner
+166,173,4.121556580176796,Creative Writing,Wesleyan University,Beginner
+166,662,4.321218709561101,Practical Time Series Analysis,The State University of New York,Intermediate
+166,381,4.334364017277391,Global Diplomacy: the United Nations in the World,SOAS University of London,Beginner
+166,513,3.8247850663768563,Introduction to Scripting in Python,Rice University,Beginner
+167,557,3.7957072141792083,Learning to Teach Online,UNSW Sydney (The University of New South Wales),Beginner
+167,289,3.8734535106299086,"Everyday Excel, Part 1",University of Colorado Boulder,Beginner
+167,43,4.088259667607826,An Introduction to Programming the Internet of Things (IOT),"University of California, Irvine",Beginner
+167,160,4.4063051962841815,Continuous Delivery & DevOps,University of Virginia,Beginner
+167,824,4.745223502547599,Think Again I: How to Understand Arguments,Duke University,Beginner
+167,587,3.8323440230411263,Marketing Verde,Universidad de los Andes,Mixed
+167,235,5.0,Discrete Optimization,The University of Melbourne,Intermediate
+167,217,4.49792668485257,Design and Interpretation of Clinical Trials,Johns Hopkins University,Mixed
+168,567,4.595161412147957,Machine Learning for All,University of London,Beginner
+168,609,4.303043629193863,Modern Art & Ideas,The Museum of Modern Art,Beginner
+168,489,3.8228398349496904,Introduction to Discrete Mathematics for Computer Science,National Research University Higher School of Economics,Beginner
+168,672,3.934861155900212,"Programming Foundations with JavaScript, HTML and CSS",Duke University,Beginner
+168,419,4.483240147560013,IBM Customer Engagement Specialist Professional Certificate,IBM,Beginner
+168,260,4.644040607748296,English for Business and Entrepreneurship,University of Pennsylvania,Beginner
+168,178,4.137299418044366,Culture-Driven Team Building,University of Pennsylvania,Beginner
+168,145,3.940620798418696,Communication Skills for Engineers,Rice University,Beginner
+168,544,4.0845120579339795,Leading People and Teams,University of Michigan,Beginner
+168,214,3.468575438310823,Dermatology: Trip to skin,Novosibirsk State University ,Beginner
+168,202,4.727792618042291,Data Visualization with Advanced Excel,PwC,Beginner
+169,57,3.777217719397338,Applied Machine Learning in Python,University of Michigan,Intermediate
+169,714,4.223114923469214,Sample-based Learning Methods,University of Alberta,Intermediate
+169,325,4.332771128967303,Formulación y evaluación de proyectos complejos,Universidad de los Andes,Intermediate
+169,220,4.099008557138443,Developing APIs with Google Cloud's Apigee API Platform,Google Cloud,Intermediate
+169,432,4.629294717769892,Infectious Disease Modelling,Imperial College London,Intermediate
+169,254,4.271156571230346,Electronic Music Production,Berklee College of Music,Intermediate
+169,870,3.6371632270270378,Write Your First Novel,Michigan State University,Beginner
+169,418,4.12759068252967,IBM Applied AI,IBM,Beginner
+170,340,4.3745233005339585,Functional Programming Principles in Scala,École Polytechnique Fédérale de Lausanne,Intermediate
+170,7,4.030799457606086,AI For Medical Treatment,deeplearning.ai,Intermediate
+170,390,4.7373605939296946,Google Cloud Platform Fundamentals for AWS Professionals,Google Cloud,Intermediate
+170,428,4.004589597733995,Improving Leadership & Governance in Nonprofit Organizations,Luther College at the University of Regina,Beginner
+170,386,4.466790428067656,Global Trends for Business and Society,University of Pennsylvania,Mixed
+171,588,4.072097329516334,Marketing con Redes Sociales,Tecnológico de Monterrey,Intermediate
+171,195,3.809359224342882,Data Mining,University of Illinois at Urbana-Champaign,Intermediate
+171,162,4.3214060489780035,Convolutional Neural Networks,deeplearning.ai,Intermediate
+171,111,3.880302098156279,Business English Communication Skills,University of Washington,Intermediate
+171,671,4.384395860785098,Process Mining: Data science in Action,Eindhoven University of Technology,Intermediate
+171,446,4.52297397586471,Instructional Methods in Health Professions Education,University of Michigan,Intermediate
+171,875,4.6540796326395695,Étudier en France: French Intermediate course B1-B2,École Polytechnique,Intermediate
+171,524,4.434261022197207,Introduction to User Experience Design,Georgia Institute of Technology,Beginner
+171,548,4.10185444260639,Learn English,Tsinghua University,Beginner
+171,770,3.6865525692473726,Supply Chain Management,Rutgers the State University of New Jersey,Beginner
+171,190,4.124598146151861,Data Collection and Processing with Python,University of Michigan,Intermediate
+172,347,3.9954004049208676,Fundamentals of Graphic Design,California Institute of the Arts,Beginner
+172,121,4.710927865857068,Business and Financial Modeling,University of Pennsylvania,Beginner
+172,298,4.68895685722918,"Excel/VBA for Creative Problem Solving, Part 1",University of Colorado Boulder,Beginner
+172,581,4.1792217521598705,Market Research,"University of California, Davis",Beginner
+172,666,4.4322397392851505,Pricing Strategy Optimization,BCG,Beginner
+172,15,4.634794576256038,AWS Fundamentals: Going Cloud-Native,Amazon Web Services,Beginner
+172,677,4.111266448643354,Project Launch,"University of California, Irvine",Beginner
+172,710,4.3906774871805725,SAS Visual Business Analytics,SAS,Beginner
+172,372,4.882852607116461,Gestión de organizaciones efectivas,Pontificia Universidad Católica de Chile,Mixed
+172,220,4.255707671314783,Developing APIs with Google Cloud's Apigee API Platform,Google Cloud,Intermediate
+172,385,4.382615747589371,Global Financing Solutions  (by EDHEC and Société Générale),EDHEC Business School,Intermediate
+172,580,4.108232416866815,Managing Your Health: The Role of Physical Therapy and Exercise,University of Toronto,Beginner
+173,606,4.4204003530483424,Miracles of Human Language: An Introduction to Linguistics,Universiteit Leiden,Beginner
+173,47,4.437941832611035,Anatomy: Musculoskeletal and Integumentary Systems,University of Michigan,Beginner
+173,423,4.155199741229361,"Identifying, Monitoring, and Analyzing Risk and Incident Response and Recovery",(ISC)²,Beginner
+173,113,4.343704458533506,Business Foundations,University of Pennsylvania,Beginner
+173,756,3.8529093356396316,Strategic Business Management - Microeconomics,"University of California, Irvine",Beginner
+173,41,4.400691673517028,An Introduction to American Law,University of Pennsylvania,Beginner
+173,688,4.173879159447067,Python for Everybody,University of Michigan,Beginner
+173,770,4.570259812367809,Supply Chain Management,Rutgers the State University of New Jersey,Beginner
+173,357,4.208347815671344,Fundamentos de Excel para Negocios,Universidad Austral,Beginner
+173,204,3.7643976205925376,Data Visualization with Tableau,"University of California, Davis",Beginner
+173,72,4.529307992584179,Atención Primaria en Salud: El desafío de las Enfermedades no Transmisibles,Pontificia Universidad Católica de Chile,Intermediate
+173,720,4.224651503447381,Security & Safety Challenges in a Globalized World,Universiteit Leiden,Beginner
+173,388,4.083226565469049,Good with Words: Writing and Editing,University of Michigan,Beginner
+173,606,4.137975677421797,Miracles of Human Language: An Introduction to Linguistics,Universiteit Leiden,Beginner
+173,696,4.056436759812939,Renewable Energy and Green Building Entrepreneurship,Duke University,Beginner
+174,878,4.643634282328895,Искусство разработки на современном C++,E-Learning Development Fund,Intermediate
+174,22,4.170973773572838,Accounting for Decision Making,University of Michigan,Intermediate
+174,721,4.402076826288545,Security in Google Cloud Platform,Google Cloud,Intermediate
+174,446,4.523451273806759,Instructional Methods in Health Professions Education,University of Michigan,Intermediate
+174,162,4.400882711389747,Convolutional Neural Networks,deeplearning.ai,Intermediate
+174,7,5.0,AI For Medical Treatment,deeplearning.ai,Intermediate
+174,888,4.484610387888208,Разработка интерфейсов: вёрстка и JavaScript,E-Learning Development Fund,Intermediate
+174,295,4.180755098820568,Excel Skills for Business: Intermediate II,Macquarie University,Intermediate
+174,788,4.0935023253967895,TensorFlow: Data and Deployment,deeplearning.ai,Intermediate
+174,520,4.698439811425307,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",deeplearning.ai,Intermediate
+174,838,3.746081276590918,Understanding Modern Finance,American Institute of Business and Economics,Intermediate
+174,240,4.40845564832623,Driving business towards the Sustainable Development Goals,Erasmus University Rotterdam,Beginner
+174,21,3.784331374533335,Accounting Analytics,University of Pennsylvania,Mixed
+174,709,4.069983853673988,SAS Programmer,SAS,Beginner
+174,300,4.083747285916811,Explorando la Energía Sustentable,Pontificia Universidad Católica de Chile,Beginner
+175,491,3.95630154318897,Introduction to Embedded Systems Software and Development Environments,University of Colorado Boulder,Intermediate
+175,632,3.916292389932974,Object Oriented Java Programming: Data Structures and Beyond,University of California San Diego,Intermediate
+175,807,4.240111556355725,The Oral Cavity: Portal to Health and Disease,University of Pennsylvania,Intermediate
+175,703,4.47418447885098,Revisão Sistemática e Meta-análise,Universidade Estadual de Campinas,Intermediate
+175,888,3.952704659761452,Разработка интерфейсов: вёрстка и JavaScript,E-Learning Development Fund,Intermediate
+175,325,3.995871173800861,Formulación y evaluación de proyectos complejos,Universidad de los Andes,Intermediate
+175,312,3.8328983206651173,Financial Management,University of Illinois at Urbana-Champaign,Intermediate
+175,164,5.0,Corporate & Commercial Law I: Contracts & Employment Law,University of Illinois at Urbana-Champaign,Intermediate
+175,416,4.023670620089407,IBM AI Engineering,IBM,Intermediate
+175,412,4.6591954904033805,How Things Work: An Introduction to Physics,University of Virginia,Intermediate
+175,858,4.382314409891692,Web Applications for Everybody,University of Michigan,Intermediate
+175,701,5.0,Responsive Website Development and Design,"Goldsmiths, University of London",Beginner
+175,645,3.8951189811225153,"Parallel, Concurrent, and Distributed Programming in Java",Rice University,Intermediate
+175,313,3.954761219760382,Financial Markets,Yale University,Beginner
+175,265,3.943584570972659,Enterprise Architecture,Peter the Great St. Petersburg Polytechnic University,Beginner
+176,815,4.654501281376205,The Science of Well-Being,Yale University,Mixed
+176,324,4.1684690769345005,Forensic Accounting and Fraud Examination,West Virginia University,Mixed
+176,822,4.227000520361725,The Truth About Cats and Dogs,The University of Edinburgh,Mixed
+176,886,3.9545092910010653,Программирование на Python,Mail.Ru Group,Intermediate
+176,241,4.851386637877545,Drug Commercialization,University of California San Diego,Beginner
+177,501,4.070348066956855,Introduction to Intellectual Property,University of Pennsylvania,Beginner
+177,427,4.275588861493626,"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",deeplearning.ai,Beginner
+177,342,4.31917425486395,Fundamental Neuroscience for Neuroimaging,Johns Hopkins University,Beginner
+177,301,4.222751580923403,Fashion as Design,The Museum of Modern Art,Beginner
+177,589,3.8704475147688076,Marketing in a Digital World,University of Illinois at Urbana-Champaign,Beginner
+177,186,3.696354047927473,Data Analysis and Interpretation,Wesleyan University,Beginner
+177,729,3.9647617483552478,"Sleep: Neurobiology, Medicine, and Society",University of Michigan,Beginner
+177,513,4.461356514445858,Introduction to Scripting in Python,Rice University,Beginner
+177,597,3.778326436105809,Mathematics for Machine Learning: Multivariate Calculus,Imperial College London,Beginner
+177,172,4.355324819894468,Creative Problem Solving,University of Minnesota,Mixed
+177,821,4.595519071551389,The Technology of Music Production,Berklee College of Music,Beginner
+177,500,3.650350223201416,Introduction to Imagemaking,California Institute of the Arts,Beginner
+177,152,4.400301566249575,Computer Security and Systems Management,University of Colorado System,Beginner
+178,53,3.8840820359751667,Antimicrobial resistance - theory and methods,Technical University of Denmark (DTU),Intermediate
+178,522,3.7425391729489497,"Introduction to Trading, Machine Learning & GCP",New York Institute of Finance,Intermediate
+178,818,3.5443126104322173,The Strategy of Content Marketing,"University of California, Davis",Intermediate
+178,491,3.700841188331183,Introduction to Embedded Systems Software and Development Environments,University of Colorado Boulder,Intermediate
+178,401,4.0416225813706665,Hacia una práctica constructivista en el aula,Pontificia Universidad Católica de Chile,Mixed
+178,92,4.229766807880951,Biostatistics in Public Health,Johns Hopkins University,Beginner
+178,320,4.7587457476976365,Finding Purpose and Meaning In Life: Living for What Matters Most,University of Michigan,Beginner
+179,64,3.7698175168652264,Architecting with Google Kubernetes Engine 日本語版,Google Cloud,Beginner
+179,599,3.9892134337286564,Medical Cannabis: The Health Effects of THC and CBD,University of Colorado Boulder,Beginner
+179,362,4.276364442633117,G Suite Administration,Google Cloud,Beginner
+179,13,3.7209884577417984,AWS Fundamentals: Addressing Security Risk,Amazon Web Services,Beginner
+179,512,4.65377001606235,Introduction to Psychology,Yale University,Beginner
+179,490,4.3842591345722015,Introduction to Electronics,Georgia Institute of Technology,Mixed
+179,334,4.037961895032202,From Data to Insights with Google Cloud Platform,Google Cloud,Beginner
+179,135,4.420967684589809,Cisco Networking Basics,Cisco,Beginner
+180,287,4.202138877787741,Estadística y probabilidad,Universidad Nacional Autónoma de México,Beginner
+180,629,3.9798866250772886,Newborn Baby Care,University of Colorado System,Beginner
+180,453,4.614227004420784,International Humanitarian Law in Theory and Practice,Kalshoven-Gieskes Forum,Beginner
+180,316,3.7767891066599253,Financial Technology (Fintech) Innovations,University of Michigan,Beginner
+180,592,3.7877629148521312,Mastering Software Development in R,Johns Hopkins University,Beginner
+181,889,4.213175724204569,Русский как иностранный,Saint Petersburg State University,Intermediate
+181,254,4.314177703469698,Electronic Music Production,Berklee College of Music,Intermediate
+181,75,4.325893834550112,Autodesk CAD/CAM/CAE for Mechanical Engineering,Autodesk,Intermediate
+181,650,4.393882765044551,Perfect Tenses and Modals,"University of California, Irvine",Intermediate
+181,349,4.540367433813911,Fundamentals of Immunology: Innate Immunity and B-Cell Function,Rice University,Intermediate
+181,432,4.716877027422232,Infectious Disease Modelling,Imperial College London,Intermediate
+181,376,3.9491746334394557,Getting Started with Go,"University of California, Irvine",Intermediate
+181,765,4.225493002852472,Successful Negotiation: Essential Strategies and Skills,University of Michigan,Mixed
+181,318,4.1068288078593636,Finanzas corporativas,Universidad Nacional Autónoma de México,Intermediate
+181,467,4.223138938459983,Introduction aux Droits de l’Homme,University of Geneva,Mixed
+181,530,4.220110236264622,Introdução à Ciência da Computação com Python Parte 1,Universidade de São Paulo,Beginner
+182,305,4.664049310485703,"FinTech: Foundations, Payments, and Regulations",University of Pennsylvania,Beginner
+182,844,3.717106134751017,Unity XR: How to Build AR and VR Apps,Unity,Beginner
+182,327,4.040041678183949,Foundations of Business Strategy,University of Virginia,Beginner
+182,429,4.337117600359985,In the Studio: Postwar Abstract Painting,The Museum of Modern Art,Beginner
+182,839,4.3589038582303905,Understanding Plants - Part I: What a Plant Knows,Tel Aviv University,Beginner
+182,717,4.164410908163025,Science of Exercise,University of Colorado Boulder,Beginner
+182,534,3.4774664495764704,Japanese for beginners 1,Saint Petersburg State University,Beginner
+182,68,4.049597590753721,Arts and Culture Strategy,National Arts Strategies,Mixed
+182,876,4.245967428107502,Éxito Profesional,"University of California, Irvine",Beginner
+182,790,3.9816587321403127,The Addicted Brain,Emory University,Beginner
+182,704,3.803852149508977,Robotics,University of Pennsylvania,Beginner
+183,775,4.400103811538937,Sustainable Tourism – promoting environmental public health,University of Copenhagen,Beginner
+183,476,4.787173660373726,Introduction to Chemistry:  Reactions and Ratios,Duke University,Beginner
+183,813,4.15837162371391,The Science of Success: What Researchers Know that You Should Know,University of Michigan,Beginner
+183,819,4.670808761710774,"The Sustainable Development Goals – A global, transdisciplinary vision for the future",University of Copenhagen,Beginner
+183,289,4.198802565782357,"Everyday Excel, Part 1",University of Colorado Boulder,Beginner
+183,61,4.284344470582766,Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles (Learning How to Learn),University of California San Diego,Beginner
+183,194,4.140399357548704,Data Management for Clinical Research,Vanderbilt University,Beginner
+183,765,4.470984875488693,Successful Negotiation: Essential Strategies and Skills,University of Michigan,Mixed
+183,768,4.165310531705428,Supply Chain Finance and Blockchain Technology,New York Institute of Finance,Intermediate
+183,528,4.3173300294441574,Introductory Human Physiology,Duke University,Mixed
+184,340,3.819761810828214,Functional Programming Principles in Scala,École Polytechnique Fédérale de Lausanne,Intermediate
+184,875,4.289386840598628,Étudier en France: French Intermediate course B1-B2,École Polytechnique,Intermediate
+184,22,4.139482259983836,Accounting for Decision Making,University of Michigan,Intermediate
+184,693,3.6479222109057208,Recommender Systems,University of Minnesota,Intermediate
+184,747,3.661049657255012,Sports Marketing,Northwestern University,Intermediate
+184,177,3.8494397392865873,Cuidados y procedimientos generales en la atención del recién nacido,Universidad de Chile,Intermediate
+184,348,3.941799460868446,Fundamentals of Immunology,Rice University,Intermediate
+184,612,4.630868466805115,Modernizing Data Lakes and Data Warehouses with GCP,Google Cloud,Intermediate
+184,778,3.7412027910242114,Systems Biology and Biotechnology,Icahn School of Medicine at Mount Sinai,Intermediate
+184,315,4.615362572817375,Financial Reporting,University of Illinois at Urbana-Champaign,Intermediate
+184,70,4.69724118555824,Aspectos básicos de la planificación y la gestión de proyectos,University of Virginia,Beginner
+184,82,4.316172062110336,Become a CBRS Certified Professional Installer by Google,Google - Spectrum Sharing,Mixed
+184,93,4.90487443202137,Blended Language Learning: Design and Practice for Teachers,University of Colorado Boulder,Intermediate
+184,235,4.465723455113793,Discrete Optimization,The University of Melbourne,Intermediate
+184,401,4.141903580792706,Hacia una práctica constructivista en el aula,Pontificia Universidad Católica de Chile,Mixed
+185,203,4.760401585319452,Data Visualization with Python,IBM,Intermediate
+185,721,3.939053062681646,Security in Google Cloud Platform,Google Cloud,Intermediate
+185,843,4.512655539312046,Unity Certified Programmer Exam Preparation,Unity,Intermediate
+185,873,3.353449929513209,iOS App Development with Swift,University of Toronto,Intermediate
+185,611,4.708616623517982,"Modern Robotics:  Mechanics, Planning, and Control",Northwestern University,Intermediate
+185,512,4.4564787387085705,Introduction to Psychology,Yale University,Beginner
+185,860,4.361085860602815,Weight Management: Beyond Balancing Calories,Emory University,Beginner
+185,60,4.653118459143917,Aprender,Universidad Nacional Autónoma de México,Mixed
+186,843,4.428161644879906,Unity Certified Programmer Exam Preparation,Unity,Intermediate
+186,294,4.440291826422648,Excel Skills for Business: Intermediate I,Macquarie University,Intermediate
+186,339,4.382868033982008,Full-Stack Web Development with React,The Hong Kong University of Science and Technology,Intermediate
+186,220,4.220683630157804,Developing APIs with Google Cloud's Apigee API Platform,Google Cloud,Intermediate
+186,219,4.045296515165941,Design-Led Strategy: Design thinking for business strategy and entrepreneurship,The University of Sydney,Intermediate
+186,569,3.450329847549793,Machine Learning for Trading,Google Cloud,Intermediate
+186,884,4.66569186520673,Основы разработки на C++: белый пояс,E-Learning Development Fund,Intermediate
+186,549,4.195143023773767,Learn English: Advanced Academic Speaking and Listening,"University of California, Irvine",Intermediate
+186,405,3.672130964936763,Health Information Literacy for Data Analytics,"University of California, Davis",Intermediate
+186,584,4.096879538649764,Marketing Gerencial,Universidad de Chile,Intermediate
+186,166,4.377433189721375,Corporate Strategy,UCL School of Management,Beginner
+186,43,3.943577426208099,An Introduction to Programming the Internet of Things (IOT),"University of California, Irvine",Beginner
+186,623,4.430056123823833,"Negotiation, Mediation and Conflict Resolution",ESSEC Business School,Beginner
+186,354,3.695058690410542,Fundamentals of Visualization with Tableau,"University of California, Davis",Beginner
+186,326,4.4926583554848385,Foundational Finance for Strategic Decision Making,University of Michigan,Beginner
+187,130,4.615025481057697,Challenging Forensic Science: How Science Should Speak to Court,University of Lausanne,Beginner
+187,743,4.852853288861273,Soporte de Tecnologías de la Información de Google,Crece con Google,Beginner
+187,342,3.9249832641713067,Fundamental Neuroscience for Neuroimaging,Johns Hopkins University,Beginner
+187,361,4.145404223396764,Futures Thinking,Institute for the Future,Beginner
+187,157,4.372963083489674,Construction Scheduling,Columbia University,Beginner
+187,442,4.623230682309129,Inspirational Leadership: Leading with Sense,HEC Paris,Beginner
+187,618,4.735630773811692,Music Business Foundations,Berklee College of Music,Mixed
+187,483,4.575832681394827,Introduction to Cyber Security,New York University,Beginner
+187,674,4.26116983792499,Programming for Everybody (Getting Started with Python),University of Michigan,Mixed
+188,87,3.334427297015015,Behavioral Finance,Duke University,Mixed
+188,108,3.806091698451146,Building Your Leadership Skills,HEC Paris,Mixed
+188,804,3.9989066067011794,The Manager's Toolkit: A Practical Guide to Managing People at Work,"Birkbeck, University of London",Mixed
+188,808,4.218951383116102,The Power of Macroeconomics: Economic Principles in the Real World,"University of California, Irvine",Mixed
+188,507,4.17478353946572,Introduction to Philosophy,The University of Edinburgh,Mixed
+188,311,3.8504956580194234,Financial Engineering and Risk Management Part I,Columbia University,Mixed
+188,477,4.3843550453331135,Introduction to Classical Music,Yale University,Mixed
+188,758,4.112860086860306,Strategic Management,Copenhagen Business School,Mixed
+188,328,4.145862397787004,Foundations of Everyday Leadership,University of Illinois at Urbana-Champaign,Mixed
+188,2,3.866260403507285,A Crash Course in Data Science,Johns Hopkins University,Mixed
+188,764,5.0,Success,University of Pennsylvania,Beginner
+188,253,3.9462273622274386,Electric Industry Operations and Markets,Duke University,Beginner
+188,6,4.008162063771833,AI For Everyone,deeplearning.ai,Beginner
+188,670,4.066306615989515,Probability and Statistics: To p or not to p?,University of London,Beginner
+188,676,4.205307797914844,Project Execution,"University of California, Irvine",Beginner
+189,671,4.278042142589756,Process Mining: Data science in Action,Eindhoven University of Technology,Intermediate
+189,569,3.5887518320108915,Machine Learning for Trading,Google Cloud,Intermediate
+189,464,3.921790873772568,Interviewing and Resume Writing in English,"University of Maryland, College Park",Intermediate
+189,385,4.042987916117408,Global Financing Solutions  (by EDHEC and Société Générale),EDHEC Business School,Intermediate
+189,110,4.642756801062299,Business English,Arizona State University,Intermediate
+189,650,4.277202828940979,Perfect Tenses and Modals,"University of California, Irvine",Intermediate
+189,838,3.8615217333012777,Understanding Modern Finance,American Institute of Business and Economics,Intermediate
+189,26,4.385605340129867,Advanced Business Analytics,University of Colorado Boulder,Intermediate
+189,693,4.63579256566484,Recommender Systems,University of Minnesota,Intermediate
+189,787,4.260387605217807,TensorFlow in Practice,deeplearning.ai,Intermediate
+189,544,4.3499418374942485,Leading People and Teams,University of Michigan,Beginner
+189,10,4.421919474084795,AI for Medical Prognosis,deeplearning.ai,Intermediate
+189,585,4.179938131229505,Marketing Mix Implementation,IE Business School,Beginner
+189,480,4.0029321668729025,Introduction to Computer Science and Programming,"Goldsmiths, University of London",Beginner
+189,682,4.275738296255648,Python Basics,University of Michigan,Beginner
+190,338,4.728664251558704,Full Stack Web and Multiplatform Mobile App Development,The Hong Kong University of Science and Technology,Intermediate
+190,26,3.642030829583587,Advanced Business Analytics,University of Colorado Boulder,Intermediate
+190,220,3.870913902611788,Developing APIs with Google Cloud's Apigee API Platform,Google Cloud,Intermediate
+190,292,4.431581474322512,Excel Skills for Business: Advanced,Macquarie University,Intermediate
+190,193,4.162458416763796,"Data Engineering, Big Data, and Machine Learning on GCP",Google Cloud,Intermediate
+190,75,4.434910955742716,Autodesk CAD/CAM/CAE for Mechanical Engineering,Autodesk,Intermediate
+190,248,4.151280291251175,Ecosystem Services: a Method for Sustainable Development,University of Geneva,Intermediate
+190,325,4.414666807857863,Formulación y evaluación de proyectos complejos,Universidad de los Andes,Intermediate
+190,882,4.410968406361789,Основы Digital Маркетинга,National Research University Higher School of Economics,Intermediate
+190,639,4.5132439820329315,Operations Analytics,University of Pennsylvania,Mixed
+190,459,3.7992349758490827,International Security Management,Erasmus University Rotterdam,Beginner
+190,301,4.517796607942448,Fashion as Design,The Museum of Modern Art,Beginner
+190,217,4.41751050118336,Design and Interpretation of Clinical Trials,Johns Hopkins University,Mixed
+191,449,3.8116443956933894,Interaction Design,University of California San Diego,Intermediate
+191,315,4.757849856570247,Financial Reporting,University of Illinois at Urbana-Champaign,Intermediate
+191,93,4.674212249807862,Blended Language Learning: Design and Practice for Teachers,University of Colorado Boulder,Intermediate
+191,683,4.285342037970871,Python Classes and Inheritance,University of Michigan,Intermediate
+191,254,3.873551600817449,Electronic Music Production,Berklee College of Music,Intermediate
+191,340,4.1578334364428144,Functional Programming Principles in Scala,École Polytechnique Fédérale de Lausanne,Intermediate
+191,788,3.247474611437217,TensorFlow: Data and Deployment,deeplearning.ai,Intermediate
+191,9,4.03220435808793,AI for Medical Diagnosis,deeplearning.ai,Intermediate
+191,611,4.306801501579769,"Modern Robotics:  Mechanics, Planning, and Control",Northwestern University,Intermediate
+191,229,3.8589980468176055,Digital Manufacturing & Design Technology,University at Buffalo,Beginner
+191,556,4.49598602899327,Learn to Speak Korean 1,Yonsei University,Beginner
+191,190,4.79004932459178,Data Collection and Processing with Python,University of Michigan,Intermediate
+191,62,4.008435041925631,Architecting with Google Cloud Platform 日本語版,Google Cloud,Intermediate
+191,552,3.608936193812243,Learn Mandarin Chinese,Shanghai Jiao Tong University,Beginner
+192,327,4.95412726637023,Foundations of Business Strategy,University of Virginia,Beginner
+192,357,4.141200156723667,Fundamentos de Excel para Negocios,Universidad Austral,Beginner
+192,471,4.176680946382276,Introduction to Blockchain Technologies,INSEAD,Beginner
+192,735,4.046872091578555,Social Psychology,Wesleyan University,Beginner
+192,437,3.8193052416876356,Information​ ​Systems,University of Minnesota,Beginner
+192,718,3.9273024758088146,Search Engine Optimization Fundamentals,"University of California, Davis",Mixed
+192,108,4.104858675465883,Building Your Leadership Skills,HEC Paris,Mixed
+193,174,3.9332551393884416,Creative Writing: The Craft of Plot,Wesleyan University,Mixed
+193,66,4.575909047227837,Art & Activity: Interactive Strategies for Engaging with Art,The Museum of Modern Art,Mixed
+193,161,4.862831644168088,Control of Mobile Robots,Georgia Institute of Technology,Mixed
+193,564,4.352369395769871,Machine Learning,Stanford University,Mixed
+193,87,3.903890911766052,Behavioral Finance,Duke University,Mixed
+193,231,3.660459713744842,Digital Media and Marketing Strategies,University of Illinois at Urbana-Champaign,Mixed
+193,281,4.677725556453444,Essential Epidemiologic Tools for Public Health Practice,Johns Hopkins University,Beginner
+193,347,4.497858474096626,Fundamentals of Graphic Design,California Institute of the Arts,Beginner
+193,51,3.168383833259251,Antibiotic Stewardship,Stanford University,Advanced
+194,483,4.251548700442133,Introduction to Cyber Security,New York University,Beginner
+194,34,4.319364509382412,Agile Meets Design Thinking,University of Virginia,Beginner
+194,647,4.1794120566050585,Patient Safety,Johns Hopkins University,Beginner
+194,774,4.053181657802004,Survey Data Collection and Analytics,"University of Maryland, College Park",Beginner
+194,379,4.557869553485654,Getting Started with SAS Programming,SAS,Beginner
+194,539,3.1691498428678604,L'excellence opérationnelle en pratique,ESSEC Business School,Beginner
+194,343,4.4497200686670695,Fundamentals of Accounting,University of Illinois at Urbana-Champaign,Beginner
+194,793,4.14995016516185,The Arts and Science of Relationships: Understanding Human Needs,University of Toronto,Beginner
+194,509,4.681164051946527,Introduction to Probability and Data,Duke University,Beginner
+194,6,4.022456958348728,AI For Everyone,deeplearning.ai,Beginner
+194,791,4.2455262453770155,The Art of Music Production,Berklee College of Music,Intermediate
+194,418,4.380833144255812,IBM Applied AI,IBM,Beginner
+195,633,4.10500928587698,Object Oriented Programming in Java,Duke University,Beginner
+195,877,4.234271794569549,Искусство ведения бизнеса,Saint Petersburg State University,Beginner
+195,255,4.490673372601101,Emerging Technologies: From Smartphones to IoT to Big Data,Yonsei University,Beginner
+195,173,4.270902936246502,Creative Writing,Wesleyan University,Beginner
+195,290,4.514461550766603,Everyday Parenting: The ABCs of Child Rearing,Yale University,Beginner
+195,327,4.735771688009944,Foundations of Business Strategy,University of Virginia,Beginner
+195,792,4.5699829116401265,The Art of Sales: Mastering the Selling Process,Northwestern University,Beginner
+195,126,4.303756021266156,"Cameras, Exposure, and Photography",Michigan State University,Mixed
+195,423,4.789381202185836,"Identifying, Monitoring, and Analyzing Risk and Incident Response and Recovery",(ISC)²,Beginner
+195,574,4.771389190810554,Management of Fashion and Luxury Companies,Università Bocconi,Mixed
+196,303,4.232525069653357,FinTech Law and Policy,Duke University,Beginner
+196,871,4.401936256835762,Writing in the Sciences,Stanford University,Beginner
+196,188,4.019817720075761,Data Analysis with Python,IBM,Beginner
+196,805,4.4210970139287635,"The Modern World, Part One: Global History from 1760 to 1910",University of Virginia,Beginner
+196,241,3.751257611674146,Drug Commercialization,University of California San Diego,Beginner
+196,845,4.8325457879026255,University Teaching,The University of Hong Kong,Beginner
+196,143,4.021555412907279,Coaching Skills for Managers,"University of California, Davis",Intermediate
+196,126,4.131863389799779,"Cameras, Exposure, and Photography",Michigan State University,Mixed
+196,725,4.206704687519715,Sharpened Visions: A Poetry Workshop,California Institute of the Arts,Beginner
+197,885,3.9907324770174553,Погружение в Python,Moscow Institute of Physics and Technology,Intermediate
+197,635,4.694862303822221,Object-Oriented Design,University of Alberta,Intermediate
+197,693,4.444977203598356,Recommender Systems,University of Minnesota,Intermediate
+197,723,4.380702698202644,Sequence Models,deeplearning.ai,Intermediate
+197,446,4.152374420393703,Instructional Methods in Health Professions Education,University of Michigan,Intermediate
+197,111,4.2197142927466595,Business English Communication Skills,University of Washington,Intermediate
+197,193,4.108989586660014,"Data Engineering, Big Data, and Machine Learning on GCP",Google Cloud,Intermediate
+197,605,4.295251109604048,Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential,McMaster University,Beginner
+197,129,4.22884550094107,Career Success,"University of California, Irvine",Beginner
+197,526,4.396674635920871,Introduction to Web Development,"University of California, Davis",Beginner
+197,81,4.452981412316718,Bayesian Statistics: Techniques and Models,"University of California, Santa Cruz",Intermediate
+198,4,4.142637539623522,A Life of Happiness and Fulfillment,Indian School of Business,Mixed
+198,656,4.591181179772366,Positive Psychology,The University of North Carolina at Chapel Hill,Mixed
+198,564,3.9874458475292993,Machine Learning,Stanford University,Mixed
+198,454,4.833191491175473,International Law in Action: A Guide to the International Courts and Tribunals in The Hague,Universiteit Leiden,Mixed
+198,66,3.9097504778279673,Art & Activity: Interactive Strategies for Engaging with Art,The Museum of Modern Art,Mixed
+198,490,4.445836470064997,Introduction to Electronics,Georgia Institute of Technology,Mixed
+198,101,4.085853023342015,Budgeting and Scheduling Projects,"University of California, Irvine",Mixed
+198,674,4.520357980111719,Programming for Everybody (Getting Started with Python),University of Michigan,Mixed
+198,651,5.0,Periodismo digital y combate a las fake news,Universidad Nacional Autónoma de México,Beginner
+198,499,4.021003919062616,Introduction to HTML5,University of Michigan,Mixed
+198,455,4.3959595108462315,International Law in Action: the Arbitration of International Disputes,Universiteit Leiden,Mixed
+198,718,4.543841628136464,Search Engine Optimization Fundamentals,"University of California, Davis",Mixed
+199,717,4.330939558936994,Science of Exercise,University of Colorado Boulder,Beginner
+199,805,4.60865222202287,"The Modern World, Part One: Global History from 1760 to 1910",University of Virginia,Beginner
+199,440,4.391480821353458,"Innovation Through Design: Think, Make, Break, Repeat",The University of Sydney,Beginner
+199,666,4.260875364486198,Pricing Strategy Optimization,BCG,Beginner
+199,628,4.126884405813397,New Approaches to Countering Terror: Countering Violent Extremism,"University of Maryland, College Park",Beginner
+199,373,4.4836810283227235,Get Interactive: Practical Teaching with Technology,Bloomsbury Learning Exchange,Beginner
+199,753,4.23525464409667,Statistics with R,Duke University,Beginner
+199,810,4.316782944767565,The Pronunciation of American English,"University of California, Irvine",Beginner

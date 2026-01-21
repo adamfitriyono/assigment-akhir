@@ -1,0 +1,892 @@
+course_id,course_title,organization,rating,enrollment,difficulty_Advanced,difficulty_Beginner,difficulty_Intermediate,difficulty_Mixed,certificate_type_COURSE,certificate_type_PROFESSIONAL CERTIFICATE,certificate_type_SPECIALIZATION
+0,(ISC)² Systems Security Certified Practitioner (SSCP),(ISC)²,0.8235294117647058,0.0011880569016726591,False,True,False,False,False,False,True
+1,A Crash Course in Causality:  Inferring Causal Effects from Observational Data,University of Pennsylvania,0.8235294117647058,0.004846021572612162,False,False,True,False,True,False,False
+2,A Crash Course in Data Science,Johns Hopkins University,0.7058823529411764,0.04017508206972019,False,False,False,True,True,False,False
+3,A Law Student's Toolkit,Yale University,0.8235294117647058,0.02798186649992184,False,False,False,True,True,False,False
+4,A Life of Happiness and Fulfillment,Indian School of Business,0.8823529411764703,0.09957792715335313,False,False,False,True,True,False,False
+5,ADHD: Everyday Strategies for Elementary Students,University at Buffalo,0.8235294117647058,0.011724245740190715,False,True,False,False,True,False,False
+6,AI For Everyone,deeplearning.ai,0.8823529411764703,0.10895732374550571,False,True,False,False,True,False,False
+7,AI For Medical Treatment,deeplearning.ai,0.8823529411764703,0.0002813818977645772,False,False,True,False,True,False,False
+8,AI Foundations for Everyone,IBM,0.8235294117647058,0.018602469907769266,False,True,False,False,False,False,True
+9,AI for Medical Diagnosis,deeplearning.ai,0.8235294117647058,0.0032827888072534,False,False,True,False,True,False,False
+10,AI for Medical Prognosis,deeplearning.ai,0.7647058823529409,0.000781616382679381,False,False,True,False,True,False,False
+11,AI for Medicine,deeplearning.ai,0.8235294117647058,0.0035954353603251527,False,False,True,False,False,False,True
+12,AWS Fundamentals,Amazon Web Services,0.7647058823529409,0.04017508206972019,False,True,False,False,False,False,True
+13,AWS Fundamentals: Addressing Security Risk,Amazon Web Services,0.588235294117647,0.002970142254181648,False,True,False,False,True,False,False
+14,AWS Fundamentals: Building Serverless Applications,Amazon Web Services,0.8235294117647058,0.007972487103329685,False,True,False,False,True,False,False
+15,AWS Fundamentals: Going Cloud-Native,Amazon Web Services,0.8235294117647058,0.03392215100828514,False,True,False,False,True,False,False
+16,AWS Fundamentals: Migrating to the Cloud,Amazon Web Services,0.7058823529411764,0.0035954353603251527,False,False,True,False,True,False,False
+17,Aboriginal Worldviews and Education,University of Toronto,0.8235294117647058,0.0015944974206659375,False,False,False,True,True,False,False
+18,Academic English: Writing,"University of California, Irvine",0.8235294117647058,0.16836016882913868,False,True,False,False,False,False,True
+19,Accelerated Computer Science Fundamentals,University of Illinois at Urbana-Champaign,0.8235294117647058,0.006409254337970924,False,False,True,False,False,False,True
+20,Access Controls,(ISC)²,0.7647058823529409,0.0004377051743004534,False,True,False,False,True,False,False
+21,Accounting Analytics,University of Pennsylvania,0.7058823529411764,0.024542754416132562,False,False,False,True,True,False,False
+22,Accounting for Decision Making,University of Michigan,0.8823529411764703,0.00262623104580272,False,False,True,False,True,False,False
+23,Achieving Personal and Professional Success,University of Pennsylvania,0.8235294117647058,0.03392215100828514,False,True,False,False,False,False,True
+24,Actualización en el manejo del paciente con diabetes mellitus tipo 2,Universidad Nacional Autónoma de México,0.8823529411764703,0.0067219008910426765,False,False,False,True,True,False,False
+25,Addiction Treatment: Clinical Skills for Healthcare Providers,Yale University,0.8823529411764703,0.002407378458652493,False,True,False,False,True,False,False
+26,Advanced Business Analytics,University of Colorado Boulder,0.7058823529411764,0.02391746130998906,False,False,True,False,False,False,True
+27,Advanced Data Science with IBM,IBM,0.6470588235294119,0.09957792715335313,True,False,False,False,False,False,True
+28,Advanced Machine Learning,National Research University Higher School of Economics,0.7058823529411764,0.05893387525402533,True,False,False,False,False,False,True
+29,Advanced Machine Learning with TensorFlow on Google Cloud Platform,Google Cloud,0.7058823529411764,0.010473659527903705,True,False,False,False,False,False,True
+30,"Advanced Valuation and Strategy - M&A, Private Equity, and Venture Capital",Erasmus University Rotterdam,0.8235294117647058,0.008597780209473192,True,False,False,False,True,False,False
+31,Advertising and Society,Duke University,0.8823529411764703,0.003908081913396905,False,False,False,True,True,False,False
+32,Age of Cathedrals,Yale University,0.8235294117647058,0.006096607784899171,False,True,False,False,True,False,False
+33,Agile Development,University of Virginia,0.8235294117647058,0.028919806159137095,False,True,False,False,False,False,True
+34,Agile Meets Design Thinking,University of Virginia,0.8235294117647058,0.021103642332343287,False,True,False,False,True,False,False
+35,Agile with Atlassian Jira,Atlassian,0.8235294117647058,0.012036892293262467,False,True,False,False,True,False,False
+36,Agile и Scrum в работе над проектами и продуктами,ScrumTrek,0.9411764705882357,0.0032827888072534,False,True,False,False,True,False,False
+37,Algorithmic Toolbox,University of California San Diego,0.8235294117647058,0.0683132718461779,False,False,True,False,True,False,False
+38,Algorithms,Stanford University,0.8823529411764703,0.04642801313115524,False,False,True,False,False,False,True
+39,Algorithms for Battery Management Systems,University of Colorado System,0.8823529411764703,0.003908081913396905,False,False,True,False,False,False,True
+40,American Contract Law I,Yale University,0.9411764705882357,0.005158668125683915,False,True,False,False,True,False,False
+41,An Introduction to American Law,University of Pennsylvania,0.8823529411764703,0.0067219008910426765,False,True,False,False,True,False,False
+42,An Introduction to Consumer Neuroscience & Neuromarketing,Copenhagen Business School,0.8235294117647058,0.021103642332343287,False,True,False,False,True,False,False
+43,An Introduction to Programming the Internet of Things (IOT),"University of California, Irvine",0.7647058823529409,0.08394559949976552,False,True,False,False,False,False,True
+44,Analysing: Numeric and digital literacies,Macquarie University,0.7647058823529409,0.0020009379396592154,False,True,False,False,False,False,True
+45,Anatomy,University of Michigan,0.8823529411764703,0.008910426762544943,False,True,False,False,False,False,True
+46,"Anatomy of the Chest, Abdomen, and Pelvis",Yale University,0.8823529411764703,0.010786306080975458,False,False,True,False,True,False,False
+47,Anatomy: Musculoskeletal and Integumentary Systems,University of Michigan,0.8823529411764703,0.005783961231827419,False,True,False,False,True,False,False
+48,Ancient Philosophy: Aristotle and His Successors,University of Pennsylvania,0.8823529411764703,0.0020634672502735656,False,False,False,True,True,False,False
+49,Android App Development,Vanderbilt University,0.7058823529411764,0.03704861653900266,False,True,False,False,False,False,True
+50,Animal Behaviour and Welfare,The University of Edinburgh,0.8823529411764703,0.021728935438486793,False,False,False,True,True,False,False
+51,Antibiotic Stewardship,Stanford University,0.7058823529411764,0.002970142254181648,True,False,False,False,True,False,False
+52,Anticorrupción: Introducción a conceptos y perspectiva práctica,Universidad Nacional Autónoma de México,0.8823529411764703,0.002970142254181648,False,True,False,False,True,False,False
+53,Antimicrobial resistance - theory and methods,Technical University of Denmark (DTU),0.7647058823529409,0.019227763013912772,False,False,True,False,True,False,False
+54,Applied Data Science,IBM,0.7647058823529409,0.0683132718461779,False,True,False,False,False,False,True
+55,Applied Data Science Capstone,IBM,0.8235294117647058,0.012662185399405971,False,False,True,False,True,False,False
+56,Applied Data Science with Python,University of Michigan,0.7058823529411764,0.14960137564483353,False,False,True,False,False,False,True
+57,Applied Machine Learning in Python,University of Michigan,0.7647058823529409,0.04642801313115524,False,False,True,False,True,False,False
+58,"Applied Plotting, Charting & Data Representation in Python",University of Michigan,0.7647058823529409,0.029857745818352353,False,False,True,False,True,False,False
+59,Aprende a programar con Python,Universidad Austral,0.5294117647058825,0.0015944974206659375,False,True,False,False,False,False,True
+60,Aprender,Universidad Nacional Autónoma de México,0.8823529411764703,0.06206034078474285,False,False,False,True,True,False,False
+61,Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles (Learning How to Learn),University of California San Diego,0.9411764705882357,0.055807409723307805,False,True,False,False,True,False,False
+62,Architecting with Google Cloud Platform 日本語版,Google Cloud,0.7058823529411764,0.0008441456932937316,False,False,True,False,False,False,True
+63,Architecting with Google Compute Engine,Google Cloud,0.8235294117647058,0.09645146162263561,False,False,True,False,False,False,True
+64,Architecting with Google Kubernetes Engine 日本語版,Google Cloud,0.7058823529411764,0.0007503517273722059,False,True,False,False,False,False,True
+65,Arizona State University TESOL,Arizona State University,0.9411764705882357,0.04642801313115524,False,True,False,False,False,True,False
+66,Art & Activity: Interactive Strategies for Engaging with Art,The Museum of Modern Art,0.8823529411764703,0.02423010786306081,False,False,False,True,True,False,False
+67,Art & Ideas: Teaching with Themes,The Museum of Modern Art,0.8823529411764703,0.009223073315616696,False,False,False,True,True,False,False
+68,Arts and Culture Strategy,National Arts Strategies,0.7647058823529409,0.004220728466468657,False,False,False,True,True,False,False
+69,Arts and Heritage Management,Università Bocconi,0.8823529411764703,0.004220728466468657,False,False,False,True,True,False,False
+70,Aspectos básicos de la planificación y la gestión de proyectos,University of Virginia,0.9411764705882357,0.002657495701109895,False,True,False,False,True,False,False
+71,Astrobiology and the Search for Extraterrestrial Life,The University of Edinburgh,0.8235294117647058,0.02016570267312803,False,False,False,True,True,False,False
+72,Atención Primaria en Salud: El desafío de las Enfermedades no Transmisibles,Pontificia Universidad Católica de Chile,0.8823529411764703,0.0098483664217602,False,False,True,False,True,False,False
+73,Autism Spectrum Disorder,"University of California, Davis",0.7647058823529409,0.017039237142410506,False,False,False,True,True,False,False
+74,Autodesk CAD/CAM for Manufacturing,Autodesk,0.8823529411764703,0.0018133500078161638,False,False,True,False,False,False,True
+75,Autodesk CAD/CAM/CAE for Mechanical Engineering,Autodesk,0.8823529411764703,0.002407378458652493,False,False,True,False,False,False,True
+76,Autodesk Certified Professional: AutoCAD for Design and Drafting Exam Prep,Autodesk,0.8235294117647058,0.006409254337970924,True,False,False,False,True,False,False
+77,Autodesk Certified Professional: Revit for Architectural Design Exam Prep,Autodesk,0.8235294117647058,0.0025637017351883696,True,False,False,False,True,False,False
+78,BIM Fundamentals for Engineers,National Taiwan University,0.7647058823529409,0.0035954353603251527,False,True,False,False,True,False,False
+79,Basic Statistics,University of Amsterdam,0.7647058823529409,0.055807409723307805,False,True,False,False,True,False,False
+80,Bayesian Statistics: From Concept to Data Analysis,"University of California, Santa Cruz",0.8823529411764703,0.02798186649992184,False,False,True,False,True,False,False
+81,Bayesian Statistics: Techniques and Models,"University of California, Santa Cruz",0.8823529411764703,0.008597780209473192,False,False,True,False,True,False,False
+82,Become a CBRS Certified Professional Installer by Google,Google - Spectrum Sharing,0.9411764705882357,0.06518680631546037,False,False,False,True,True,False,False
+83,Become a Journalist: Report the News!,Michigan State University,0.8235294117647058,0.008285133656401438,False,True,False,False,False,False,True
+84,Become a Sustainable Business Change Agent,University of Colorado System,0.8235294117647058,0.0008441456932937316,False,False,True,False,False,False,True
+85,Becoming a Sports Agent,Case Western Reserve University,0.8235294117647058,0.0015632327653587622,False,True,False,False,True,False,False
+86,Becoming a changemaker: Introduction to Social Innovation,University of Cape Town,0.8823529411764703,0.018602469907769266,False,True,False,False,True,False,False
+87,Behavioral Finance,Duke University,0.6470588235294119,0.016726590589338754,False,False,False,True,True,False,False
+88,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,University of Michigan,0.7647058823529409,0.00025011724245740187,False,False,False,True,True,False,False
+89,Big Data – Introducción al uso práctico de datos masivos,Universitat Autònoma de Barcelona,0.7058823529411764,0.0022823198374237923,False,True,False,False,False,False,True
+90,Biohacking Your Brain's Health,Emory University,0.7647058823529409,0.010473659527903705,False,True,False,False,True,False,False
+91,Biology Meets Programming: Bioinformatics for Beginners,University of California San Diego,0.6470588235294119,0.027043926840706584,False,True,False,False,True,False,False
+92,Biostatistics in Public Health,Johns Hopkins University,0.8823529411764703,0.003908081913396905,False,True,False,False,False,False,True
+93,Blended Language Learning: Design and Practice for Teachers,University of Colorado Boulder,0.8823529411764703,0.00012505862122870096,False,False,True,False,True,False,False
+94,Blockchain,University at Buffalo,0.7647058823529409,0.020790995779271536,False,False,True,False,False,False,True
+95,Blockchain Revolution,INSEAD,0.8235294117647058,0.006096607784899171,False,True,False,False,False,False,True
+96,Blockchain Revolution in Financial Services,INSEAD,0.7647058823529409,3.1264655307175254e-05,False,True,False,False,False,False,True
+97,Blockchain: Foundations and Use Cases,ConsenSys Academy,0.8235294117647058,0.009223073315616696,False,True,False,False,True,False,False
+98,Boosting Creativity for Innovation,HEC Paris,0.9411764705882357,0.002501172424574019,False,True,False,False,True,False,False
+99,"Brand Management: Aligning Business, Brand and Behaviour",London Business School,0.9411764705882357,0.017351883695482257,False,True,False,False,True,False,False
+100,Branding: The Creative Journey,IE Business School,0.7647058823529409,0.007659840550257934,False,True,False,False,False,False,True
+101,Budgeting and Scheduling Projects,"University of California, Irvine",0.8235294117647058,0.02579334062841957,False,False,False,True,True,False,False
+102,Bugs 101: Insect-Human Interactions,University of Alberta,0.9411764705882357,0.004220728466468657,False,True,False,False,True,False,False
+103,Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),Hebrew University of Jerusalem,0.9411764705882357,0.02923245271220885,False,False,False,True,True,False,False
+104,Building Batch Data Pipelines on GCP,Google Cloud,0.7058823529411764,0.0018133500078161638,False,False,True,False,True,False,False
+105,Building Conversational Experiences with Dialogflow,Google Cloud,0.7058823529411764,0.006409254337970924,False,True,False,False,True,False,False
+106,Building Resilient Streaming Analytics Systems on GCP,Google Cloud,0.7647058823529409,0.0013443801782085354,False,False,True,False,True,False,False
+107,Building Scalable Java Microservices with Spring Boot and Spring Cloud,Google Cloud,0.588235294117647,0.007034547444114429,False,False,True,False,True,False,False
+108,Building Your Leadership Skills,HEC Paris,0.7058823529411764,0.02047834922619978,False,False,False,True,True,False,False
+109,Business Analytics,University of Pennsylvania,0.7647058823529409,0.08707206503048304,False,True,False,False,False,False,True
+110,Business English,Arizona State University,0.8235294117647058,0.011411599187118962,False,False,True,False,False,False,True
+111,Business English Communication Skills,University of Washington,0.8235294117647058,0.03704861653900266,False,False,True,False,False,False,True
+112,Business English: Networking,University of Washington,0.8235294117647058,0.023604814756917305,False,False,True,False,True,False,False
+113,Business Foundations,University of Pennsylvania,0.8235294117647058,0.15898077223698612,False,True,False,False,False,False,True
+114,Business Model Innovation,HEC Paris,0.8235294117647058,0.0035954353603251527,False,False,False,True,True,False,False
+115,Business Statistics and Analysis,Rice University,0.8235294117647058,0.03392215100828514,False,True,False,False,False,False,True
+116,Business Strategies for A Better World,University of Pennsylvania,0.8235294117647058,0.007034547444114429,False,True,False,False,False,False,True
+117,Business Strategy,University of Virginia,0.8235294117647058,0.027356573393778335,False,True,False,False,False,False,True
+118,Business Technology Management,Indian School of Business,0.7058823529411764,0.02047834922619978,False,True,False,False,False,False,True
+119,Business Transformation with Google Cloud,Google Cloud,0.8235294117647058,0.002657495701109895,False,True,False,False,True,False,False
+120,Business Writing,University of Colorado Boulder,0.8823529411764703,0.014538064717836486,False,True,False,False,True,False,False
+121,Business and Financial Modeling,University of Pennsylvania,0.7058823529411764,0.04955447866187276,False,True,False,False,False,False,True
+122,C for Everyone: Programming Fundamentals,"University of California, Santa Cruz",0.7058823529411764,0.009223073315616696,False,True,False,False,True,False,False
+123,C# Programming for Unity Game Development,University of Colorado System,0.8235294117647058,0.010786306080975458,False,True,False,False,False,False,True
+124,COVID-19 Contact Tracing,Johns Hopkins University,0.9411764705882357,0.0683132718461779,False,True,False,False,True,False,False
+125,COVID-19: What You Need to Know (CME Eligible),Osmosis,0.8823529411764703,0.009535719868688447,False,True,False,False,True,False,False
+126,"Cameras, Exposure, and Photography",Michigan State University,0.8235294117647058,0.04017508206972019,False,False,False,True,True,False,False
+127,Camino a la Excelencia en Gestión de Proyectos,Pontificia Universidad Católica de Chile,0.8235294117647058,0.10583085821478819,False,True,False,False,True,False,False
+128,"Capstone: Retrieving, Processing, and Visualizing Data with Python",University of Michigan,0.7647058823529409,0.02516804752227607,False,False,False,True,True,False,False
+129,Career Success,"University of California, Irvine",0.6470588235294119,0.24652180709707677,False,True,False,False,False,False,True
+130,Challenging Forensic Science: How Science Should Speak to Court,University of Lausanne,0.8823529411764703,0.009223073315616696,False,True,False,False,True,False,False
+131,Chemicals and Health,Johns Hopkins University,0.8235294117647058,0.0067219008910426765,False,True,False,False,True,False,False
+132,Chicken Behaviour and Welfare,The University of Edinburgh,0.8235294117647058,0.005471314678755667,False,False,False,True,True,False,False
+133,Child Nutrition and Cooking,Stanford University,0.8235294117647058,0.008910426762544943,False,True,False,False,True,False,False
+134,Chinese for HSK 1,Peking University,0.8823529411764703,0.006409254337970924,False,True,False,False,True,False,False
+135,Cisco Networking Basics,Cisco,0.8235294117647058,0.017351883695482257,False,True,False,False,False,False,True
+136,Classical Sociological Theory,University of Amsterdam,0.8823529411764703,0.015476004377051742,False,False,False,True,True,False,False
+137,Claves de la Dirección de Empresas,IESE Business School,0.8823529411764703,0.015476004377051742,False,True,False,False,False,False,True
+138,Climate Change and Health: From Science to Action,Yale University,0.7647058823529409,0.001031733625136783,False,True,False,False,False,False,True
+139,Clinical Terminology for International and U.S. Students,University of Pittsburgh,0.8823529411764703,0.009535719868688447,False,True,False,False,True,False,False
+140,Cloud Computing,University of Illinois at Urbana-Champaign,0.6470588235294119,0.03392215100828514,False,False,True,False,False,False,True
+141,Cloud Computing Basics (Cloud 101),LearnQuest,0.7058823529411764,0.01109895263404721,False,True,False,False,True,False,False
+142,Cloud Engineering with Google Cloud,Google Cloud,0.8235294117647058,0.09645146162263561,False,False,True,False,False,True,False
+143,Coaching Skills for Managers,"University of California, Davis",0.8235294117647058,0.01109895263404721,False,False,True,False,False,False,True
+144,Code Yourself! An Introduction to Programming,The University of Edinburgh,0.8235294117647058,0.03704861653900266,False,True,False,False,True,False,False
+145,Communication Skills for Engineers,Rice University,0.8235294117647058,0.004220728466468657,False,True,False,False,False,False,True
+146,Communication Strategies for a Virtual Age,University of Toronto,0.8823529411764703,0.012974831952477724,False,True,False,False,True,False,False
+147,Compassionate Leadership Through Service Learning with Jane Goodall and Roots & Shoots,University of Colorado Boulder,0.9411764705882357,0.0015319681100515869,False,True,False,False,True,False,False
+148,"Competencias digitales. Herramientas de ofimática (Microsoft Word, Excel, Power Point)",Universitat Autònoma de Barcelona,0.8235294117647058,0.012974831952477724,False,True,False,False,True,False,False
+149,Competitive Strategy and Organization Design,Ludwig-Maximilians-Universität München (LMU),0.8235294117647058,0.10895732374550571,False,False,True,False,False,False,True
+150,Computational Social Science,"University of California, Davis",0.7647058823529409,0.0013443801782085354,False,True,False,False,False,False,True
+151,Computational Thinking for Problem Solving,University of Pennsylvania,0.8823529411764703,0.0098483664217602,False,True,False,False,True,False,False
+152,Computer Security and Systems Management,University of Colorado System,0.7647058823529409,0.007972487103329685,False,True,False,False,False,False,True
+153,Conflict Management,"University of California, Irvine",0.588235294117647,0.02016570267312803,False,True,False,False,False,False,True
+154,Construction Cost Estimating and Cost Control,Columbia University,0.8235294117647058,0.005471314678755667,False,True,False,False,True,False,False
+155,Construction Management,Columbia University,0.8235294117647058,0.018602469907769266,False,True,False,False,False,False,True
+156,Construction Project Management,Columbia University,0.8823529411764703,0.012974831952477724,False,True,False,False,True,False,False
+157,Construction Scheduling,Columbia University,0.8823529411764703,0.004220728466468657,False,True,False,False,True,False,False
+158,Contabilidad para no contadores,Universidad Nacional Autónoma de México,0.8235294117647058,0.0683132718461779,False,True,False,False,True,False,False
+159,Content Strategy for Professionals,Northwestern University,0.7058823529411764,0.007972487103329685,False,True,False,False,False,False,True
+160,Continuous Delivery & DevOps,University of Virginia,0.7647058823529409,0.007659840550257934,False,True,False,False,True,False,False
+161,Control of Mobile Robots,Georgia Institute of Technology,0.8823529411764703,0.01485071127090824,False,False,False,True,True,False,False
+162,Convolutional Neural Networks,deeplearning.ai,0.9411764705882357,0.07456620290761294,False,False,True,False,True,False,False
+163,Convolutional Neural Networks in TensorFlow,deeplearning.ai,0.8235294117647058,0.013912771611692982,False,False,True,False,True,False,False
+164,Corporate & Commercial Law I: Contracts & Employment Law,University of Illinois at Urbana-Champaign,0.8823529411764703,0.002657495701109895,False,False,True,False,True,False,False
+165,Corporate Finance Essentials,IESE Business School,0.8823529411764703,0.017039237142410506,False,False,False,True,True,False,False
+166,Corporate Strategy,UCL School of Management,0.8823529411764703,0.00196967328435204,False,True,False,False,True,False,False
+167,Corporate Sustainability. Understanding and Seizing the Strategic Opportunity,Università Bocconi,0.7647058823529409,0.002657495701109895,False,False,False,True,True,False,False
+168,"Corrección, estilo y  variaciones de la lengua española",Universitat Autònoma de Barcelona,0.7647058823529409,0.022979521650773802,False,True,False,False,True,False,False
+169,Cost and Economics in Pricing Strategy,University of Virginia,0.8823529411764703,0.004220728466468657,False,True,False,False,True,False,False
+170,Costos para los Negocios,Universidad de Chile,0.8823529411764703,0.012974831952477724,False,False,True,False,True,False,False
+171,Crash Course on Python,Google,0.8823529411764703,0.024855400969204317,False,True,False,False,True,False,False
+172,Creative Problem Solving,University of Minnesota,0.588235294117647,0.04330154760043771,False,False,False,True,True,False,False
+173,Creative Writing,Wesleyan University,0.7647058823529409,0.04330154760043771,False,True,False,False,False,False,True
+174,Creative Writing: The Craft of Plot,Wesleyan University,0.8235294117647058,0.03704861653900266,False,False,False,True,True,False,False
+175,"Creatividad, diseño e innovación: Técnicas y herramientas",Arizona State University,0.8235294117647058,0.04642801313115524,False,True,False,False,False,False,True
+176,Cuidado de heridas en el ámbito hospitalario,Universidad Nacional Autónoma de México,0.8823529411764703,0.007659840550257934,False,False,True,False,True,False,False
+177,Cuidados y procedimientos generales en la atención del recién nacido,Universidad de Chile,0.8823529411764703,0.006409254337970924,False,False,True,False,True,False,False
+178,Culture-Driven Team Building,University of Pennsylvania,0.7647058823529409,0.004846021572612162,False,True,False,False,False,False,True
+179,Curanderismo: Traditional Healing Using Plants,University of New Mexico,0.7647058823529409,0.0012505862122870097,False,True,False,False,True,False,False
+180,Customer Segmentation and Prospecting,Northwestern University,0.8235294117647058,0.005158668125683915,False,True,False,False,True,False,False
+181,Cybersecurity,"University of Maryland, College Park",0.7058823529411764,0.03048303892449586,False,False,True,False,False,False,True
+182,Cybersecurity and Its Ten Domains,University System of Georgia,0.5294117647058825,0.04330154760043771,False,True,False,False,True,False,False
+183,Cybersecurity for Business,University of Colorado System,0.7647058823529409,0.0067219008910426765,False,True,False,False,False,False,True
+184,Cómo hablar bien en público,Universitat Autònoma de Barcelona,0.8823529411764703,0.016726590589338754,False,True,False,False,True,False,False
+185,Dairy Production and Management,The Pennsylvania State University,0.8823529411764703,0.0067219008910426765,False,False,False,True,True,False,False
+186,Data Analysis and Interpretation,Wesleyan University,0.6470588235294119,0.03079568547756761,False,True,False,False,False,False,True
+187,Data Analysis and Presentation Skills: the PwC Approach,PwC,0.7647058823529409,0.0683132718461779,False,True,False,False,False,False,True
+188,Data Analysis with Python,IBM,0.8235294117647058,0.03392215100828514,False,True,False,False,True,False,False
+189,Data Analytics for Lean Six Sigma,University of Amsterdam,0.8823529411764703,0.007034547444114429,False,True,False,False,True,False,False
+190,Data Collection and Processing with Python,University of Michigan,0.8235294117647058,0.005471314678755667,False,False,True,False,True,False,False
+191,Data Engineering on Google Cloud Platform 日本語版,Google Cloud,0.6470588235294119,0.0004689698296076286,False,False,True,False,False,False,True
+192,Data Engineering with Google Cloud,Google Cloud,0.7647058823529409,0.03704861653900266,False,False,True,False,False,True,False
+193,"Data Engineering, Big Data, and Machine Learning on GCP",Google Cloud,0.7647058823529409,0.03704861653900266,False,False,True,False,False,False,True
+194,Data Management for Clinical Research,Vanderbilt University,0.8235294117647058,0.012662185399405971,False,True,False,False,True,False,False
+195,Data Mining,University of Illinois at Urbana-Champaign,0.6470588235294119,0.04330154760043771,False,False,True,False,False,False,True
+196,Data Science,Johns Hopkins University,0.7058823529411764,0.25902766921994685,False,True,False,False,False,False,True
+197,Data Science Math Skills,Duke University,0.7058823529411764,0.04330154760043771,False,True,False,False,True,False,False
+198,Data Science Methodology,IBM,0.7647058823529409,0.027356573393778335,False,True,False,False,True,False,False
+199,Data Science: Foundations using R,Johns Hopkins University,0.7647058823529409,0.23088947944348917,False,True,False,False,False,False,True
+200,Data Science: Statistics and Machine Learning,Johns Hopkins University,0.6470588235294119,0.06518680631546037,False,False,True,False,False,False,True
+201,Data Visualization and Communication with Tableau,Duke University,0.8235294117647058,0.04017508206972019,False,False,False,True,True,False,False
+202,Data Visualization with Advanced Excel,PwC,0.8823529411764703,0.018289823354697515,False,True,False,False,True,False,False
+203,Data Visualization with Python,IBM,0.7647058823529409,0.02016570267312803,False,False,True,False,True,False,False
+204,Data Visualization with Tableau,"University of California, Davis",0.7058823529411764,0.0295450992652806,False,True,False,False,False,False,True
+205,Data Warehousing for Business Intelligence,University of Colorado System,0.7058823529411764,0.04330154760043771,True,False,False,False,False,False,True
+206,Data and Health Indicators in Public Health Practice,Johns Hopkins University,0.8235294117647058,0.005158668125683915,False,True,False,False,True,False,False
+207,Data-driven Decision Making,PwC,0.7647058823529409,0.03704861653900266,False,True,False,False,True,False,False
+208,Databases and SQL for Data Science,IBM,0.8235294117647058,0.03392215100828514,False,True,False,False,True,False,False
+209,De-Mystifying Mindfulness,Universiteit Leiden,0.8823529411764703,0.04642801313115524,False,True,False,False,True,False,False
+210,Decision-Making and Scenarios,University of Pennsylvania,0.7647058823529409,0.009223073315616696,False,False,False,True,True,False,False
+211,Deep Learning,deeplearning.ai,0.8823529411764703,0.21525715178990154,False,False,True,False,False,False,True
+212,Democracia y decisiones públicas. Introducción al análisis de políticas públicas,Universitat Autònoma de Barcelona,0.8823529411764703,0.013287478505549477,False,True,False,False,True,False,False
+213,Dentistry 101,University of Michigan,0.8235294117647058,0.0009379396592152573,False,True,False,False,True,False,False
+214,Dermatology: Trip to skin,Novosibirsk State University ,0.6470588235294119,0.002094731905580741,False,True,False,False,True,False,False
+215,Design Thinking for Innovation,University of Virginia,0.7647058823529409,0.07456620290761294,False,True,False,False,True,False,False
+216,Design Thinking for the Greater Good: Innovation in the Social Sector,University of Virginia,0.7647058823529409,0.004846021572612162,False,True,False,False,True,False,False
+217,Design and Interpretation of Clinical Trials,Johns Hopkins University,0.8235294117647058,0.02047834922619978,False,False,False,True,True,False,False
+218,Design and Make Infographics (Project-Centered Course),Michigan State University,0.8235294117647058,0.029857745818352353,False,False,False,True,True,False,False
+219,Design-Led Strategy: Design thinking for business strategy and entrepreneurship,The University of Sydney,0.7647058823529409,0.005471314678755667,False,False,True,False,True,False,False
+220,Developing APIs with Google Cloud's Apigee API Platform,Google Cloud,0.7647058823529409,0.004533375019540409,False,False,True,False,False,False,True
+221,Developing Applications with Google Cloud Platform,Google Cloud,0.8235294117647058,0.09332499609191809,False,False,True,False,False,False,True
+222,Developing Applications with Google Cloud Platform 日本語版,Google Cloud,0.8823529411764703,0.000781616382679381,False,False,True,False,False,False,True
+223,Developing Industrial Internet of Things,University of Colorado Boulder,0.7647058823529409,0.0020322025949663903,False,False,True,False,False,False,True
+224,Developing Your Musicianship,Berklee College of Music,0.8823529411764703,0.01234953884633422,False,False,False,True,True,False,False
+225,Developing Your Musicianship,Berklee College of Music,0.8823529411764703,0.016413944036267,False,True,False,False,False,False,True
+226,Devenir entrepreneur du changement,Ticket for Change,0.8235294117647058,0.016413944036267,False,False,False,True,True,False,False
+227,Digital Advertising Strategy,University of Colorado Boulder,0.6470588235294119,0.002344849148038143,False,True,False,False,False,False,True
+228,Digital Business Models,Lund University,0.7058823529411764,0.006096607784899171,False,True,False,False,True,False,False
+229,Digital Manufacturing & Design Technology,University at Buffalo,0.7647058823529409,0.01109895263404721,False,True,False,False,False,False,True
+230,Digital Marketing,University of Illinois at Urbana-Champaign,0.7647058823529409,0.11833672033765828,False,True,False,False,False,False,True
+231,Digital Media and Marketing Strategies,University of Illinois at Urbana-Champaign,0.6470588235294119,0.017351883695482257,False,False,False,True,True,False,False
+232,Digital Product Management,University of Virginia,0.8235294117647058,0.04330154760043771,False,True,False,False,False,False,True
+233,Digital Product Management: Modern Fundamentals,University of Virginia,0.8235294117647058,0.017664530248554012,False,True,False,False,True,False,False
+234,Dino 101: Dinosaur Paleobiology,University of Alberta,0.7058823529411764,0.010473659527903705,False,True,False,False,True,False,False
+235,Discrete Optimization,The University of Melbourne,0.9411764705882357,0.012036892293262467,False,False,True,False,True,False,False
+236,Diseño Instruccional: Aprendizaje activo y Pedagogía digital,Tecnológico de Monterrey,0.7647058823529409,0.000781616382679381,False,True,False,False,False,False,True
+237,Diseño y Creación de un Emprendimiento Social,Pontificia Universidad Católica de Chile,0.9411764705882357,0.006096607784899171,False,True,False,False,True,False,False
+238,"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",Stanford University,0.8823529411764703,0.04017508206972019,False,False,True,False,True,False,False
+239,Dog Emotion and Cognition,Duke University,0.7647058823529409,0.04642801313115524,False,False,False,True,True,False,False
+240,Driving business towards the Sustainable Development Goals,Erasmus University Rotterdam,0.8823529411764703,0.0012818508675941848,False,True,False,False,True,False,False
+241,Drug Commercialization,University of California San Diego,0.8235294117647058,0.004846021572612162,False,True,False,False,True,False,False
+242,Drug Discovery,University of California San Diego,0.7647058823529409,0.011724245740190715,False,True,False,False,True,False,False
+243,Dynamic Public Speaking,University of Washington,0.8235294117647058,0.03392215100828514,False,True,False,False,False,False,True
+244,EMT Foundations,University of Colorado System,0.8823529411764703,0.0017508206972018136,False,True,False,False,True,False,False
+245,Ecology: Ecosystem Dynamics and Conservation,American Museum of Natural History,0.8823529411764703,0.005158668125683915,False,False,True,False,True,False,False
+246,Econometrics: Methods and Applications,Erasmus University Rotterdam,0.8235294117647058,0.03392215100828514,False,False,False,True,True,False,False
+247,Economics of Money and Banking,Columbia University,0.9411764705882357,0.02548069407534782,False,False,False,True,True,False,False
+248,Ecosystem Services: a Method for Sustainable Development,University of Geneva,0.8235294117647058,0.004533375019540409,False,False,True,False,True,False,False
+249,Effective Compliance Programs,University of Pennsylvania,0.9411764705882357,0.0005940284508363296,False,False,False,True,True,False,False
+250,Egiptología (Egyptology),Universitat Autònoma de Barcelona,0.9411764705882357,0.013912771611692982,False,True,False,False,True,False,False
+251,El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho,Universidad Austral,0.9999999999999998,0.0,False,True,False,False,True,False,False
+252,Elastic Google Cloud Infrastructure: Scaling and Automation,Google Cloud,0.8235294117647058,0.017351883695482257,False,False,True,False,True,False,False
+253,Electric Industry Operations and Markets,Duke University,0.8823529411764703,0.0032827888072534,False,True,False,False,True,False,False
+254,Electronic Music Production,Berklee College of Music,0.8823529411764703,0.03392215100828514,False,False,True,False,False,False,True
+255,Emerging Technologies: From Smartphones to IoT to Big Data,Yonsei University,0.7647058823529409,0.004846021572612162,False,True,False,False,False,False,True
+256,"Energy Production, Distribution & Safety",University at Buffalo,0.8235294117647058,0.01109895263404721,False,True,False,False,False,False,True
+257,Engineering Health: Introduction to Yoga and Physiology,New York University,0.8823529411764703,0.003908081913396905,False,True,False,False,True,False,False
+258,Engineering Project Management: Initiating and Planning,Rice University,0.8235294117647058,0.0067219008910426765,False,True,False,False,True,False,False
+259,English Composition I,Duke University,0.7647058823529409,0.06206034078474285,False,True,False,False,True,False,False
+260,English for Business and Entrepreneurship,University of Pennsylvania,0.8823529411764703,0.07143973737689542,False,True,False,False,True,False,False
+261,English for Career Development,University of Pennsylvania,0.8823529411764703,0.2371424105049242,False,False,False,True,True,False,False
+262,English for Journalism,University of Pennsylvania,0.8823529411764703,0.04017508206972019,False,False,False,True,True,False,False
+263,English for Research Publication Purposes,Moscow Institute of Physics and Technology,0.7647058823529409,0.012662185399405971,False,False,True,False,False,False,True
+264,"English for Science, Technology, Engineering, and Mathematics",University of Pennsylvania,0.8823529411764703,0.03392215100828514,False,True,False,False,True,False,False
+265,Enterprise Architecture,Peter the Great St. Petersburg Polytechnic University,0.6470588235294119,0.0002813818977645772,False,True,False,False,True,False,False
+266,Entrepreneurial Finance: Strategy and Innovation,Duke University,0.7058823529411764,0.0020009379396592154,False,False,True,False,False,False,True
+267,Entrepreneurship,University of Pennsylvania,0.8823529411764703,0.03392215100828514,False,True,False,False,False,False,True
+268,Entrepreneurship 1: Developing the Opportunity,University of Pennsylvania,0.8823529411764703,0.026418633734563077,False,False,False,True,True,False,False
+269,Entrepreneurship 2: Launching your Start-Up,University of Pennsylvania,0.8823529411764703,0.011411599187118962,False,False,False,True,True,False,False
+270,Entrepreneurship 3: Growth Strategies,University of Pennsylvania,0.8235294117647058,0.009223073315616696,False,True,False,False,True,False,False
+271,Entrepreneurship Strategy: From Ideation to Exit,HEC Paris,0.8823529411764703,0.005783961231827419,False,True,False,False,True,False,False
+272,Entrepreneurship: Launching an Innovative Business,"University of Maryland, College Park",0.7647058823529409,0.021103642332343287,False,True,False,False,False,False,True
+273,Epidemics - the Dynamics of Infectious Diseases,The Pennsylvania State University,0.8823529411764703,0.013600125058621229,False,False,False,True,True,False,False
+274,"Epidemics, Pandemics and Outbreaks",University of Pittsburgh,0.8235294117647058,0.0067219008910426765,False,False,False,True,True,False,False
+275,Epidemiology for Public Health,Imperial College London,0.8235294117647058,0.0015319681100515869,False,True,False,False,False,False,True
+276,Epidemiology in Public Health Practice,Johns Hopkins University,0.8235294117647058,0.009223073315616696,False,True,False,False,False,False,True
+277,Epidemiology: The Basic Science of Public Health,The University of North Carolina at Chapel Hill,0.7647058823529409,0.04017508206972019,False,False,False,True,True,False,False
+278,Epigenetic Control of Gene Expression,The University of Melbourne,0.8823529411764703,0.010473659527903705,False,False,False,True,True,False,False
+279,Equine Welfare and Management,"University of California, Davis",0.8823529411764703,0.0017820853525089889,False,True,False,False,True,False,False
+280,Esports,"University of California, Irvine",0.7058823529411764,9.379396592152576e-05,False,True,False,False,False,False,True
+281,Essential Epidemiologic Tools for Public Health Practice,Johns Hopkins University,0.8235294117647058,0.003908081913396905,False,True,False,False,True,False,False
+282,Essential Google Cloud Infrastructure: Core Services,Google Cloud,0.8235294117647058,0.020790995779271536,False,False,True,False,True,False,False
+283,Essential Google Cloud Infrastructure: Foundation,Google Cloud,0.8235294117647058,0.02548069407534782,False,False,True,False,True,False,False
+284,Essentials in Clinical Simulations Across the Health Professions,The George Washington University,0.8823529411764703,0.0008128810379865563,False,False,True,False,True,False,False
+285,Essentials of Corporate Finance,The University of Melbourne,0.7647058823529409,0.016413944036267,False,False,True,False,False,False,True
+286,Essentials of Global Health,Yale University,0.8823529411764703,0.009223073315616696,False,False,False,True,True,False,False
+287,Estadística y probabilidad,Universidad Nacional Autónoma de México,0.8235294117647058,0.007972487103329685,False,True,False,False,True,False,False
+288,Evaluación educativa,Universidad Nacional Autónoma de México,0.8823529411764703,0.0035954353603251527,False,True,False,False,False,False,True
+289,"Everyday Excel, Part 1",University of Colorado Boulder,0.8823529411764703,0.002970142254181648,False,True,False,False,True,False,False
+290,Everyday Parenting: The ABCs of Child Rearing,Yale University,0.9411764705882357,0.026418633734563077,False,True,False,False,True,False,False
+291,Excel Skills for Business,Macquarie University,0.9411764705882357,0.07456620290761294,False,True,False,False,False,False,True
+292,Excel Skills for Business: Advanced,Macquarie University,0.8235294117647058,0.011724245740190715,False,False,True,False,True,False,False
+293,Excel Skills for Business: Essentials,Macquarie University,0.9411764705882357,0.06206034078474285,False,True,False,False,True,False,False
+294,Excel Skills for Business: Intermediate I,Macquarie University,0.9411764705882357,0.023292168203845554,False,False,True,False,True,False,False
+295,Excel Skills for Business: Intermediate II,Macquarie University,0.8823529411764703,0.011724245740190715,False,False,True,False,True,False,False
+296,Excel to MySQL: Analytic Techniques for Business,Duke University,0.7647058823529409,0.15272784117555105,False,True,False,False,False,False,True
+297,Excel/VBA for Creative Problem Solving,University of Colorado Boulder,0.8823529411764703,0.017039237142410506,False,True,False,False,False,False,True
+298,"Excel/VBA for Creative Problem Solving, Part 1",University of Colorado Boulder,0.8823529411764703,0.016413944036267,False,True,False,False,True,False,False
+299,Executive Data Science,Johns Hopkins University,0.7058823529411764,0.052680944192590284,False,True,False,False,False,False,True
+300,Explorando la Energía Sustentable,Pontificia Universidad Católica de Chile,0.8823529411764703,0.008285133656401438,False,True,False,False,True,False,False
+301,Fashion as Design,The Museum of Modern Art,0.8823529411764703,0.055807409723307805,False,True,False,False,True,False,False
+302,Feminism and Social Justice,"University of California, Santa Cruz",0.8823529411764703,0.005158668125683915,False,True,False,False,True,False,False
+303,FinTech Law and Policy,Duke University,0.8823529411764703,0.0025637017351883696,False,True,False,False,True,False,False
+304,FinTech: Finance Industry Transformation and Regulation,The Hong Kong University of Science and Technology,0.7647058823529409,0.0035954353603251527,False,True,False,False,False,False,True
+305,"FinTech: Foundations, Payments, and Regulations",University of Pennsylvania,0.8235294117647058,0.0032827888072534,False,True,False,False,True,False,False
+306,Finance & Quantitative Modeling for Analysts,University of Pennsylvania,0.7058823529411764,0.080819133969048,False,True,False,False,False,False,True
+307,Finance for Non-Finance Professionals,Rice University,0.8823529411764703,0.021103642332343287,False,True,False,False,True,False,False
+308,Finance for Non-Financial Managers,Emory University,0.6470588235294119,0.0032827888072534,False,False,True,False,True,False,False
+309,Financial Accounting Fundamentals,University of Virginia,0.8823529411764703,0.01985305612005628,False,True,False,False,True,False,False
+310,Financial Acumen for Non-Financial Managers,University of Pennsylvania,0.7058823529411764,0.002657495701109895,False,True,False,False,True,False,False
+311,Financial Engineering and Risk Management Part I,Columbia University,0.7647058823529409,0.03079568547756761,False,False,False,True,True,False,False
+312,Financial Management,University of Illinois at Urbana-Champaign,0.8235294117647058,0.023292168203845554,False,False,True,False,False,False,True
+313,Financial Markets,Yale University,0.8823529411764703,0.146474910114116,False,True,False,False,True,False,False
+314,Financial Markets and Investment Strategy,Indian School of Business,0.7058823529411764,0.018289823354697515,False,True,False,False,False,False,True
+315,Financial Reporting,University of Illinois at Urbana-Champaign,0.8823529411764703,0.0032827888072534,False,False,True,False,False,False,True
+316,Financial Technology (Fintech) Innovations,University of Michigan,0.8235294117647058,0.0015632327653587622,False,True,False,False,False,False,True
+317,Financing and Investing in Infrastructure,Università Bocconi,0.8823529411764703,0.007034547444114429,False,False,False,True,True,False,False
+318,Finanzas corporativas,Universidad Nacional Autónoma de México,0.7647058823529409,0.008910426762544943,False,False,True,False,False,False,True
+319,Finanzas personales,Universidad Nacional Autónoma de México,0.8823529411764703,0.09645146162263561,False,False,False,True,True,False,False
+320,Finding Purpose and Meaning In Life: Living for What Matters Most,University of Michigan,0.8235294117647058,0.010786306080975458,False,True,False,False,True,False,False
+321,Fintech: Foundations & Applications of Financial Technology,University of Pennsylvania,0.7647058823529409,0.005783961231827419,False,True,False,False,False,False,True
+322,First Step Korean,Yonsei University,0.9411764705882357,0.12458965139909332,False,True,False,False,True,False,False
+323,Food & Beverage Management,Università Bocconi,0.8823529411764703,0.017351883695482257,False,False,False,True,True,False,False
+324,Forensic Accounting and Fraud Examination,West Virginia University,0.8235294117647058,0.012662185399405971,False,False,False,True,True,False,False
+325,Formulación y evaluación de proyectos complejos,Universidad de los Andes,0.9411764705882357,0.000906675003908082,False,False,True,False,True,False,False
+326,Foundational Finance for Strategic Decision Making,University of Michigan,0.8823529411764703,0.003908081913396905,False,True,False,False,False,False,True
+327,Foundations of Business Strategy,University of Virginia,0.8823529411764703,0.019227763013912772,False,True,False,False,True,False,False
+328,Foundations of Everyday Leadership,University of Illinois at Urbana-Champaign,0.8823529411764703,0.01891511646084102,False,False,False,True,True,False,False
+329,Foundations of Global Health,Johns Hopkins University,0.8235294117647058,0.009223073315616696,False,True,False,False,False,False,True
+330,Foundations of Management,IESE Business School,0.8823529411764703,0.019540409566984523,False,True,False,False,False,False,True
+331,Foundations of Marketing Analytics,Emory University,0.5294117647058825,0.007972487103329685,False,False,True,False,False,False,True
+332,Foundations of Positive Psychology,University of Pennsylvania,0.8823529411764703,0.027356573393778335,False,True,False,False,False,False,True
+333,Foundations of Public Health Practice,Imperial College London,0.8823529411764703,0.0005314991402219792,False,True,False,False,False,False,True
+334,From Data to Insights with Google Cloud Platform,Google Cloud,0.7647058823529409,0.007659840550257934,False,True,False,False,False,False,True
+335,From the Big Bang to Dark Energy,The University of Tokyo,0.8823529411764703,0.015788650930123497,False,True,False,False,True,False,False
+336,Front-End Web Development with React,The Hong Kong University of Science and Technology,0.8235294117647058,0.013600125058621229,False,False,True,False,True,False,False
+337,Front-End Web UI Frameworks and Tools: Bootstrap 4,The Hong Kong University of Science and Technology,0.8823529411764703,0.027356573393778335,False,False,True,False,True,False,False
+338,Full Stack Web and Multiplatform Mobile App Development,The Hong Kong University of Science and Technology,0.8235294117647058,0.04642801313115524,False,False,True,False,False,False,True
+339,Full-Stack Web Development with React,The Hong Kong University of Science and Technology,0.8235294117647058,0.04330154760043771,False,False,True,False,False,False,True
+340,Functional Programming Principles in Scala,École Polytechnique Fédérale de Lausanne,0.8823529411764703,0.052680944192590284,False,False,True,False,True,False,False
+341,Functional Programming in Scala,École Polytechnique Fédérale de Lausanne,0.8235294117647058,0.0683132718461779,False,False,True,False,False,False,True
+342,Fundamental Neuroscience for Neuroimaging,Johns Hopkins University,0.7647058823529409,0.008910426762544943,False,True,False,False,True,False,False
+343,Fundamentals of Accounting,University of Illinois at Urbana-Champaign,0.7647058823529409,0.011724245740190715,False,True,False,False,False,False,True
+344,Fundamentals of Computing,Rice University,0.8823529411764703,0.06206034078474285,False,True,False,False,False,False,True
+345,Fundamentals of Engineering Exam Review,Georgia Institute of Technology,0.8235294117647058,0.01485071127090824,False,False,False,True,True,False,False
+346,Fundamentals of GIS,"University of California, Davis",0.8823529411764703,0.026418633734563077,False,True,False,False,True,False,False
+347,Fundamentals of Graphic Design,California Institute of the Arts,0.8823529411764703,0.09019853056120056,False,True,False,False,True,False,False
+348,Fundamentals of Immunology,Rice University,0.8235294117647058,0.005783961231827419,False,False,True,False,False,False,True
+349,Fundamentals of Immunology: Innate Immunity and B-Cell Function,Rice University,0.8235294117647058,0.005158668125683915,False,False,True,False,True,False,False
+350,Fundamentals of Music Theory,The University of Edinburgh,0.7647058823529409,0.055807409723307805,False,True,False,False,True,False,False
+351,Fundamentals of Project Planning and Management,University of Virginia,0.8235294117647058,0.03704861653900266,False,True,False,False,True,False,False
+352,Fundamentals of Quantitative Modeling,University of Pennsylvania,0.7647058823529409,0.03392215100828514,False,False,False,True,True,False,False
+353,Fundamentals of Reinforcement Learning,University of Alberta,0.8823529411764703,0.006409254337970924,False,False,True,False,True,False,False
+354,Fundamentals of Visualization with Tableau,"University of California, Davis",0.7058823529411764,0.024855400969204317,False,True,False,False,True,False,False
+355,Fundamentos Empresariales,University of Pennsylvania,0.7647058823529409,0.007347193997186181,False,True,False,False,False,False,True
+356,Fundamentos Estratégicos Empresariales,Universidad Nacional Autónoma de México,0.7647058823529409,0.017039237142410506,False,True,False,False,False,False,True
+357,Fundamentos de Excel para Negocios,Universidad Austral,0.8235294117647058,0.04642801313115524,False,True,False,False,True,False,False
+358,Fundamentos de Finanzas Empresariales,Universidad de los Andes,0.8823529411764703,0.03392215100828514,False,True,False,False,True,False,False
+359,Fundamentos de la escritura,Tecnológico de Monterrey,0.7647058823529409,0.014225418164764733,False,True,False,False,True,False,False
+360,Fundraising and Development,"University of California, Davis",0.7647058823529409,0.0010629982804439583,False,True,False,False,False,False,True
+361,Futures Thinking,Institute for the Future,0.8823529411764703,0.0024699077692668437,False,True,False,False,False,False,True
+362,G Suite Administration,Google Cloud,0.8235294117647058,0.002657495701109895,False,True,False,False,False,False,True
+363,"GIS, Mapping, and Spatial Analysis",University of Toronto,0.8823529411764703,0.04330154760043771,False,True,False,False,False,False,True
+364,Game Design and Development,Michigan State University,0.8235294117647058,0.03079568547756761,False,False,True,False,False,False,True
+365,Game Theory,Stanford University,0.7647058823529409,0.080819133969048,False,True,False,False,True,False,False
+366,Gamification,University of Pennsylvania,0.8823529411764703,0.03392215100828514,False,False,False,True,True,False,False
+367,Gender and Sexuality: Diversity and Inclusion in the Workplace,University of Pittsburgh,0.8235294117647058,0.003908081913396905,False,True,False,False,True,False,False
+368,Genomic Data Science,Johns Hopkins University,0.6470588235294119,0.024542754416132562,False,False,True,False,False,False,True
+369,Geographic Information Systems  (GIS),"University of California, Davis",0.8823529411764703,0.029857745818352353,False,True,False,False,False,False,True
+370,Geopolitics of Europe,Sciences Po,0.588235294117647,0.005471314678755667,False,False,False,True,True,False,False
+371,Geopolítica y gobernanza global: riesgos y oportunidades,ESADE Business and Law School,0.8823529411764703,0.010161012974831954,False,False,False,True,True,False,False
+372,Gestión de organizaciones efectivas,Pontificia Universidad Católica de Chile,0.8235294117647058,0.014225418164764733,False,False,False,True,True,False,False
+373,Get Interactive: Practical Teaching with Technology,Bloomsbury Learning Exchange,0.8235294117647058,0.003908081913396905,False,True,False,False,True,False,False
+374,Getting Started With Music Theory,Michigan State University,0.7058823529411764,0.017977176801625763,False,True,False,False,True,False,False
+375,Getting Started with AWS Machine Learning,Amazon Web Services,0.7058823529411764,0.022354228544630296,False,False,True,False,True,False,False
+376,Getting Started with Go,"University of California, Irvine",0.7647058823529409,0.017977176801625763,False,False,True,False,True,False,False
+377,Getting Started with Google Kubernetes Engine,Google Cloud,0.7058823529411764,0.022979521650773802,False,False,True,False,True,False,False
+378,Getting Started with Google Sheets,Google Cloud,0.7647058823529409,0.005158668125683915,False,True,False,False,True,False,False
+379,Getting Started with SAS Programming,SAS,0.9411764705882357,0.006409254337970924,False,True,False,False,True,False,False
+380,Global Diplomacy – Diplomacy in the Modern World,SOAS University of London,0.7647058823529409,0.02423010786306081,False,False,False,True,True,False,False
+381,Global Diplomacy: the United Nations in the World,SOAS University of London,0.8235294117647058,0.008597780209473192,False,True,False,False,True,False,False
+382,Global Energy and Climate Policy,SOAS University of London,0.7058823529411764,0.002657495701109895,False,True,False,False,True,False,False
+383,Global Environmental Management,Technical University of Denmark (DTU),0.7647058823529409,0.006409254337970924,False,False,True,False,True,False,False
+384,Global Financial Markets and Instruments,Rice University,0.7647058823529409,0.01109895263404721,False,False,False,True,True,False,False
+385,Global Financing Solutions  (by EDHEC and Société Générale),EDHEC Business School,0.7647058823529409,0.0006565577614506802,False,False,True,False,True,False,False
+386,Global Trends for Business and Society,University of Pennsylvania,0.8823529411764703,0.0019071439737376897,False,False,False,True,True,False,False
+387,"Globalization, Economic Growth and Stability",IE Business School,0.8823529411764703,0.013287478505549477,False,False,True,False,False,False,True
+388,Good with Words: Writing and Editing,University of Michigan,0.7647058823529409,0.0007190870720650306,False,True,False,False,False,False,True
+389,Google Cloud Platform Big Data and Machine Learning Fundamentals,Google Cloud,0.7647058823529409,0.03704861653900266,False,False,True,False,True,False,False
+390,Google Cloud Platform Fundamentals for AWS Professionals,Google Cloud,0.8235294117647058,0.010786306080975458,False,False,True,False,True,False,False
+391,Google IT Automation with Python,Google,0.8235294117647058,0.028607159606065344,False,True,False,False,False,True,False
+392,Google IT Support,Google,0.8823529411764703,0.10895732374550571,False,True,False,False,False,True,False
+393,Grammar and Punctuation,"University of California, Irvine",0.8235294117647058,0.13396904799124593,False,False,False,True,True,False,False
+394,Graphic Design Elements for Non-Designers,University of Colorado Boulder,0.8235294117647058,0.002657495701109895,False,True,False,False,False,False,True
+395,Greek and Roman Mythology,University of Pennsylvania,0.8823529411764703,0.080819133969048,False,False,False,True,True,False,False
+396,Greening the Economy: Sustainable Cities,Lund University,0.7647058823529409,0.017039237142410506,False,True,False,False,True,False,False
+397,Guitar for Beginners,Berklee College of Music,0.8823529411764703,0.06518680631546037,False,False,False,True,True,False,False
+398,Gut Check: Exploring Your Microbiome,University of California San Diego,0.8235294117647058,0.01891511646084102,False,False,False,True,True,False,False
+399,"HTML, CSS, and Javascript for Web Developers",Johns Hopkins University,0.8823529411764703,0.07456620290761294,False,False,False,True,True,False,False
+400,Habilidades Gerenciales,Universidad Nacional Autónoma de México,0.8235294117647058,0.012974831952477724,False,True,False,False,False,False,True
+401,Hacia una práctica constructivista en el aula,Pontificia Universidad Católica de Chile,0.8823529411764703,0.01891511646084102,False,False,False,True,True,False,False
+402,Hardware Description Languages for FPGA Design,University of Colorado Boulder,0.5294117647058825,0.001844614663123339,False,False,True,False,True,False,False
+403,Healing with the Arts,University of Florida,0.7647058823529409,0.011724245740190715,False,False,False,True,True,False,False
+404,Health Informatics,Johns Hopkins University,0.7058823529411764,0.0020634672502735656,False,True,False,False,False,False,True
+405,Health Information Literacy for Data Analytics,"University of California, Davis",0.7058823529411764,0.0012193215569798344,False,False,True,False,False,False,True
+406,Healthcare Law,University of Pennsylvania,0.8235294117647058,6.252931061435045e-05,False,False,True,False,False,False,True
+407,Healthcare Marketplace,University of Minnesota,0.6470588235294119,0.010786306080975458,False,True,False,False,False,False,True
+408,Healthcare Organization Operations,Rutgers the State University of New Jersey,0.7647058823529409,0.0012505862122870097,False,True,False,False,False,False,True
+409,"High Performance Collaboration: Leadership, Teamwork, and Negotiation",Northwestern University,0.8823529411764703,0.013912771611692982,False,False,False,True,True,False,False
+410,Homeland Security and Cybersecurity,University of Colorado System,0.8235294117647058,0.0012505862122870097,False,True,False,False,False,False,True
+411,"Hotel Management: Distribution, Revenue and Demand Management",ESSEC Business School,0.7647058823529409,0.008285133656401438,False,True,False,False,False,False,True
+412,How Things Work: An Introduction to Physics,University of Virginia,0.8823529411764703,0.052680944192590284,False,False,True,False,True,False,False
+413,How To Create a Website in a Weekend! (Project-Centered Course),The State University of New York,0.0,0.04330154760043771,False,False,False,True,True,False,False
+414,How to Start Your Own Business,Michigan State University,0.47058823529411753,0.010161012974831954,False,True,False,False,False,False,True
+415,Human Resource Management: HR for People Managers,University of Minnesota,0.8235294117647058,0.030170392371424107,False,True,False,False,False,False,True
+416,IBM AI Engineering,IBM,0.7647058823529409,0.04330154760043771,False,False,True,False,False,True,False
+417,IBM AI Enterprise Workflow,IBM,0.6470588235294119,0.0006252931061435049,True,False,False,False,False,False,True
+418,IBM Applied AI,IBM,0.7647058823529409,0.0683132718461779,False,True,False,False,False,True,False
+419,IBM Customer Engagement Specialist Professional Certificate,IBM,0.8823529411764703,0.0005627637955291545,False,True,False,False,True,False,False
+420,IBM Data Science,IBM,0.7647058823529409,0.14960137564483353,False,True,False,False,False,True,False
+421,IT Fundamentals for Cybersecurity,IBM,0.7058823529411764,0.010473659527903705,False,True,False,False,False,False,True
+422,IT Security: Defense against the digital dark arts,Google,0.8823529411764703,0.01891511646084102,False,True,False,False,True,False,False
+423,"Identifying, Monitoring, and Analyzing Risk and Incident Response and Recovery",(ISC)²,0.9411764705882357,6.252931061435045e-05,False,True,False,False,True,False,False
+424,Implementación del Marketing Mix,IE Business School,0.8235294117647058,0.0067219008910426765,False,True,False,False,False,False,True
+425,Implementing RPA with Cognitive Automation and Analytics,Automation Anywhere,0.7647058823529409,0.00021885258715022667,False,True,False,False,False,False,True
+426,Improve Your English Communication Skills,Georgia Institute of Technology,0.8235294117647058,0.19024542754416135,False,True,False,False,False,False,True
+427,"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",deeplearning.ai,0.9411764705882357,0.08394559949976552,False,True,False,False,True,False,False
+428,Improving Leadership & Governance in Nonprofit Organizations,Luther College at the University of Regina,0.6470588235294119,0.005158668125683915,False,True,False,False,False,False,True
+429,In the Studio: Postwar Abstract Painting,The Museum of Modern Art,0.9411764705882357,0.02423010786306081,False,True,False,False,True,False,False
+430,Indigenous Canada,University of Alberta,0.8823529411764703,0.015476004377051742,False,False,False,True,True,False,False
+431,Industrial IoT on Google Cloud Platform,Google Cloud,0.7058823529411764,0.010161012974831954,False,True,False,False,True,False,False
+432,Infectious Disease Modelling,Imperial College London,0.9999999999999998,3.1264655307175254e-05,False,False,True,False,False,False,True
+433,Influencer Marketing Strategy,Rutgers the State University of New Jersey,0.6470588235294119,0.0032827888072534,False,False,True,False,True,False,False
+434,"Influencing: Storytelling, Change Management and Governance",Macquarie University,0.8823529411764703,0.006409254337970924,False,True,False,False,False,False,True
+435,Information Security: Context and Introduction,"Royal Holloway, University of London",0.7647058823529409,0.009535719868688447,False,True,False,False,True,False,False
+436,Information Visualization,New York University,0.7647058823529409,0.002657495701109895,False,True,False,False,False,False,True
+437,Information​ ​Systems,University of Minnesota,0.8235294117647058,0.004533375019540409,False,True,False,False,False,False,True
+438,Initiating and Planning Projects,"University of California, Irvine",0.8235294117647058,0.055807409723307805,False,False,False,True,True,False,False
+439,Innovation Management,Erasmus University Rotterdam,0.7647058823529409,0.012036892293262467,False,True,False,False,True,False,False
+440,"Innovation Through Design: Think, Make, Break, Repeat",The University of Sydney,0.8823529411764703,0.002657495701109895,False,True,False,False,True,False,False
+441,Innovation: From Creativity to Entrepreneurship,University of Illinois at Urbana-Champaign,0.8823529411764703,0.007347193997186181,False,True,False,False,False,False,True
+442,Inspirational Leadership: Leading with Sense,HEC Paris,0.7058823529411764,0.022041581991558545,False,True,False,False,False,False,True
+443,Inspired Leadership,Case Western Reserve University,0.8235294117647058,0.029857745818352353,False,False,True,False,False,False,True
+444,Inspiring and Motivating Individuals,University of Michigan,0.8823529411764703,0.026105987181491326,False,False,False,True,True,False,False
+445,Instructional Design Foundations and Applications,University of Illinois at Urbana-Champaign,0.5294117647058825,0.0032827888072534,False,False,False,True,True,False,False
+446,Instructional Methods in Health Professions Education,University of Michigan,0.7647058823529409,0.0025637017351883696,False,False,True,False,True,False,False
+447,Integrative Health and Medicine,University of Minnesota,0.8823529411764703,0.003908081913396905,False,True,False,False,False,False,True
+448,Intellectual Property Law,University of Pennsylvania,0.8823529411764703,0.002251055182116617,False,False,True,False,False,False,True
+449,Interaction Design,University of California San Diego,0.7058823529411764,0.04642801313115524,False,False,True,False,False,False,True
+450,Intercultural Management,ESCP Business School,0.7647058823529409,0.0015632327653587622,False,True,False,False,True,False,False
+451,International Business Essentials,University of London,0.7058823529411764,0.006409254337970924,False,False,True,False,False,False,True
+452,International Cyber Conflicts,The State University of New York,0.6470588235294119,0.007347193997186181,False,False,False,True,True,False,False
+453,International Humanitarian Law in Theory and Practice,Kalshoven-Gieskes Forum,0.8823529411764703,0.006409254337970924,False,True,False,False,True,False,False
+454,International Law in Action: A Guide to the International Courts and Tribunals in The Hague,Universiteit Leiden,0.8823529411764703,0.010786306080975458,False,False,False,True,True,False,False
+455,International Law in Action: the Arbitration of International Disputes,Universiteit Leiden,0.8823529411764703,0.005471314678755667,False,False,False,True,True,False,False
+456,International Leadership and Organizational Behavior,Università Bocconi,0.8823529411764703,0.01234953884633422,False,False,False,True,True,False,False
+457,International Marketing & Cross Industry Growth,Yonsei University,0.7647058823529409,0.007659840550257934,False,True,False,False,False,False,True
+458,International Organizations Management,University of Geneva,0.8823529411764703,0.005783961231827419,False,True,False,False,True,False,False
+459,International Security Management,Erasmus University Rotterdam,0.7058823529411764,0.00021885258715022667,False,True,False,False,True,False,False
+460,International Women's Health and Human Rights,Stanford University,0.9411764705882357,0.010473659527903705,False,True,False,False,True,False,False
+461,International migrations: a global issue,Sciences Po,0.7647058823529409,0.002970142254181648,False,True,False,False,True,False,False
+462,Internet Connection: How to Get Online?,Cisco,0.8235294117647058,0.010786306080975458,False,True,False,False,True,False,False
+463,Internet Giants: The Law and Economics of Media Platforms,The University of Chicago,0.8823529411764703,0.011411599187118962,False,False,False,True,True,False,False
+464,Interviewing and Resume Writing in English,"University of Maryland, College Park",0.7647058823529409,0.02016570267312803,False,False,True,False,False,False,True
+465,Introducción a Data Science: Programación Estadística con R,Universidad Nacional Autónoma de México,0.8235294117647058,0.04330154760043771,False,True,False,False,True,False,False
+466,Introducción a la programación en Python I: Aprendiendo a programar con Python,Pontificia Universidad Católica de Chile,0.6470588235294119,0.03079568547756761,False,True,False,False,True,False,False
+467,Introduction aux Droits de l’Homme,University of Geneva,0.8823529411764703,0.013912771611692982,False,False,False,True,True,False,False
+468,Introduction to Ableton Live,Berklee College of Music,0.8823529411764703,0.018289823354697515,False,False,False,True,True,False,False
+469,Introduction to Artificial Intelligence (AI),IBM,0.8235294117647058,0.013287478505549477,False,True,False,False,True,False,False
+470,Introduction to Big Data,University of California San Diego,0.7647058823529409,0.04955447866187276,False,False,False,True,True,False,False
+471,Introduction to Blockchain Technologies,INSEAD,0.8235294117647058,0.004533375019540409,False,True,False,False,True,False,False
+472,Introduction to Breast Cancer,Yale University,0.9411764705882357,0.007972487103329685,False,False,False,True,True,False,False
+473,Introduction to Business Analytics: Communicating with Data,University of Illinois at Urbana-Champaign,0.8235294117647058,0.003908081913396905,False,False,True,False,True,False,False
+474,Introduction to CSS3,University of Michigan,0.8823529411764703,0.02579334062841957,False,False,False,True,True,False,False
+475,Introduction to Calculus,The University of Sydney,0.8823529411764703,0.016101297483195248,False,False,True,False,True,False,False
+476,Introduction to Chemistry:  Reactions and Ratios,Duke University,0.8823529411764703,0.013912771611692982,False,True,False,False,True,False,False
+477,Introduction to Classical Music,Yale University,0.9411764705882357,0.04642801313115524,False,False,False,True,True,False,False
+478,Introduction to Cloud Computing,IBM,0.7647058823529409,0.0003439112083789277,False,True,False,False,True,False,False
+479,Introduction to Computer Programming,"Goldsmiths, University of London",0.588235294117647,0.005783961231827419,False,True,False,False,True,False,False
+480,Introduction to Computer Science and Programming,"Goldsmiths, University of London",0.588235294117647,0.009535719868688447,False,True,False,False,False,False,True
+481,Introduction to Corporate Finance,University of Pennsylvania,0.7647058823529409,0.04017508206972019,False,False,False,True,True,False,False
+482,Introduction to Cyber Attacks,New York University,0.8235294117647058,0.007972487103329685,False,True,False,False,True,False,False
+483,Introduction to Cyber Security,New York University,0.8235294117647058,0.009535719868688447,False,True,False,False,False,False,True
+484,Introduction to Cybersecurity Tools & Cyber Attacks,IBM,0.7058823529411764,0.008910426762544943,False,True,False,False,True,False,False
+485,Introduction to Data Analysis Using Excel,Rice University,0.8235294117647058,0.03048303892449586,False,False,False,True,True,False,False
+486,Introduction to Data Science,IBM,0.7647058823529409,0.09645146162263561,False,True,False,False,False,False,True
+487,Introduction to Data Science in Python,University of Michigan,0.7058823529411764,0.1214631858683758,False,False,True,False,True,False,False
+488,Introduction to Dental Medicine,University of Pennsylvania,0.8823529411764703,0.007347193997186181,False,True,False,False,True,False,False
+489,Introduction to Discrete Mathematics for Computer Science,National Research University Higher School of Economics,0.6470588235294119,0.022979521650773802,False,True,False,False,False,False,True
+490,Introduction to Electronics,Georgia Institute of Technology,0.8235294117647058,0.03392215100828514,False,False,False,True,True,False,False
+491,Introduction to Embedded Systems Software and Development Environments,University of Colorado Boulder,0.7058823529411764,0.01234953884633422,False,False,True,False,True,False,False
+492,Introduction to Engineering Mechanics,Georgia Institute of Technology,0.8235294117647058,0.04642801313115524,False,False,False,True,True,False,False
+493,Introduction to Environmental Law and Policy,The University of North Carolina at Chapel Hill,0.8823529411764703,0.010161012974831954,False,False,False,True,True,False,False
+494,Introduction to Financial Accounting,University of Pennsylvania,0.8235294117647058,0.06206034078474285,False,False,False,True,True,False,False
+495,Introduction to Forensic Science,"Nanyang Technological University, Singapore",0.9411764705882357,0.014225418164764733,False,False,False,True,True,False,False
+496,Introduction to Game Development,Michigan State University,0.8823529411764703,0.02423010786306081,False,False,False,True,True,False,False
+497,Introduction to Genetics and Evolution,Duke University,0.8823529411764703,0.022666875097702047,False,False,False,True,True,False,False
+498,Introduction to Genomic Technologies,Johns Hopkins University,0.7647058823529409,0.012662185399405971,False,False,False,True,True,False,False
+499,Introduction to HTML5,University of Michigan,0.8235294117647058,0.0683132718461779,False,False,False,True,True,False,False
+500,Introduction to Imagemaking,California Institute of the Arts,0.7058823529411764,0.016413944036267,False,True,False,False,True,False,False
+501,Introduction to Intellectual Property,University of Pennsylvania,0.8823529411764703,0.0014069094888228858,False,True,False,False,True,False,False
+502,Introduction to International Criminal Law,Case Western Reserve University,0.8823529411764703,0.02516804752227607,False,False,False,True,True,False,False
+503,Introduction to Marketing,University of Pennsylvania,0.8823529411764703,0.0683132718461779,False,False,False,True,True,False,False
+504,Introduction to Mathematical Thinking,Stanford University,0.8823529411764703,0.08394559949976552,False,False,True,False,True,False,False
+505,Introduction to Operations Management,University of Pennsylvania,0.7058823529411764,0.02673128028763483,False,False,False,True,True,False,False
+506,Introduction to Personal Branding,University of Virginia,0.6470588235294119,0.04330154760043771,False,True,False,False,True,False,False
+507,Introduction to Philosophy,The University of Edinburgh,0.7647058823529409,0.11521025480694076,False,False,False,True,True,False,False
+508,Introduction to Portfolio Construction and Analysis with Python,EDHEC Business School,0.8823529411764703,0.002970142254181648,False,False,False,True,True,False,False
+509,Introduction to Probability and Data,Duke University,0.8235294117647058,0.04955447866187276,False,True,False,False,True,False,False
+510,Introduction to Programming in C,Duke University,0.8235294117647058,0.02516804752227607,False,True,False,False,False,False,True
+511,Introduction to Programming with MATLAB,Vanderbilt University,0.8823529411764703,0.08394559949976552,False,True,False,False,True,False,False
+512,Introduction to Psychology,Yale University,0.9411764705882357,0.08394559949976552,False,True,False,False,True,False,False
+513,Introduction to Scripting in Python,Rice University,0.8235294117647058,0.01485071127090824,False,True,False,False,False,False,True
+514,Introduction to Self-Driving Cars,University of Toronto,0.8823529411764703,0.011724245740190715,True,False,False,False,True,False,False
+515,Introduction to Spreadsheets and Models,University of Pennsylvania,0.5294117647058825,0.023292168203845554,False,False,False,True,True,False,False
+516,Introduction to Statistics & Data Analysis in Public Health,Imperial College London,0.8235294117647058,0.0032827888072534,False,True,False,False,True,False,False
+517,Introduction to Sustainability,University of Illinois at Urbana-Champaign,0.8823529411764703,0.021103642332343287,False,False,False,True,True,False,False
+518,Introduction to Systematic Review and Meta-Analysis,Johns Hopkins University,0.8823529411764703,0.02047834922619978,False,False,False,True,True,False,False
+519,Introduction to Systems Engineering,UNSW Sydney (The University of New South Wales),0.8235294117647058,0.0098483664217602,False,False,False,True,True,False,False
+520,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",deeplearning.ai,0.8235294117647058,0.04642801313115524,False,False,True,False,True,False,False
+521,Introduction to Thermodynamics: Transferring Energy from Here to There,University of Michigan,0.8823529411764703,0.0008128810379865563,False,True,False,False,True,False,False
+522,"Introduction to Trading, Machine Learning & GCP",New York Institute of Finance,0.41176470588235303,0.0035954353603251527,False,False,True,False,True,False,False
+523,Introduction to Typography,California Institute of the Arts,0.8823529411764703,0.022041581991558545,False,True,False,False,True,False,False
+524,Introduction to User Experience Design,Georgia Institute of Technology,0.7058823529411764,0.02673128028763483,False,True,False,False,True,False,False
+525,Introduction to User Experience Principles and Processes,University of Michigan,0.8823529411764703,0.004533375019540409,False,True,False,False,True,False,False
+526,Introduction to Web Development,"University of California, Davis",0.8235294117647058,0.023292168203845554,False,True,False,False,True,False,False
+527,Introduction to the Biology of Cancer,Johns Hopkins University,0.8823529411764703,0.03392215100828514,False,True,False,False,True,False,False
+528,Introductory Human Physiology,Duke University,0.8235294117647058,0.08394559949976552,False,False,False,True,True,False,False
+529,Introdução aos Princípios e Práticas da Gestão De Projetos,Universidade de São Paulo,0.9411764705882357,0.0009379396592152573,False,True,False,False,False,False,True
+530,Introdução à Ciência da Computação com Python Parte 1,Universidade de São Paulo,0.9411764705882357,0.03704861653900266,False,True,False,False,True,False,False
+531,Investment Management,University of Geneva,0.8235294117647058,0.03048303892449586,False,True,False,False,False,False,True
+532,Investment Management with Python and Machine Learning,EDHEC Business School,0.7647058823529409,0.003908081913396905,False,True,False,False,False,False,True
+533,Investment and Portfolio Management,Rice University,0.7058823529411764,0.01485071127090824,False,True,False,False,False,False,True
+534,Japanese for beginners 1,Saint Petersburg State University,0.7647058823529409,0.000906675003908082,False,True,False,False,True,False,False
+535,Java Programming and Software Engineering Fundamentals,Duke University,0.7647058823529409,0.11833672033765828,False,True,False,False,False,False,True
+536,Java Programming: Solving Problems with Software,Duke University,0.7647058823529409,0.04955447866187276,False,True,False,False,True,False,False
+537,Julia Scientific Programming,University of Cape Town,0.7058823529411764,0.006409254337970924,False,True,False,False,True,False,False
+538,Kotlin for Java Developers,JetBrains,0.8235294117647058,0.01109895263404721,False,False,True,False,True,False,False
+539,L'excellence opérationnelle en pratique,ESSEC Business School,0.8235294117647058,0.0020322025949663903,False,True,False,False,True,False,False
+540,"L'impact investing, la finance qui change le monde",ESSEC Business School,0.7647058823529409,0.0015007034547444115,False,True,False,False,False,False,True
+541,Leadership Development for Engineers,Rice University,0.8235294117647058,0.004846021572612162,False,True,False,False,False,False,True
+542,Leadership in 21st Century Organizations,Copenhagen Business School,0.8235294117647058,0.010161012974831954,False,False,False,True,True,False,False
+543,Leading Healthcare Quality and Safety,The George Washington University,0.8823529411764703,0.004533375019540409,False,True,False,False,True,False,False
+544,Leading People and Teams,University of Michigan,0.8235294117647058,0.0683132718461779,False,True,False,False,False,False,True
+545,"Leading for Equity, Diversity and Inclusion in Higher Education",University of Michigan,0.8235294117647058,0.0013756448335157105,False,False,True,False,True,False,False
+546,Leading: Human Resource Management and Leadership,Macquarie University,0.8823529411764703,0.004533375019540409,False,False,True,False,False,False,True
+547,Learn Chinese: HSK Test Preparation,Peking University,0.8823529411764703,0.012974831952477724,False,True,False,False,False,False,True
+548,Learn English,Tsinghua University,0.588235294117647,0.006409254337970924,False,True,False,False,False,False,True
+549,Learn English: Advanced Academic Speaking and Listening,"University of California, Irvine",0.7058823529411764,0.02391746130998906,False,False,True,False,False,False,True
+550,Learn English: Advanced Grammar and Punctuation,"University of California, Irvine",0.8823529411764703,0.015788650930123497,True,False,False,False,False,False,True
+551,Learn English: Intermediate Grammar,"University of California, Irvine",0.8235294117647058,0.03704861653900266,False,False,True,False,False,False,True
+552,Learn Mandarin Chinese,Shanghai Jiao Tong University,0.8823529411764703,0.011724245740190715,False,True,False,False,False,False,True
+553,Learn SQL Basics for Data Science,"University of California, Davis",0.7647058823529409,0.04955447866187276,False,True,False,False,False,False,True
+554,Learn Spanish: Basic Spanish Vocabulary,"University of California, Davis",0.7647058823529409,0.024542754416132562,False,True,False,False,False,False,True
+555,Learn to Program: The Fundamentals,University of Toronto,0.8823529411764703,0.055807409723307805,False,True,False,False,True,False,False
+556,Learn to Speak Korean 1,Yonsei University,0.9411764705882357,0.03704861653900266,False,True,False,False,True,False,False
+557,Learning to Teach Online,UNSW Sydney (The University of New South Wales),0.8235294117647058,0.020790995779271536,False,True,False,False,True,False,False
+558,Legal Tech & Startups,IE Business School,0.7058823529411764,0.0017820853525089889,False,False,True,False,True,False,False
+559,Les Fondamentaux de la Négociation,ESSEC Business School,0.8235294117647058,0.002657495701109895,False,True,False,False,True,False,False
+560,Liderazgo efectivo para el siglo XXI,Universidad de los Andes,0.8823529411764703,0.0067219008910426765,False,False,True,False,False,False,True
+561,Linear Circuits 1: DC Analysis,Georgia Institute of Technology,0.7647058823529409,0.008597780209473192,False,False,False,True,True,False,False
+562,Love as a Force for Social Justice,Stanford University,0.8235294117647058,0.003908081913396905,False,True,False,False,True,False,False
+563,Machine Learning,University of Washington,0.7647058823529409,0.09019853056120056,False,False,True,False,False,False,True
+564,Machine Learning,Stanford University,0.9411764705882357,1.0,False,False,False,True,True,False,False
+565,Machine Learning Foundations: A Case Study Approach,University of Washington,0.7647058823529409,0.07456620290761294,False,False,False,True,True,False,False
+566,Machine Learning and Reinforcement Learning in Finance,New York University,0.2352941176470591,0.008597780209473192,False,False,True,False,False,False,True
+567,Machine Learning for All,University of London,0.7647058823529409,0.005471314678755667,False,True,False,False,True,False,False
+568,Machine Learning for Business Professionals,Google Cloud,0.7647058823529409,0.017664530248554012,False,False,True,False,True,False,False
+569,Machine Learning for Trading,Google Cloud,0.3529411764705881,0.004220728466468657,False,False,True,False,False,False,True
+570,Machine Learning with Python,IBM,0.8235294117647058,0.03704861653900266,False,False,True,False,True,False,False
+571,Machine Learning with TensorFlow on Google Cloud Platform,Google Cloud,0.7058823529411764,0.022041581991558545,False,False,True,False,False,False,True
+572,Magic in the Middle Ages,Universitat de Barcelona,0.7647058823529409,0.02391746130998906,False,True,False,False,True,False,False
+573,Making Architecture,IE School of Architecture & Design,0.8235294117647058,0.012974831952477724,False,True,False,False,True,False,False
+574,Management of Fashion and Luxury Companies,Università Bocconi,0.8235294117647058,0.03704861653900266,False,False,False,True,True,False,False
+575,Managerial Accounting Fundamentals,University of Virginia,0.9411764705882357,0.002970142254181648,False,True,False,False,True,False,False
+576,Managerial Economics and Business Analysis,University of Illinois at Urbana-Champaign,0.8235294117647058,0.016726590589338754,False,True,False,False,False,False,True
+577,Managing Innovation and Design Thinking,HEC Paris,0.8235294117647058,0.0067219008910426765,False,True,False,False,False,False,True
+578,Managing Project Risks and Changes,"University of California, Irvine",0.8235294117647058,0.021728935438486793,False,False,False,True,True,False,False
+579,Managing Social and Human Capital,University of Pennsylvania,0.7058823529411764,0.007972487103329685,False,True,False,False,True,False,False
+580,Managing Your Health: The Role of Physical Therapy and Exercise,University of Toronto,0.7647058823529409,0.014225418164764733,False,True,False,False,True,False,False
+581,Market Research,"University of California, Davis",0.7058823529411764,0.006409254337970924,False,True,False,False,False,False,True
+582,Marketing Digital,Universidade de São Paulo,0.8823529411764703,0.024855400969204317,False,True,False,False,True,False,False
+583,Marketing Digital,Universidad Austral,0.8235294117647058,0.011724245740190715,False,True,False,False,False,False,True
+584,Marketing Gerencial,Universidad de Chile,0.8235294117647058,0.01485071127090824,False,False,True,False,True,False,False
+585,Marketing Mix Implementation,IE Business School,0.7647058823529409,0.028607159606065344,False,True,False,False,False,False,True
+586,Marketing Strategy,IE Business School,0.6470588235294119,0.017351883695482257,False,True,False,False,False,False,True
+587,Marketing Verde,Universidad de los Andes,0.8823529411764703,0.017664530248554012,False,False,False,True,True,False,False
+588,Marketing con Redes Sociales,Tecnológico de Monterrey,0.6470588235294119,0.018289823354697515,False,False,True,False,False,False,True
+589,Marketing in a Digital World,University of Illinois at Urbana-Champaign,0.8235294117647058,0.09645146162263561,False,True,False,False,True,False,False
+590,Mastering Data Analysis in Excel,Duke University,0.5294117647058825,0.08707206503048304,False,False,False,True,True,False,False
+591,Mastering Final Cut Pro,LearnQuest,0.7647058823529409,0.0021572612161950915,False,True,False,False,True,False,False
+592,Mastering Software Development in R,Johns Hopkins University,0.588235294117647,0.015788650930123497,False,True,False,False,False,False,True
+593,Materials Science: 10 Things Every Engineer Should Know,"University of California, Davis",0.8235294117647058,0.014538064717836486,False,False,False,True,True,False,False
+594,Mathematics for Data Science,National Research University Higher School of Economics,0.7058823529411764,0.0032827888072534,False,True,False,False,False,False,True
+595,Mathematics for Machine Learning,Imperial College London,0.7647058823529409,0.04642801313115524,False,True,False,False,False,False,True
+596,Mathematics for Machine Learning: Linear Algebra,Imperial College London,0.8235294117647058,0.04330154760043771,False,True,False,False,True,False,False
+597,Mathematics for Machine Learning: Multivariate Calculus,Imperial College London,0.8235294117647058,0.015476004377051742,False,True,False,False,True,False,False
+598,Mathematics for Machine Learning: PCA,Imperial College London,0.41176470588235303,0.0098483664217602,False,False,True,False,True,False,False
+599,Medical Cannabis: The Health Effects of THC and CBD,University of Colorado Boulder,0.8823529411764703,0.001031733625136783,False,True,False,False,False,False,True
+600,Medical Neuroscience,Duke University,0.9411764705882357,0.052680944192590284,True,False,False,False,True,False,False
+601,Memoir and Personal Essay: Write About Yourself,Wesleyan University,0.588235294117647,0.0035954353603251527,False,True,False,False,False,False,True
+602,Methods and Statistics in Social Sciences,University of Amsterdam,0.7647058823529409,0.080819133969048,False,True,False,False,False,False,True
+603,Microeconomics Principles,University of Illinois at Urbana-Champaign,0.9411764705882357,0.022354228544630296,False,True,False,False,True,False,False
+604,Microeconomics: The Power of Markets,University of Pennsylvania,0.8235294117647058,0.010161012974831954,False,False,False,True,True,False,False
+605,Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential,McMaster University,0.8823529411764703,0.07143973737689542,False,True,False,False,True,False,False
+606,Miracles of Human Language: An Introduction to Linguistics,Universiteit Leiden,0.8235294117647058,0.03704861653900266,False,True,False,False,True,False,False
+607,Model Thinking,University of Michigan,0.8823529411764703,0.04017508206972019,False,False,False,True,True,False,False
+608,Modeling Risk and Realities,University of Pennsylvania,0.7647058823529409,0.010786306080975458,False,False,False,True,True,False,False
+609,Modern Art & Ideas,The Museum of Modern Art,0.8235294117647058,0.09645146162263561,False,True,False,False,True,False,False
+610,Modern Big Data Analysis with SQL,Cloudera,0.8823529411764703,0.003908081913396905,False,True,False,False,False,False,True
+611,"Modern Robotics:  Mechanics, Planning, and Control",Northwestern University,0.8235294117647058,0.006096607784899171,False,False,True,False,False,False,True
+612,Modernizing Data Lakes and Data Warehouses with GCP,Google Cloud,0.8235294117647058,0.0023761138033453182,False,False,True,False,True,False,False
+613,Moral Foundations of Politics,Yale University,0.8823529411764703,0.03079568547756761,False,False,False,True,True,False,False
+614,More Introduction to Financial Accounting,University of Pennsylvania,0.9411764705882357,0.012036892293262467,False,False,False,True,True,False,False
+615,Mountains 101,University of Alberta,0.9411764705882357,0.013287478505549477,False,False,False,True,True,False,False
+616,Municipal Solid Waste Management in Developing Countries,École Polytechnique Fédérale de Lausanne,0.8823529411764703,0.017977176801625763,False,False,True,False,True,False,False
+617,Music Business,Berklee College of Music,0.8823529411764703,0.012662185399405971,False,True,False,False,False,False,True
+618,Music Business Foundations,Berklee College of Music,0.9411764705882357,0.010161012974831954,False,False,False,True,True,False,False
+619,Music Production,Berklee College of Music,0.8823529411764703,0.02141628888541504,False,True,False,False,False,False,True
+620,Nanotechnology: A Maker’s Course,Duke University,0.8823529411764703,0.006096607784899171,False,False,False,True,True,False,False
+621,Natural Language Processing in TensorFlow,deeplearning.ai,0.7647058823529409,0.012036892293262467,False,False,True,False,True,False,False
+622,Negociación exitosa: Estrategias y habilidades esenciales (en español),University of Michigan,0.8823529411764703,0.02923245271220885,False,False,False,True,True,False,False
+623,"Negotiation, Mediation and Conflict Resolution",ESSEC Business School,0.8235294117647058,0.006409254337970924,False,True,False,False,False,False,True
+624,Networking and Security Architecture with VMware NSX,VMware,0.8823529411764703,0.004846021572612162,False,False,True,False,True,False,False
+625,Networking in Google Cloud,Google Cloud,0.8235294117647058,0.09019853056120056,False,False,True,False,False,False,True
+626,Neural Networks and Deep Learning,deeplearning.ai,0.9411764705882357,0.1964983586055964,False,False,True,False,True,False,False
+627,Neurolinguistics,Saint Petersburg State University,0.8235294117647058,0.01234953884633422,False,False,False,True,True,False,False
+628,New Approaches to Countering Terror: Countering Violent Extremism,"University of Maryland, College Park",0.8235294117647058,0.0032827888072534,False,True,False,False,True,False,False
+629,Newborn Baby Care,University of Colorado System,0.8823529411764703,0.0011880569016726591,False,True,False,False,False,False,True
+630,Nutrición y obesidad: control de sobrepeso,Universidad Nacional Autónoma de México,0.8823529411764703,0.03079568547756761,False,True,False,False,True,False,False
+631,Nutrition and Lifestyle in Pregnancy,Ludwig-Maximilians-Universität München (LMU),0.8823529411764703,0.010473659527903705,False,False,True,False,True,False,False
+632,Object Oriented Java Programming: Data Structures and Beyond,University of California San Diego,0.8235294117647058,0.07769266843833046,False,False,True,False,False,False,True
+633,Object Oriented Programming in Java,Duke University,0.7647058823529409,0.10270439268407065,False,True,False,False,False,False,True
+634,Object-Oriented Data Structures in C++,University of Illinois at Urbana-Champaign,0.8235294117647058,0.006096607784899171,False,False,True,False,True,False,False
+635,Object-Oriented Design,University of Alberta,0.8235294117647058,0.0098483664217602,False,False,True,False,True,False,False
+636,Oil & Gas Industry Operations and Markets,Duke University,0.8823529411764703,0.017351883695482257,False,False,False,True,True,False,False
+637,"Open Source Software Development, Linux and Git",The Linux Foundation,0.6470588235294119,0.0035954353603251527,False,True,False,False,False,False,True
+638,Operating Systems and You: Becoming a Power User,Google,0.7647058823529409,0.023292168203845554,False,True,False,False,True,False,False
+639,Operations Analytics,University of Pennsylvania,0.8235294117647058,0.024542754416132562,False,False,False,True,True,False,False
+640,Optical Engineering,University of Colorado Boulder,0.5294117647058825,0.0014694387994372362,True,False,False,False,False,False,True
+641,Organizational Leadership,Northwestern University,0.8235294117647058,0.028294513052993592,False,False,True,False,False,False,True
+642,Osteoarchaeology: The Truth in Our Bones,Universiteit Leiden,0.8235294117647058,0.006409254337970924,False,True,False,False,True,False,False
+643,Palliative Care: It's Not Just Hospice Anymore,University of Colorado System,0.8823529411764703,0.0005314991402219792,False,True,False,False,False,False,True
+644,Palo Alto Networks Cybersecurity,Palo Alto Networks,0.7647058823529409,0.0023761138033453182,False,True,False,False,False,False,True
+645,"Parallel, Concurrent, and Distributed Programming in Java",Rice University,0.7058823529411764,0.008910426762544943,False,False,True,False,False,False,True
+646,Particle Physics: an Introduction,University of Geneva,0.7058823529411764,0.012662185399405971,False,False,False,True,True,False,False
+647,Patient Safety,Johns Hopkins University,0.8823529411764703,0.0022823198374237923,False,True,False,False,False,False,True
+648,Patrocinio Deportivo,Universitat Autònoma de Barcelona,0.7647058823529409,0.0032827888072534,False,True,False,False,True,False,False
+649,People Analytics,University of Pennsylvania,0.7058823529411764,0.02579334062841957,False,False,False,True,True,False,False
+650,Perfect Tenses and Modals,"University of California, Irvine",0.8235294117647058,0.02423010786306081,False,False,True,False,True,False,False
+651,Periodismo digital y combate a las fake news,Universidad Nacional Autónoma de México,0.9411764705882357,0.0023135844927309676,False,True,False,False,True,False,False
+652,Photography Basics and Beyond: From Smartphone to DSLR,Michigan State University,0.8235294117647058,0.04955447866187276,False,True,False,False,False,False,True
+653,Plant Bioinformatic Methods,University of Toronto,0.8235294117647058,0.02548069407534782,False,True,False,False,False,False,True
+654,Politics and Economics of International Energy,Sciences Po,0.8235294117647058,0.010161012974831954,False,True,False,False,True,False,False
+655,Positive Psychiatry and Mental Health,The University of Sydney,0.8823529411764703,0.022041581991558545,False,False,False,True,True,False,False
+656,Positive Psychology,The University of North Carolina at Chapel Hill,0.8235294117647058,0.055807409723307805,False,False,False,True,True,False,False
+657,Positive Psychology: Applications and Interventions,University of Pennsylvania,0.8823529411764703,0.0067219008910426765,False,True,False,False,True,False,False
+658,Positive Psychology: Martin E. P. Seligman’s Visionary Science,University of Pennsylvania,0.8823529411764703,0.01516335782397999,False,True,False,False,True,False,False
+659,Positive Psychology: Resilience Skills,University of Pennsylvania,0.7647058823529409,0.012036892293262467,False,True,False,False,True,False,False
+660,Power Electronics,University of Colorado Boulder,0.8823529411764703,0.02047834922619978,False,False,True,False,False,False,True
+661,Practical Data Science with MATLAB,MathWorks,0.8235294117647058,0.002657495701109895,False,True,False,False,False,False,True
+662,Practical Time Series Analysis,The State University of New York,0.7647058823529409,0.011724245740190715,False,False,True,False,True,False,False
+663,Preparing for the Google Cloud Associate Cloud Engineer Exam,Google Cloud,0.8235294117647058,0.006409254337970924,False,True,False,False,True,False,False
+664,Preparing to Manage Human Resources,University of Minnesota,0.8823529411764703,0.020790995779271536,False,False,False,True,True,False,False
+665,"Presentation Skills: Speechwriting, Slides and Delivery",E-Learning Development Fund,0.7647058823529409,0.014225418164764733,False,True,False,False,False,False,True
+666,Pricing Strategy Optimization,BCG,0.8823529411764703,0.005783961231827419,False,True,False,False,False,False,True
+667,Primeros Auxilios Psicológicos (PAP),Universitat Autònoma de Barcelona,0.8823529411764703,0.08707206503048304,False,False,False,True,True,False,False
+668,Private Equity and Venture Capital,Università Bocconi,0.8823529411764703,0.02423010786306081,False,False,False,True,True,False,False
+669,Probabilistic Graphical Models 1: Representation,Stanford University,0.8235294117647058,0.020790995779271536,True,False,False,False,True,False,False
+670,Probability and Statistics: To p or not to p?,University of London,0.7647058823529409,0.010786306080975458,False,True,False,False,True,False,False
+671,Process Mining: Data science in Action,Eindhoven University of Technology,0.8823529411764703,0.011724245740190715,False,False,True,False,True,False,False
+672,"Programming Foundations with JavaScript, HTML and CSS",Duke University,0.7647058823529409,0.07769266843833046,False,True,False,False,True,False,False
+673,Programming Fundamentals,Duke University,0.8235294117647058,0.005471314678755667,False,True,False,False,True,False,False
+674,Programming for Everybody (Getting Started with Python),University of Michigan,0.8823529411764703,0.40597154916367045,False,False,False,True,True,False,False
+675,Programming with Google Go,"University of California, Irvine",0.7647058823529409,0.005158668125683915,False,False,True,False,False,False,True
+676,Project Execution,"University of California, Irvine",0.5294117647058825,0.02141628888541504,False,True,False,False,True,False,False
+677,Project Launch,"University of California, Irvine",0.8235294117647058,0.05893387525402533,False,True,False,False,True,False,False
+678,Project Management & Other Tools for Career Development,"University of California, Irvine",0.7647058823529409,0.13709551352196345,False,True,False,False,False,False,True
+679,Project Management Principles and Practices,"University of California, Irvine",0.8235294117647058,0.07143973737689542,False,True,False,False,False,False,True
+680,Psychological First Aid,Johns Hopkins University,0.8823529411764703,0.05893387525402533,False,False,False,True,True,False,False
+681,Public Policy Challenges of the 21st Century,University of Virginia,0.7647058823529409,0.015788650930123497,False,True,False,False,True,False,False
+682,Python Basics,University of Michigan,0.8823529411764703,0.03392215100828514,False,True,False,False,True,False,False
+683,Python Classes and Inheritance,University of Michigan,0.8235294117647058,0.006096607784899171,False,False,True,False,True,False,False
+684,Python Data Structures,University of Michigan,0.9411764705882357,0.13084258246052838,False,False,False,True,True,False,False
+685,"Python Functions, Files, and Dictionaries",University of Michigan,0.8823529411764703,0.007659840550257934,False,True,False,False,True,False,False
+686,Python and Statistics for Financial Analysis,The Hong Kong University of Science and Technology,0.6470588235294119,0.01234953884633422,False,False,True,False,True,False,False
+687,Python for Data Science and AI,IBM,0.7647058823529409,0.052680944192590284,False,True,False,False,True,False,False
+688,Python for Everybody,University of Michigan,0.8823529411764703,0.468500859778021,False,True,False,False,False,False,True
+689,Quantitative Methods,University of Amsterdam,0.8235294117647058,0.021103642332343287,False,False,False,True,True,False,False
+690,Queering Identities: LGBTQ+ Sexuality and Gender Identity,University of Colorado System,0.9411764705882357,0.0004689698296076286,False,True,False,False,True,False,False
+691,R Programming,Johns Hopkins University,0.7647058823529409,0.14960137564483353,False,False,True,False,True,False,False
+692,"Ready, Set, Future! Introduction to Futures Thinking",Institute for the Future,0.8823529411764703,0.001938408629044865,False,True,False,False,True,False,False
+693,Recommender Systems,University of Minnesota,0.588235294117647,0.008597780209473192,False,False,True,False,False,False,True
+694,"Recruiting, Hiring, and Onboarding Employees",University of Minnesota,0.8235294117647058,0.010473659527903705,False,False,False,True,True,False,False
+695,Reinforcement Learning,University of Alberta,0.8235294117647058,0.0067219008910426765,False,False,True,False,False,False,True
+696,Renewable Energy and Green Building Entrepreneurship,Duke University,0.8235294117647058,0.007034547444114429,False,True,False,False,True,False,False
+697,Reporting extra-financier et stratégie RSE,ESSEC Business School,0.8235294117647058,0.001156792246365484,False,True,False,False,True,False,False
+698,Requirements Engineering: Secure Software  Specifications,University of Colorado System,0.7647058823529409,0.0017820853525089889,False,True,False,False,False,False,True
+699,Research Data Management and Sharing,The University of Edinburgh,0.7647058823529409,0.004533375019540409,False,False,False,True,True,False,False
+700,"Resilience in Children Exposed to Trauma, Disaster and War: Global Perspectives",University of Minnesota,0.8823529411764703,0.004220728466468657,False,False,False,True,True,False,False
+701,Responsive Website Development and Design,"Goldsmiths, University of London",0.7058823529411764,0.052680944192590284,False,True,False,False,False,False,True
+702,Rethinking International Tax Law,Universiteit Leiden,0.9411764705882357,0.010786306080975458,False,False,False,True,True,False,False
+703,Revisão Sistemática e Meta-análise,Universidade Estadual de Campinas,0.9411764705882357,0.004846021572612162,False,False,True,False,True,False,False
+704,Robotics,University of Pennsylvania,0.6470588235294119,0.03704861653900266,False,True,False,False,False,False,True
+705,Roman Architecture,Yale University,0.9411764705882357,0.008910426762544943,False,True,False,False,True,False,False
+706,Russian Alphabet,Saint Petersburg State University,0.8235294117647058,0.0005314991402219792,False,True,False,False,True,False,False
+707,Russian for beginners А1. Русский язык: A1,Saint Petersburg State University,0.8235294117647058,0.0017195560418946383,False,True,False,False,False,False,True
+708,Réussir le Changement,ESSEC Business School,0.7058823529411764,0.0098483664217602,False,False,False,True,True,False,False
+709,SAS Programmer,SAS,0.8823529411764703,0.11521025480694076,False,True,False,False,False,True,False
+710,SAS Visual Business Analytics,SAS,0.7647058823529409,0.0003439112083789277,False,True,False,False,False,True,False
+711,SQL for Data Science,"University of California, Davis",0.7647058823529409,0.04955447866187276,False,True,False,False,True,False,False
+712,Sales Operations/Management,West Virginia University,0.6470588235294119,0.0012818508675941848,False,True,False,False,False,False,True
+713,Sales Training for High Performing Teams,HubSpot Academy,0.8235294117647058,0.004533375019540409,False,True,False,False,False,False,True
+714,Sample-based Learning Methods,University of Alberta,0.8823529411764703,0.0016570267312802877,False,False,True,False,True,False,False
+715,Scaling Operations: Linking Strategy and Execution,Northwestern University,0.7058823529411764,0.0032827888072534,False,False,False,True,True,False,False
+716,School Health for Children and Adolescents,University of Colorado System,0.8823529411764703,0.0023761138033453182,False,True,False,False,False,False,True
+717,Science of Exercise,University of Colorado Boulder,0.8823529411764703,0.04330154760043771,False,True,False,False,True,False,False
+718,Search Engine Optimization Fundamentals,"University of California, Davis",0.8235294117647058,0.014225418164764733,False,False,False,True,True,False,False
+719,Secure Coding Practices,"University of California, Davis",0.6470588235294119,0.0015319681100515869,False,False,True,False,False,False,True
+720,Security & Safety Challenges in a Globalized World,Universiteit Leiden,0.8235294117647058,0.003908081913396905,False,True,False,False,True,False,False
+721,Security in Google Cloud Platform,Google Cloud,0.8235294117647058,0.09332499609191809,False,False,True,False,False,False,True
+722,Self-Driving Cars,University of Toronto,0.8235294117647058,0.011724245740190715,True,False,False,False,False,False,True
+723,Sequence Models,deeplearning.ai,0.8823529411764703,0.003908081913396905,False,False,True,False,True,False,False
+724,Sexualidad...mucho más que sexo,Universidad de los Andes,0.8823529411764703,0.03392215100828514,False,True,False,False,True,False,False
+725,Sharpened Visions: A Poetry Workshop,California Institute of the Arts,0.8235294117647058,0.018602469907769266,False,True,False,False,True,False,False
+726,Site Reliability Engineering: Measuring and Managing Reliability,Google Cloud,0.7058823529411764,0.004533375019540409,True,False,False,False,True,False,False
+727,Six Sigma Green Belt,University System of Georgia,0.8235294117647058,0.005158668125683915,False,False,True,False,False,False,True
+728,Six Sigma and the Organization (Advanced),University System of Georgia,0.8235294117647058,0.004220728466468657,False,False,True,False,True,False,False
+729,"Sleep: Neurobiology, Medicine, and Society",University of Michigan,0.8823529411764703,0.005783961231827419,False,True,False,False,True,False,False
+730,Smart Cities – Management of Smart Urban Infrastructures,École Polytechnique Fédérale de Lausanne,0.7647058823529409,0.006409254337970924,False,True,False,False,True,False,False
+731,Social Entrepreneurship,Copenhagen Business School,0.7647058823529409,0.0035954353603251527,False,True,False,False,False,False,True
+732,Social Media Marketing,Northwestern University,0.7647058823529409,0.04017508206972019,False,True,False,False,False,False,True
+733,"Social Norms, Social Change I",University of Pennsylvania,0.7647058823529409,0.02391746130998906,False,True,False,False,True,False,False
+734,Social Policy for Social Services & Health Practitioners,Columbia University,0.8823529411764703,0.0008441456932937316,False,True,False,False,False,False,True
+735,Social Psychology,Wesleyan University,0.8235294117647058,0.0683132718461779,False,True,False,False,True,False,False
+736,Social and Economic Networks:  Models and Analysis,Stanford University,0.8823529411764703,0.012662185399405971,True,False,False,False,True,False,False
+737,Software Design and Architecture,University of Alberta,0.7647058823529409,0.018289823354697515,False,True,False,False,False,False,True
+738,Software Development Lifecycle,University of Minnesota,0.7647058823529409,0.010161012974831954,False,False,True,False,False,False,True
+739,Software Processes and Agile Practices,University of Alberta,0.8235294117647058,0.018289823354697515,False,False,False,True,True,False,False
+740,Software Product Management,University of Alberta,0.7647058823529409,0.03392215100828514,False,True,False,False,False,False,True
+741,Solar Energy Basics,The State University of New York,0.8823529411764703,0.004846021572612162,False,True,False,False,True,False,False
+742,Songwriting: Writing the Lyrics,Berklee College of Music,0.8823529411764703,0.020790995779271536,False,True,False,False,True,False,False
+743,Soporte de Tecnologías de la Información de Google,Crece con Google,0.9411764705882357,0.0022823198374237923,False,True,False,False,False,True,False
+744,Spacecraft Dynamics and Control,University of Colorado Boulder,0.8823529411764703,0.0032827888072534,True,False,False,False,False,False,True
+745,Spanish Vocabulary: Meeting People,"University of California, Davis",0.7647058823529409,0.021728935438486793,False,True,False,False,True,False,False
+746,"Speak English Professionally: In Person, Online & On the Phone",Georgia Institute of Technology,0.7647058823529409,0.13396904799124593,False,False,False,True,True,False,False
+747,Sports Marketing,Northwestern University,0.8235294117647058,0.0032827888072534,False,False,True,False,True,False,False
+748,Sports and Society,Duke University,0.8823529411764703,0.004533375019540409,False,False,False,True,True,False,False
+749,Stanford Introduction to Food and Health,Stanford University,0.8235294117647058,0.11521025480694076,False,True,False,False,True,False,False
+750,Stanford's Short Course on Breastfeeding,Stanford University,0.8235294117647058,0.004846021572612162,False,True,False,False,True,False,False
+751,Statistical Analysis with R for Public Health,Imperial College London,0.8235294117647058,0.004533375019540409,False,True,False,False,False,False,True
+752,Statistics with Python,University of Michigan,0.7647058823529409,0.010161012974831954,False,True,False,False,False,False,True
+753,Statistics with R,Duke University,0.8235294117647058,0.0683132718461779,False,True,False,False,False,False,True
+754,Stories of Infection,Stanford University,0.9411764705882357,0.008285133656401438,False,False,True,False,True,False,False
+755,Strategic Business Analytics,ESSEC Business School,0.588235294117647,0.018289823354697515,True,False,False,False,False,False,True
+756,Strategic Business Management - Microeconomics,"University of California, Irvine",0.8235294117647058,0.002501172424574019,False,True,False,False,True,False,False
+757,Strategic Leadership and Management,University of Illinois at Urbana-Champaign,0.8235294117647058,0.03079568547756761,False,True,False,False,False,False,True
+758,Strategic Management,Copenhagen Business School,0.8235294117647058,0.017664530248554012,False,False,False,True,True,False,False
+759,Strategic Management and Innovation,Copenhagen Business School,0.8235294117647058,0.020790995779271536,False,True,False,False,False,False,True
+760,Strategic Sales Management,Fundação Instituto de Administração,0.7058823529411764,0.002407378458652493,False,False,True,False,False,False,True
+761,Strategising: Management for Global Competitive Advantage,Macquarie University,0.8823529411764703,0.008910426762544943,False,False,True,False,False,False,True
+762,Strategy and Sustainability,IESE Business School,0.7647058823529409,0.002970142254181648,False,True,False,False,True,False,False
+763,Structuring Machine Learning Projects,deeplearning.ai,0.8823529411764703,0.0683132718461779,False,True,False,False,True,False,False
+764,Success,University of Pennsylvania,0.8823529411764703,0.011411599187118962,False,True,False,False,True,False,False
+765,Successful Negotiation: Essential Strategies and Skills,University of Michigan,0.8823529411764703,0.2340159449742067,False,False,False,True,True,False,False
+766,Summary Statistics in Public Health,Johns Hopkins University,0.8823529411764703,0.002970142254181648,False,True,False,False,True,False,False
+767,Supply Chain Analytics,Rutgers the State University of New Jersey,0.8235294117647058,0.0020009379396592154,False,True,False,False,True,False,False
+768,Supply Chain Finance and Blockchain Technology,New York Institute of Finance,0.7647058823529409,0.0010629982804439583,False,False,True,False,False,False,True
+769,Supply Chain Logistics,Rutgers the State University of New Jersey,0.8235294117647058,0.02016570267312803,False,True,False,False,True,False,False
+770,Supply Chain Management,Rutgers the State University of New Jersey,0.8235294117647058,0.02516804752227607,False,True,False,False,False,False,True
+771,Supply Chain Operations,Rutgers the State University of New Jersey,0.8823529411764703,0.007034547444114429,False,True,False,False,True,False,False
+772,Supply Chain Principles,Georgia Institute of Technology,0.7647058823529409,0.008597780209473192,False,False,False,True,True,False,False
+773,Supporting children with difficulties in reading and writing,UCL Institute of Education,0.8823529411764703,0.01516335782397999,False,False,False,True,True,False,False
+774,Survey Data Collection and Analytics,"University of Maryland, College Park",0.588235294117647,0.013600125058621229,False,True,False,False,False,False,True
+775,Sustainable Tourism – promoting environmental public health,University of Copenhagen,0.7647058823529409,0.0024699077692668437,False,True,False,False,True,False,False
+776,Swift 5 iOS Application Developer,LearnQuest,0.7058823529411764,0.0007503517273722059,False,True,False,False,False,False,True
+777,System Administration and IT Infrastructure Services,Google,0.8235294117647058,0.01891511646084102,False,True,False,False,True,False,False
+778,Systems Biology and Biotechnology,Icahn School of Medicine at Mount Sinai,0.6470588235294119,0.014538064717836486,False,False,True,False,False,False,True
+779,Systems Thinking In Public Health,Johns Hopkins University,0.9411764705882357,0.0098483664217602,False,False,False,True,True,False,False
+780,"TESOL Certificate, Part 1: Teach English Now!",Arizona State University,0.9411764705882357,0.03079568547756761,False,True,False,False,False,False,True
+781,"TESOL Certificate, Part 2: Teach English Now!",Arizona State University,0.9411764705882357,0.01891511646084102,False,True,False,False,False,False,True
+782,Teach English Now! Foundational Principles,Arizona State University,0.9411764705882357,0.024855400969204317,False,False,False,True,True,False,False
+783,Teach English Now! Teaching Language Online,Arizona State University,0.6470588235294119,0.002188525871502267,False,False,True,False,True,False,False
+784,Teaching Character and Creating Positive Classrooms,Relay Graduate School of Education,0.8823529411764703,0.016101297483195248,False,False,False,True,True,False,False
+785,Teamwork Skills: Communicating Effectively in Groups,University of Colorado Boulder,0.8823529411764703,0.01485071127090824,False,True,False,False,True,False,False
+786,Technical Support Fundamentals,Google,0.8823529411764703,0.08707206503048304,False,True,False,False,True,False,False
+787,TensorFlow in Practice,deeplearning.ai,0.8235294117647058,0.052680944192590284,False,False,True,False,False,False,True
+788,TensorFlow: Data and Deployment,deeplearning.ai,0.7058823529411764,0.0032827888072534,False,False,True,False,False,False,True
+789,Terrorism and Counterterrorism: Comparing Theory and Practice,Universiteit Leiden,0.8823529411764703,0.027669219946850086,False,True,False,False,True,False,False
+790,The Addicted Brain,Emory University,0.7647058823529409,0.04017508206972019,False,True,False,False,True,False,False
+791,The Art of Music Production,Berklee College of Music,0.8823529411764703,0.014225418164764733,False,False,True,False,True,False,False
+792,The Art of Sales: Mastering the Selling Process,Northwestern University,0.8235294117647058,0.0067219008910426765,False,True,False,False,False,False,True
+793,The Arts and Science of Relationships: Understanding Human Needs,University of Toronto,0.7058823529411764,0.022354228544630296,False,True,False,False,True,False,False
+794,The Bits and Bytes of Computer Networking,Google,0.8235294117647058,0.04017508206972019,False,True,False,False,True,False,False
+795,The Business of Health Care,University of Pennsylvania,0.7647058823529409,0.006409254337970924,False,True,False,False,False,False,True
+796,The Business of Music Production,Berklee College of Music,0.8823529411764703,0.02579334062841957,False,True,False,False,False,False,True
+797,The Changing Global Order,Universiteit Leiden,0.8235294117647058,0.0067219008910426765,False,False,True,False,True,False,False
+798,The Cycle: Management of Successful Arts and Cultural Organizations,"University of Maryland, College Park",0.8823529411764703,0.002970142254181648,False,True,False,False,True,False,False
+799,The DIY Musician,Berklee College of Music,0.8823529411764703,0.03704861653900266,False,True,False,False,False,False,True
+800,The Data Scientist’s Toolbox,Johns Hopkins University,0.7647058823529409,0.13084258246052838,False,False,False,True,True,False,False
+801,The Economics of Health Care Delivery,University of Pennsylvania,0.8823529411764703,0.0017820853525089889,False,False,False,True,True,False,False
+802,The Global Financial Crisis,Yale University,0.8823529411764703,0.02579334062841957,False,False,False,True,True,False,False
+803,The Horse Course: Introduction to Basic Care and Management,University of Florida,0.9411764705882357,0.008597780209473192,False,False,False,True,True,False,False
+804,The Manager's Toolkit: A Practical Guide to Managing People at Work,"Birkbeck, University of London",0.7647058823529409,0.014225418164764733,False,False,False,True,True,False,False
+805,"The Modern World, Part One: Global History from 1760 to 1910",University of Virginia,0.8823529411764703,0.04017508206972019,False,True,False,False,True,False,False
+806,"The Modern World, Part Two: Global History since 1910",University of Virginia,0.8823529411764703,0.014225418164764733,False,True,False,False,True,False,False
+807,The Oral Cavity: Portal to Health and Disease,University of Pennsylvania,0.9411764705882357,0.0024699077692668437,False,False,True,False,True,False,False
+808,The Power of Macroeconomics: Economic Principles in the Real World,"University of California, Irvine",0.7647058823529409,0.055807409723307805,False,False,False,True,True,False,False
+809,The Power of Microeconomics: Economic Principles in the Real World,"University of California, Irvine",0.8235294117647058,0.03704861653900266,False,False,False,True,True,False,False
+810,The Pronunciation of American English,"University of California, Irvine",0.7647058823529409,6.252931061435045e-05,False,True,False,False,False,False,True
+811,The Science of Gastronomy,The Hong Kong University of Science and Technology,0.7647058823529409,0.01516335782397999,False,False,False,True,True,False,False
+812,The Science of Stem Cells,American Museum of Natural History,0.8235294117647058,0.0032827888072534,False,False,True,False,True,False,False
+813,The Science of Success: What Researchers Know that You Should Know,University of Michigan,0.8823529411764703,0.017977176801625763,False,True,False,False,True,False,False
+814,The Science of Training Young Athletes,University of Florida,0.9411764705882357,0.0035954353603251527,False,True,False,False,True,False,False
+815,The Science of Well-Being,Yale University,0.9411764705882357,0.7811474128497734,False,False,False,True,True,False,False
+816,The Singer Songwriter,Berklee College of Music,0.8823529411764703,0.09957792715335313,False,True,False,False,False,False,True
+817,The Social Context of Mental Health and Illness,University of Toronto,0.7647058823529409,0.005471314678755667,False,False,False,True,True,False,False
+818,The Strategy of Content Marketing,"University of California, Davis",0.7058823529411764,0.03079568547756761,False,False,True,False,True,False,False
+819,"The Sustainable Development Goals – A global, transdisciplinary vision for the future",University of Copenhagen,0.8823529411764703,0.007659840550257934,False,True,False,False,True,False,False
+820,The Teacher and Social and Emotional Learning (SEL),University of Colorado Boulder,0.8235294117647058,0.001156792246365484,False,True,False,False,False,False,True
+821,The Technology of Music Production,Berklee College of Music,0.8823529411764703,0.008285133656401438,False,True,False,False,True,False,False
+822,The Truth About Cats and Dogs,The University of Edinburgh,0.8235294117647058,0.0098483664217602,False,False,False,True,True,False,False
+823,The hidden value – Lean in manufacturing and services,École des Ponts ParisTech,0.8235294117647058,0.003908081913396905,False,True,False,False,True,False,False
+824,Think Again I: How to Understand Arguments,Duke University,0.7647058823529409,0.06206034078474285,False,True,False,False,True,False,False
+825,Tools for Data Science,IBM,0.7647058823529409,0.03704861653900266,False,True,False,False,True,False,False
+826,Trading Strategies in Emerging Markets,Indian School of Business,0.588235294117647,0.020790995779271536,False,True,False,False,False,False,True
+827,"Transmedia Storytelling: Narrative worlds, emerging technologies, and global audiences",UNSW Sydney (The University of New South Wales),0.8823529411764703,0.013600125058621229,False,False,False,True,True,False,False
+828,Tricky American English Pronunciation,"University of California, Irvine",0.8235294117647058,0.03392215100828514,False,True,False,False,True,False,False
+829,Troubles du spectre de l'autisme : diagnostic,University of Geneva,0.9411764705882357,0.0012193215569798344,False,False,True,False,True,False,False
+830,U.S. Federal Taxation,University of Illinois at Urbana-Champaign,0.8823529411764703,0.0032827888072534,False,False,True,False,False,False,True
+831,UCI Project Management,"University of California, Irvine",0.7647058823529409,0.013287478505549477,False,True,False,False,False,True,False
+832,UI / UX Design,California Institute of the Arts,0.8235294117647058,0.020790995779271536,False,True,False,False,False,False,True
+833,UX Design Fundamentals,California Institute of the Arts,0.8823529411764703,0.007347193997186181,False,True,False,False,True,False,False
+834,Understanding Cancer Metastasis,Johns Hopkins University,0.8823529411764703,0.008597780209473192,False,True,False,False,True,False,False
+835,Understanding Clinical Research: Behind the Statistics,University of Cape Town,0.8823529411764703,0.02391746130998906,False,False,False,True,True,False,False
+836,Understanding Einstein: The Special Theory of Relativity,Stanford University,0.9411764705882357,0.027356573393778335,False,True,False,False,True,False,False
+837,Understanding Medical Research: Your Facebook Friend is Wrong,Yale University,0.8823529411764703,0.007034547444114429,False,True,False,False,True,False,False
+838,Understanding Modern Finance,American Institute of Business and Economics,0.6470588235294119,0.002970142254181648,False,False,True,False,False,False,True
+839,Understanding Plants - Part I: What a Plant Knows,Tel Aviv University,0.8823529411764703,0.01485071127090824,False,True,False,False,True,False,False
+840,Understanding Research Methods,SOAS University of London,0.7058823529411764,0.03704861653900266,False,False,False,True,True,False,False
+841,Understanding and Visualizing Data with Python,University of Michigan,0.8235294117647058,0.008910426762544943,False,True,False,False,True,False,False
+842,Understanding the Brain: The Neurobiology of Everyday Life,The University of Chicago,0.9411764705882357,0.04017508206972019,False,True,False,False,True,False,False
+843,Unity Certified Programmer Exam Preparation,Unity,0.7058823529411764,0.0014381741441300611,False,False,True,False,False,False,True
+844,Unity XR: How to Build AR and VR Apps,Unity,0.5294117647058825,0.0032827888072534,False,True,False,False,False,False,True
+845,University Teaching,The University of Hong Kong,0.8823529411764703,0.002501172424574019,False,True,False,False,True,False,False
+846,Unraveling the Cycling City,University of Amsterdam,0.9411764705882357,0.0007503517273722059,False,False,True,False,True,False,False
+847,User Experience Research and Design,University of Michigan,0.8823529411764703,0.0067219008910426765,False,True,False,False,False,False,True
+848,User Interface Design,University of Minnesota,0.7647058823529409,0.012974831952477724,False,False,True,False,False,False,True
+849,Using Databases with Python,University of Michigan,0.8823529411764703,0.0683132718461779,False,False,False,True,True,False,False
+850,Using Python to Access Web Data,University of Michigan,0.8823529411764703,0.09645146162263561,False,False,False,True,True,False,False
+851,Using Python to Interact with the Operating System,Google,0.8235294117647058,0.005471314678755667,False,True,False,False,True,False,False
+852,Value Chain Management,University of Illinois at Urbana-Champaign,0.8235294117647058,0.019227763013912772,False,False,True,False,False,False,True
+853,Version Control with Git,Atlassian,0.8823529411764703,0.012036892293262467,False,False,False,True,True,False,False
+854,Viral Marketing and How to Craft Contagious Content,University of Pennsylvania,0.8235294117647058,0.04642801313115524,False,False,False,True,True,False,False
+855,Virtual Reality,"Goldsmiths, University of London",0.8235294117647058,0.01109895263404721,False,True,False,False,False,False,True
+856,Virtual Teacher,"University of California, Irvine",0.588235294117647,0.0067219008910426765,False,True,False,False,False,False,True
+857,Vital Signs: Understanding What the Body Is Telling Us,University of Pennsylvania,0.8823529411764703,0.05893387525402533,False,False,False,True,True,False,False
+858,Web Applications for Everybody,University of Michigan,0.8823529411764703,0.03704861653900266,False,False,True,False,False,False,True
+859,Web Design for Everybody: Basics of Web Development & Coding,University of Michigan,0.8235294117647058,0.08707206503048304,False,True,False,False,False,False,True
+860,Weight Management: Beyond Balancing Calories,Emory University,0.8235294117647058,0.010161012974831954,False,True,False,False,True,False,False
+861,What Is Contemporary Art?,The Museum of Modern Art,0.8235294117647058,0.03704861653900266,False,True,False,False,True,False,False
+862,What future for education?,UCL Institute of Education,0.8235294117647058,0.010473659527903705,False,False,False,True,True,False,False
+863,What is Compliance?,University of Pennsylvania,0.8823529411764703,0.0014694387994372362,False,False,False,True,True,False,False
+864,What is Data Science?,IBM,0.8235294117647058,0.080819133969048,False,True,False,False,True,False,False
+865,What is Social?,Northwestern University,0.7647058823529409,0.028919806159137095,False,False,False,True,True,False,False
+866,Wine Tasting: Sensory Techniques for Wine Analysis,"University of California, Davis",0.8235294117647058,0.009535719868688447,False,True,False,False,True,False,False
+867,Wonders of Ancient Egypt,University of Pennsylvania,0.8823529411764703,0.004846021572612162,False,False,True,False,True,False,False
+868,Write A Feature Length Screenplay For Film Or Television,Michigan State University,0.9411764705882357,0.0032827888072534,False,True,False,False,True,False,False
+869,Write Professional Emails in English,Georgia Institute of Technology,0.8235294117647058,0.08394559949976552,False,False,False,True,True,False,False
+870,Write Your First Novel,Michigan State University,0.6470588235294119,0.005158668125683915,False,True,False,False,True,False,False
+871,Writing in the Sciences,Stanford University,0.9411764705882357,0.04330154760043771,False,True,False,False,True,False,False
+872,e-Learning Ecologies: Innovative Approaches to Teaching and Learning for the Digital Age,University of Illinois at Urbana-Champaign,0.7058823529411764,0.004846021572612162,False,False,False,True,True,False,False
+873,iOS App Development with Swift,University of Toronto,0.3529411764705881,0.023292168203845554,False,False,True,False,False,False,True
+874,¿Qué hacen los buenos directivos? Prioridades de la Alta Dirección,IESE Business School,0.8235294117647058,0.007347193997186181,False,True,False,False,True,False,False
+875,Étudier en France: French Intermediate course B1-B2,École Polytechnique,0.8823529411764703,0.05893387525402533,False,False,True,False,True,False,False
+876,Éxito Profesional,"University of California, Irvine",0.7058823529411764,0.021103642332343287,False,True,False,False,False,False,True
+877,Искусство ведения бизнеса,Saint Petersburg State University,0.7647058823529409,0.003908081913396905,False,True,False,False,False,False,True
+878,Искусство разработки на современном C++,E-Learning Development Fund,0.9411764705882357,0.020790995779271536,False,False,True,False,False,False,True
+879,Корпоративные финансы и стоимость компании,National Research University Higher School of Economics,0.7058823529411764,0.004533375019540409,False,True,False,False,False,False,True
+880,Математика и Python для анализа данных,E-Learning Development Fund,0.8823529411764703,0.02047834922619978,False,True,False,False,True,False,False
+881,Машинное обучение и анализ данных,E-Learning Development Fund,0.8235294117647058,0.023604814756917305,False,False,True,False,False,False,True
+882,Основы Digital Маркетинга,National Research University Higher School of Economics,0.7058823529411764,0.005471314678755667,False,False,True,False,False,False,True
+883,Основы программирования на Python,National Research University Higher School of Economics,0.7647058823529409,0.02548069407534782,False,True,False,False,True,False,False
+884,Основы разработки на C++: белый пояс,E-Learning Development Fund,0.9411764705882357,0.01234953884633422,False,False,True,False,True,False,False
+885,Погружение в Python,Moscow Institute of Physics and Technology,0.8235294117647058,0.013600125058621229,False,False,True,False,True,False,False
+886,Программирование на Python,Mail.Ru Group,0.7058823529411764,0.015788650930123497,False,False,True,False,False,False,True
+887,Психолингвистика (Psycholinguistics),Saint Petersburg State University,0.8823529411764703,0.006096607784899171,False,False,False,True,True,False,False
+888,Разработка интерфейсов: вёрстка и JavaScript,E-Learning Development Fund,0.7058823529411764,0.008910426762544943,False,False,True,False,False,False,True
+889,Русский как иностранный,Saint Petersburg State University,0.7647058823529409,0.002594966390495545,False,False,True,False,False,False,True
+890,Финансовые инструменты для частного инвестора,National Research University Higher School of Economics,0.8235294117647058,0.011411599187118962,False,True,False,False,False,False,True
